@@ -34,17 +34,17 @@ AUSGESCHLOSSEN: DHBW Karlsruhe · DHBW Mosbach · FH Aachen · FOM · Frankfurt 
 | 7 | Uni Göttingen | uni-goettingen.de | [~] KANDIDAT (verify) gut: uni-goettingen.de/en/sponsors/218089.html + /de/594386.html „Wie kann ich fördern?" (Hauptdomain); Sponsoring = Gegenleistung inkl. Nennung mit Logo im Internet. Kontakt: Stabsstelle Kooperation & Innovation. Logo-Verlinkung + Email prüfen. |
 | 8 | Uni Würzburg | uni-wuerzburg.de | [~] RAUS-lean / KEIN FUND: nur Deutschlandstipendium-Sponsoring (Logo-Nutzung des Programms, kein Backlink auf uni-wuerzburg.de). Keine allg. Sponsoring-mit-Link-Seite gefunden → tiefer prüfen, sonst AUSGESCHLOSSEN. |
 | 9 | FAU Erlangen-Nürnberg | fau.de | [~] KANDIDAT (verify): fau.de/outreach/fau-fuer-unternehmen-und-organisationen/ + /outreach/stiften-und-foerdern/ (Hauptdomain) — Sponsoring mit Gegenleistung (Firmenlogo). Mitgliedschaft/Listung evtl. über unibund.fau.de (Subdomain). Hauptdomain-Logowand + Email prüfen. |
-| 10 | Uni Augsburg | uni-augsburg.de | [ ] OFFEN |
-| 11 | Uni Bayreuth | uni-bayreuth.de | [ ] OFFEN |
-| 12 | Uni Regensburg | uni-regensburg.de | [ ] OFFEN |
-| 13 | Uni Konstanz | uni-konstanz.de | [ ] OFFEN |
-| 14 | Uni Freiburg | uni-freiburg.de | [ ] OFFEN |
-| 15 | Uni Mannheim | uni-mannheim.de | [ ] OFFEN |
-| 16 | Uni Duisburg-Essen | uni-due.de | [ ] OFFEN |
-| 17 | Uni Bielefeld | uni-bielefeld.de | [ ] OFFEN |
-| 18 | Uni Kiel (CAU) | uni-kiel.de | [ ] OFFEN |
-| 19 | Uni Jena | uni-jena.de | [ ] OFFEN |
-| 20 | Uni Leipzig | uni-leipzig.de | [ ] OFFEN |
+| 10 | Uni Augsburg | uni-augsburg.de | [~] KANDIDAT (verify): uni-augsburg.de/de/foerderer/foerdermoeglichkeiten/ (Hauptdomain) — „Imagepartnerschaft" via Sponsoring mit Gegenleistung über reine Danksagung hinaus. Logowand/Verlinkung + Email prüfen. |
+| 11 | Uni Bayreuth | uni-bayreuth.de | [~] KANDIDAT (verify): uni-bayreuth.de/.../supporting-the-university (Hauptdomain, fördern/stiften); unternehmensseitiges Sponsoring tlw. auf marketing.uni-bayreuth.de (Subdomain). Kontakt KUK Career Service & Corporate Relations. Hauptdomain-Verlinkung prüfen. |
+| 12 | Uni Regensburg | uni-regensburg.de | [~] KANDIDAT (verify): uni-regensburg.de/forschung/forschungsfoerderung/foerderer/wirtschaft-stiftungen-...-foerderer/ (Hauptdomain); lt. Snippet „Sponsoren-Logos auf Website". Verlinkung + Email prüfen. |
+| 13 | Uni Konstanz | uni-konstanz.de | [~] KANDIDAT (verify) schwach: Hauptdomain-Seiten v.a. interne Sponsoring-Richtlinien/Steuern + Universitätsgesellschaft (uni-konstanz.de/.../stiften-und-foerdern/). Öffentliches Sponsoring-Angebot + Logowand unklar → prüfen. |
+| 14 | Uni Freiburg | uni-freiburg.de | [~] KANDIDAT (verify): uni-freiburg.de/universitaet/foerdern-und-stiften/ (Hauptdomain); Freundes-Verein auf freunde.uni-freiburg.de (Subdomain). Prüfen ob Hauptdomain Sponsoring m. Logo+Link bietet oder nur Spende. |
+| 15 | Uni Mannheim | uni-mannheim.de | [~] KANDIDAT (verify) gut: Sponsoring-Pakete inkl. „Website-Präsenzen"/Branding — aber primär über career.uni-mannheim.de + service.uni-mannheim.de (GmbH, Subdomains). Hauptdomain: uni-mannheim.de/stiftung/foerdern/. Hauptdomain-Logowand prüfen, sonst SUBDOMAIN-Problem. |
+| 16 | Uni Duisburg-Essen | uni-due.de | [~] KANDIDAT (verify): uni-due.de/due-stiftung/stiftenspenden.php + uni-due.de/de/marketing/foerdervereine.php (Hauptdomain); Sponsoringpartnerschaften b. Events. UDE-Stipendium = Deutschlandstip. Logowand/Verlinkung + Email prüfen. |
+| 17 | Uni Bielefeld | uni-bielefeld.de | [~] KANDIDAT (verify) schwach: uni-bielefeld.de/themen/50jahre/sponsoren/ (Event-Sponsoren, evtl. Logos) + UGBi (uni-bielefeld.de/vereine/ugbi/, Hauptdomain-Pfad). Dauerhaftes Sponsoring-Angebot + Verlinkung prüfen. |
+| 18 | Uni Kiel (CAU) | uni-kiel.de | [~] KANDIDAT (verify): uni-kiel.de/foerderer/foerd.shtml + /foerderer/hinweise.shtml (Hauptdomain, „Förderer der CAU"); Alumni&Freunde-Verein auf Subdomain alumniundfreunde.uni-kiel.de. Förderer-Verlinkung + Email prüfen. |
+| 19 | Uni Jena | uni-jena.de | [~] KANDIDAT (verify) schwach: uni-jena.de/32380/spenden + /28480/friends-and-patrons (Hauptdomain) — überwiegend Spende + Freundes-/Förderverein; Sponsoring-mit-Logo-Link unklar → prüfen, ggf. RAUS. |
+| 20 | Uni Leipzig | uni-leipzig.de | [~] KANDIDAT (verify): uni-leipzig.de/universitaet/foerdern-und-unterstuetzen (Hauptdomain) — Spenden/Sponsoring-Projekte mit Partnern; Universitätsgesellschaft auf Subdomain gesellschaft.uni-leipzig.de. Hauptdomain-Logowand + Email prüfen. |
 
 (Uni Bonn = Permanent-Ausschluss; nicht prüfen.)
 

@@ -54,3 +54,14 @@ Master-CSV vom Nutzer übernommen (Single Source of Truth): **55 Datenzeilen**
 | 2026-06-06 | Uni Göttingen | KANDIDAT (verify) gut | uni-goettingen.de/en/sponsors + Förder-Seite Hauptdomain; Gegenleistung Logo im Internet |
 | 2026-06-06 | Uni Würzburg | RAUS-lean | nur Deutschlandstipendium-Logo-Nutzung; keine Sponsoring-mit-Link-Seite gefunden |
 | 2026-06-06 | FAU Erlangen-Nürnberg | KANDIDAT (verify) | fau.de/outreach Hauptdomain Sponsoring m. Firmenlogo; Listung evtl. unibund.fau.de Subdomain |
+| 2026-06-06 | Uni Augsburg | KANDIDAT (verify) | uni-augsburg.de/de/foerderer/foerdermoeglichkeiten Imagepartnerschaft/Sponsoring m. Gegenleistung |
+| 2026-06-06 | Uni Bayreuth | KANDIDAT (verify) | uni-bayreuth.de supporting-the-university; Unternehmen tlw. marketing.uni-bayreuth.de (Subdomain); KUK Kontakt |
+| 2026-06-06 | Uni Regensburg | KANDIDAT (verify) | uni-regensburg.de forschungsfoerderung/foerderer/wirtschaft; lt. Snippet Sponsoren-Logos auf Website |
+| 2026-06-06 | Uni Konstanz | KANDIDAT schwach | Hauptdomain v.a. interne Richtlinien + Universitätsgesellschaft; öff. Angebot unklar |
+| 2026-06-06 | Uni Freiburg | KANDIDAT (verify) | uni-freiburg.de/universitaet/foerdern-und-stiften; Freunde-Verein auf Subdomain |
+| 2026-06-06 | Uni Mannheim | KANDIDAT (verify) | Sponsoring-Pakete inkl. Website-Präsenz, aber via career./service.uni-mannheim.de Subdomains; Hauptdomain stiftung/foerdern |
+| 2026-06-06 | Uni Duisburg-Essen | KANDIDAT (verify) | uni-due.de due-stiftung/stiftenspenden + marketing/foerdervereine; Sponsoringpartnerschaften |
+| 2026-06-06 | Uni Bielefeld | KANDIDAT schwach | uni-bielefeld.de 50jahre/sponsoren (Event) + UGBi Hauptdomain-Pfad |
+| 2026-06-06 | Uni Kiel (CAU) | KANDIDAT (verify) | uni-kiel.de/foerderer Übersicht; Alumni&Freunde auf Subdomain |
+| 2026-06-06 | Uni Jena | KANDIDAT schwach | uni-jena.de/spenden + friends-and-patrons; überwiegend Spende/Freundesverein |
+| 2026-06-06 | Uni Leipzig | KANDIDAT (verify) | uni-leipzig.de/universitaet/foerdern-und-unterstuetzen; Universitätsgesellschaft auf Subdomain |
