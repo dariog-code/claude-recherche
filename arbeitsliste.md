@@ -76,9 +76,9 @@ AUSGESCHLOSSEN: DHBW Karlsruhe · DHBW Mosbach · FH Aachen · FOM · Frankfurt 
 
 | # | Institution | Domain | Disposition |
 |---|-------------|--------|-------------|
-| 39 | Hochschule Aalen | hs-aalen.de | [ ] OFFEN |
-| 40 | Hochschule Heilbronn | hs-heilbronn.de | [ ] OFFEN |
-| 41 | Hochschule Pforzheim | hs-pforzheim.de | [ ] OFFEN |
+| 39 | Hochschule Aalen | hs-aalen.de | [~] RAUS-lean (Domain): Förderverein liegt auf ostwuerttemberg.suedwestmetall.de (suedwestmetall.de = Ausschlussliste, fremde Domain). Hauptdomain hs-aalen.de nur intl. Kooperationen. → AUSGESCHLOSSEN-Kandidat. |
+| 40 | Hochschule Heilbronn | hs-heilbronn.de | [~] KANDIDAT (verify) GUT: hs-heilbronn.de/de/sponsoring + /de/foerderkreis + /1073875/partner-foerderer-und-institute + /de/projektpartner-und-sponsoren (alles Hauptdomain). Förderkreis auch foerderkreis-hhn.de (eigene Domain). Hauptdomain-Logowand/dofollow + Email prüfen → potenziell LINK VERIFIZIERT. |
+| 41 | Hochschule Pforzheim | hs-pforzheim.de | [~] KANDIDAT (verify) GUT: hs-pforzheim.de/unternehmen/dialog_und_standort/infrastruktur_und_ausstattungssponsoring + /veranstaltungssponsoring + /en/university/financial_support_sponsoring (Hauptdomain) — „Firmenlogos begleiten Studierende". FAV-Verein = eigene Domain. Hauptdomain-Verlinkung + Email prüfen. |
 | 42 | Hochschule Furtwangen | hs-furtwangen.de | [ ] PERMANENT-AUSSCHLUSS |
 | 43 | Hochschule Ravensburg-Weingarten (RWU) | rwu.de | [ ] OFFEN |
 | 44 | Hochschule Offenburg | hs-offenburg.de | [ ] OFFEN |

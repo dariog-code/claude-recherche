@@ -83,3 +83,39 @@ Master-CSV vom Nutzer übernommen (Single Source of Truth): **55 Datenzeilen**
 | 2026-06-06 | TH Lübeck | KANDIDAT (verify) | th-luebeck.de/.../foerdergesellschaft; 200+ Mitglieder inkl. Firmen |
 | 2026-06-06 | HS Flensburg | KANDIDAT schwach | Alumni-/Förderverein; kein klares Firmen-Link-Listing |
 | 2026-06-06 | HfT Stuttgart | KANDIDAT (verify) | hft-stuttgart.de/hft/foerderer-unterstuetzer; Sponsoring-Optionen f. Unternehmen |
+| 2026-06-06 | Hochschule Aalen | RAUS-lean (Domain) | Förderverein auf ostwuerttemberg.suedwestmetall.de (Ausschlussliste) |
+| 2026-06-06 | Hochschule Heilbronn | KANDIDAT (verify) GUT | hs-heilbronn.de/de/sponsoring + /de/foerderkreis + projektpartner-und-sponsoren Hauptdomain |
+| 2026-06-06 | Hochschule Pforzheim | KANDIDAT (verify) GUT | hs-pforzheim.de/unternehmen/.../infrastruktur_und_ausstattungssponsoring + veranstaltungssponsoring Hauptdomain |
+
+---
+
+## ABSCHLUSSBERICHT (Session 2026-06-06)
+
+### Wichtigster Punkt: Netzwerk-Blocker (siehe oben)
+Die Kern-Verifikation (HTML/`<a href>`-Linkprüfung + Hunter Email-Verifier) war **nicht möglich**, weil die Netzwerk-Allowlist dieser Cloud-Environment **alle Hochschul-Domains UND api.hunter.io blockt** (HTTP 403 `host_not_allowed`). WebSearch (über Anthropic) war das einzige verfügbare Recherchewerkzeug. Der vom Nutzer gelieferte Hunter-Key ist gespeichert, aber bis zur Allowlist-Freigabe wirkungslos.
+
+**Damit eine Folge-Session die echte Verifikation leisten kann, bitte EINES tun:**
+- Environment-Netzwerk-Policy auf „No network restrictions" stellen, ODER
+- der Allowlist `api.hunter.io` + Hochschul-Domains (bzw. `*`) hinzufügen.
+
+### Geleistet (Degraded-Mode, nur WebSearch-Discovery)
+- Master-CSV als SSOT übernommen + committet (unverändert, 55 Datenzeilen; **bewusst nicht mit unverifizierten Zeilen verwässert**).
+- `arbeitsliste.md` aufgebaut (Startreihenfolge + erste BW-HAW) und mit Discovery-Befunden gefüllt.
+- **41 Institutionen** per WebSearch vor-recherchiert (Startreihenfolge 1+2 vollständig = 38, plus 3 BW-HAW).
+
+### Discovery-Ergebnis (provisorisch, Link-/Email-Verifikation steht aus)
+- **KANDIDAT (verify) — stark** (Hauptdomain-Sponsoring + Logos-auf-Website laut Snippet, potenziell LINK VERIFIZIERT): **HTWK Leipzig**, **HS Heilbronn**, **HS Pforzheim**, **Uni Göttingen**, Uni Mannheim, Uni Regensburg.
+- **KANDIDAT (verify) — normal**: TU Berlin, TU Darmstadt, RPTU, FAU, Uni Augsburg, Uni Bayreuth, Uni Freiburg, Uni Duisburg-Essen, Uni Kiel (CAU), Uni Leipzig, HS Merseburg, EAH Jena, HS Stralsund, FH Kiel, TH Lübeck, HfT Stuttgart.
+- **KANDIDAT schwach**: TU Dresden, Uni Konstanz, Uni Bielefeld, Uni Jena, TH Wildau, HTW Dresden, HS Flensburg.
+- **RAUS-lean (Modell/Domain)**: TU Braunschweig (kein aktives Sponsoring), Uni Würzburg (Deutschlandstip.-only), HS Magdeburg-Stendal (Deutschlandstip.), HS Wismar (Kooperations-/Praxispartner), HS Aalen (Förderverein auf suedwestmetall.de).
+- **KEIN FUND (per WebSearch)** — manuell tiefer prüfen: TU Dortmund, TH Brandenburg, HS Anhalt, HS Mittweida, HS Nordhausen, HS Neubrandenburg, HS Schmalkalden.
+
+### Empfohlene nächste Schritte (Folge-Session mit offenem Netz)
+1. Zuerst die 6 **starken** Kandidaten verifizieren (curl-HTML: ≥6 verlinkte Firmen-Domains, dofollow? + Hunter-Email) → wahrscheinlichste neue LINK-VERIFIZIERT/SPONSORING-SEITE-Einträge.
+2. Dann die 16 normalen Kandidaten; SUBDOMAIN-Fälle (z.B. Uni Mannheim career./service., Uni Bayreuth marketing.) auf Hauptdomain-Pendant prüfen.
+3. RAUS-lean bestätigen und als AUSGESCHLOSSEN in Master-CSV übernehmen.
+4. Rest der ~400 Institutionen aus dem Hochschulkompass abarbeiten (Startreihenfolge 3 + alle übrigen HAW/private HS).
+
+### Manuelle Nachprüfung nötig
+- Alle „KEIN FUND"-Fälle (WebSearch lieferte keine eindeutige Hauptdomain-Seite).
+- Alle Kandidaten generell, da Dofollow/Subdomain/≥6-Firmen + Email in dieser Session technisch nicht prüfbar waren.
