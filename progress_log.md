@@ -73,3 +73,13 @@ Master-CSV vom Nutzer übernommen (Single Source of Truth): **55 Datenzeilen**
 | 2026-06-06 | HS Mittweida | KEIN FUND/SUBDOMAIN | nur 150jahre.hs-mittweida.de Jubiläums-Sponsoren (Subdomain) |
 | 2026-06-06 | HTW Dresden | KANDIDAT schwach | Förderverein + Deutschlandstip. + Spende; Sponsoring-mit-Link unklar |
 | 2026-06-06 | HTWK Leipzig | KANDIDAT (verify) GUT | partner-und-foerderer Hauptdomain; Logos auf Website lt. Snippet; Siemens/Festo/BMW → evtl. LINK VERIFIZIERT |
+| 2026-06-06 | HS Schmalkalden | KEIN FUND | keine Hauptdomain-Sponsoring-Seite gefunden |
+| 2026-06-06 | EAH Jena | KANDIDAT (verify) | eah-jena.de/hochschule/foerderkreis + /bw/partner-und-sponsoren Hauptdomain |
+| 2026-06-06 | HS Nordhausen | KEIN FUND | nur Corporate Identity/HIKE |
+| 2026-06-06 | HS Stralsund | KANDIDAT (verify) | hochschule-stralsund.de Hochschulförderverein; 24 Firmen; Logo auf Website lt. Snippet |
+| 2026-06-06 | HS Wismar | RAUS-lean | Deutschlandstip. + Kooperations-/Wirtschaftspartner (operativ) |
+| 2026-06-06 | HS Neubrandenburg | KEIN FUND | keine Hauptdomain-Seite gefunden |
+| 2026-06-06 | FH Kiel | KANDIDAT (verify) | fh-kiel.de/.../starting/sponsoren-und-foerderer (Projekt Raceyard); Sponsoren-Galerie |
+| 2026-06-06 | TH Lübeck | KANDIDAT (verify) | th-luebeck.de/.../foerdergesellschaft; 200+ Mitglieder inkl. Firmen |
+| 2026-06-06 | HS Flensburg | KANDIDAT schwach | Alumni-/Förderverein; kein klares Firmen-Link-Listing |
+| 2026-06-06 | HfT Stuttgart | KANDIDAT (verify) | hft-stuttgart.de/hft/foerderer-unterstuetzer; Sponsoring-Optionen f. Unternehmen |

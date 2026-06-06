@@ -60,16 +60,16 @@ AUSGESCHLOSSEN: DHBW Karlsruhe · DHBW Mosbach · FH Aachen · FOM · Frankfurt 
 | 26 | HS Mittweida | hs-mittweida.de | [~] KEIN FUND / SUBDOMAIN: nur 150jahre.hs-mittweida.de/sponsoren/ (Jubiläums-Event, Subdomain). Hauptdomain-Pendant suchen, sonst RAUS. |
 | 27 | HTW Dresden | htw-dresden.de | [~] KANDIDAT schwach: htw-dresden.de/hochschule/organisation/foerderverein + /dstip (Deutschlandstip.) + Spendenformular; überwiegend Spende/Förderverein → prüfen, ggf. RAUS. |
 | 28 | HTWK Leipzig | htwk-leipzig.de | [~] KANDIDAT (verify) GUT: htwk-leipzig.de/kooperieren/foerdern-stiften/partner-und-foerderer (Hauptdomain) — lt. Snippet „Logos der Förderer auf Spenderwand UND auf der Website"; Mitglieder u.a. Siemens, enviaM, Festo, BMW Leipzig. Verlinkung (dofollow, ≥6) + Email prüfen → potenziell LINK VERIFIZIERT. |
-| 29 | HS Schmalkalden | hs-schmalkalden.de | [ ] OFFEN |
-| 30 | EAH Jena | eah-jena.de | [ ] OFFEN |
-| 31 | HS Nordhausen | hs-nordhausen.de | [ ] OFFEN |
-| 32 | HS Stralsund | hochschule-stralsund.de | [ ] OFFEN |
-| 33 | HS Wismar | hs-wismar.de | [ ] OFFEN |
-| 34 | HS Neubrandenburg | hs-nb.de | [ ] OFFEN |
-| 35 | FH Kiel | fh-kiel.de | [ ] OFFEN |
-| 36 | TH Lübeck | th-luebeck.de | [ ] OFFEN |
-| 37 | HS Flensburg | hs-flensburg.de | [ ] OFFEN |
-| 38 | HfT Stuttgart | hft-stuttgart.de | [ ] OFFEN |
+| 29 | HS Schmalkalden | hs-schmalkalden.de | [~] KEIN FUND: keine Hauptdomain-Sponsoring/Förderkreis-Seite per WebSearch → tiefer prüfen. |
+| 30 | EAH Jena | eah-jena.de | [~] KANDIDAT (verify): eah-jena.de/hochschule/foerderkreis + eah-jena.de/bw/partner-und-sponsoren (Hauptdomain); Förderkreis seit 1993 + Deutschlandstip. Verlinkung der Partner/Sponsoren prüfen. |
+| 31 | HS Nordhausen | hs-nordhausen.de | [~] KEIN FUND: nur Corporate Identity/HIKE; keine Sponsoring-Seite gefunden → tiefer prüfen, ggf. RAUS. |
+| 32 | HS Stralsund | hochschule-stralsund.de | [~] KANDIDAT (verify): hochschule-stralsund.de/host/leben-und-region/hochschulfoerderverein/ (Hauptdomain); 24 Firmen-Mitglieder, lt. Snippet Name+Logo auf Website. Verlinkung + Email prüfen. |
+| 33 | HS Wismar | hs-wismar.de | [~] RAUS-lean: Förderer = Deutschlandstipendium; „unternehmerische HS" mit Kooperations-/Wirtschaftspartnern (operativ). Kein loses Sponsoring-mit-Logowand-Angebot gefunden → prüfen, ggf. AUSGESCHLOSSEN. |
+| 34 | HS Neubrandenburg | hs-nb.de | [~] KEIN FUND: keine Hauptdomain-Sponsoring-Seite gefunden → tiefer prüfen. |
+| 35 | FH Kiel | fh-kiel.de | [~] KANDIDAT (verify): fh-kiel.de/fachbereiche/maschinenwesen/.../starting/sponsoren-und-foerderer/ (Hauptdomain-Pfad, Projekt Raceyard/Formula Student) — Sponsoren-Galerie; projektspezifisch, aber Logos+Links plausibel. Verlinkung prüfen. |
+| 36 | TH Lübeck | th-luebeck.de | [~] KANDIDAT (verify): th-luebeck.de/hochschule/wir-ueber-uns/netzwerke/foerdergesellschaft/ (Hauptdomain); Fördergesellschaft 200+ Mitglieder inkl. Firmen. Verlinkung/Logowand + Email prüfen. |
+| 37 | HS Flensburg | hs-flensburg.de | [~] KANDIDAT schwach: hs-flensburg.de Alumni- und Förderverein; kein klares Firmen-Sponsoren-mit-Link-Listing gefunden → prüfen, ggf. RAUS. |
+| 38 | HfT Stuttgart | hft-stuttgart.de | [~] KANDIDAT (verify): hft-stuttgart.de/hft/foerderer-unterstuetzer/foerdermoeglichkeiten + /foerderverein (Hauptdomain); „Sponsoring-Optionen für Unternehmen, Markenbekanntheit". Förderung tlw. Stipendien-lastig (Deutschlandstip.). Logowand/Verlinkung + Email prüfen. |
 
 ## STARTREIHENFOLGE 3 — weitere HAW (BY/BW/NRW/Nds) + private HS
 (wird im Lauf ergänzt)
