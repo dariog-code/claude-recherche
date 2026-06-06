@@ -65,3 +65,11 @@ Master-CSV vom Nutzer übernommen (Single Source of Truth): **55 Datenzeilen**
 | 2026-06-06 | Uni Kiel (CAU) | KANDIDAT (verify) | uni-kiel.de/foerderer Übersicht; Alumni&Freunde auf Subdomain |
 | 2026-06-06 | Uni Jena | KANDIDAT schwach | uni-jena.de/spenden + friends-and-patrons; überwiegend Spende/Freundesverein |
 | 2026-06-06 | Uni Leipzig | KANDIDAT (verify) | uni-leipzig.de/universitaet/foerdern-und-unterstuetzen; Universitätsgesellschaft auf Subdomain |
+| 2026-06-06 | TH Wildau | KANDIDAT schwach | Freunde/Förderer + Fördergesellschaft auf Hauptdomain-Pfad; Förderstiftung eigene Domain |
+| 2026-06-06 | TH Brandenburg | KEIN FUND | nur gruendung.th-brandenburg.de Subdomain; keine Hauptdomain-Sponsoring-Seite |
+| 2026-06-06 | HS Magdeburg-Stendal (h2.de) | RAUS-lean | überwiegend Deutschlandstipendium; Förderer evtl. nur Textnennung |
+| 2026-06-06 | HS Merseburg | KANDIDAT (verify) | Förderungen + Förderkreis Hauptdomain; Sponsoring n. Absprache; Kontakt karriere@hs-merseburg.de |
+| 2026-06-06 | HS Anhalt | KEIN FUND | keine konkrete Hauptdomain-Seite gefunden |
+| 2026-06-06 | HS Mittweida | KEIN FUND/SUBDOMAIN | nur 150jahre.hs-mittweida.de Jubiläums-Sponsoren (Subdomain) |
+| 2026-06-06 | HTW Dresden | KANDIDAT schwach | Förderverein + Deutschlandstip. + Spende; Sponsoring-mit-Link unklar |
+| 2026-06-06 | HTWK Leipzig | KANDIDAT (verify) GUT | partner-und-foerderer Hauptdomain; Logos auf Website lt. Snippet; Siemens/Festo/BMW → evtl. LINK VERIFIZIERT |

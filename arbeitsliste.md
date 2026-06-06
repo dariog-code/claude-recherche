@@ -52,14 +52,14 @@ AUSGESCHLOSSEN: DHBW Karlsruhe · DHBW Mosbach · FH Aachen · FOM · Frankfurt 
 
 | # | Institution | Domain | Disposition |
 |---|-------------|--------|-------------|
-| 21 | TH Wildau | th-wildau.de | [ ] OFFEN |
-| 22 | TH Brandenburg | th-brandenburg.de | [ ] OFFEN |
-| 23 | HS Magdeburg-Stendal | h2.de | [ ] OFFEN |
-| 24 | HS Merseburg | hs-merseburg.de | [ ] OFFEN |
-| 25 | HS Anhalt | hs-anhalt.de | [ ] OFFEN |
-| 26 | HS Mittweida | hs-mittweida.de | [ ] OFFEN |
-| 27 | HTW Dresden | htw-dresden.de | [ ] OFFEN |
-| 28 | HTWK Leipzig | htwk-leipzig.de | [ ] OFFEN |
+| 21 | TH Wildau | th-wildau.de | [~] KANDIDAT schwach: Gesellschaft d. Freunde u. Förderer + Fördergesellschaft auf th-wildau.de/hochschule/...-vereine/ (Hauptdomain-Pfad); Förderstiftung = eigene Domain. Vermutl. nur Textlisten → prüfen, ggf. RAUS. |
+| 22 | TH Brandenburg | th-brandenburg.de | [~] KEIN FUND: keine Hauptdomain-Sponsoring-mit-Gegenleistung-Seite gefunden; nur gruendung.th-brandenburg.de (Subdomain). Tiefer suchen, sonst RAUS. |
+| 23 | HS Magdeburg-Stendal | h2.de | [~] RAUS-lean: überwiegend Deutschlandstipendium (42–44 Firmen genannt, Spendenbescheinigung); h2.de/.../standort-stendal/foerderer.html = Förderer evtl. nur Textnennung → prüfen, sonst AUSGESCHLOSSEN. |
+| 24 | HS Merseburg | hs-merseburg.de | [~] KANDIDAT (verify): hs-merseburg.de/netzwerk-und-kooperationen/foerderungen/ + /foerderkreis-... (Hauptdomain); Sponsoring n. Absprache (Stand/Promotion) + Förderkreis (Firma 250€). Kontakt karriere@hs-merseburg.de (D. Hörnicke). Verlinkung prüfen. |
+| 25 | HS Anhalt | hs-anhalt.de | [~] KEIN FUND: keine konkrete Hauptdomain-Sponsoring/Förderkreis-Seite per WebSearch gefunden → tiefer prüfen. |
+| 26 | HS Mittweida | hs-mittweida.de | [~] KEIN FUND / SUBDOMAIN: nur 150jahre.hs-mittweida.de/sponsoren/ (Jubiläums-Event, Subdomain). Hauptdomain-Pendant suchen, sonst RAUS. |
+| 27 | HTW Dresden | htw-dresden.de | [~] KANDIDAT schwach: htw-dresden.de/hochschule/organisation/foerderverein + /dstip (Deutschlandstip.) + Spendenformular; überwiegend Spende/Förderverein → prüfen, ggf. RAUS. |
+| 28 | HTWK Leipzig | htwk-leipzig.de | [~] KANDIDAT (verify) GUT: htwk-leipzig.de/kooperieren/foerdern-stiften/partner-und-foerderer (Hauptdomain) — lt. Snippet „Logos der Förderer auf Spenderwand UND auf der Website"; Mitglieder u.a. Siemens, enviaM, Festo, BMW Leipzig. Verlinkung (dofollow, ≥6) + Email prüfen → potenziell LINK VERIFIZIERT. |
 | 29 | HS Schmalkalden | hs-schmalkalden.de | [ ] OFFEN |
 | 30 | EAH Jena | eah-jena.de | [ ] OFFEN |
 | 31 | HS Nordhausen | hs-nordhausen.de | [ ] OFFEN |
