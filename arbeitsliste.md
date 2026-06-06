@@ -25,15 +25,15 @@ AUSGESCHLOSSEN: DHBW Karlsruhe · DHBW Mosbach · FH Aachen · FOM · Frankfurt 
 
 | # | Institution | Domain | Disposition |
 |---|-------------|--------|-------------|
-| 1 | TU Berlin | tu-berlin.de | [ ] OFFEN |
-| 2 | TU Dresden | tu-dresden.de | [ ] OFFEN |
-| 3 | TU Darmstadt | tu-darmstadt.de | [ ] OFFEN |
-| 4 | TU Braunschweig | tu-braunschweig.de | [ ] OFFEN |
-| 5 | TU Dortmund | tu-dortmund.de | [ ] OFFEN |
-| 6 | RPTU Kaiserslautern-Landau | rptu.de | [ ] OFFEN |
-| 7 | Uni Göttingen | uni-goettingen.de | [ ] OFFEN |
-| 8 | Uni Würzburg | uni-wuerzburg.de | [ ] OFFEN |
-| 9 | FAU Erlangen-Nürnberg | fau.de | [ ] OFFEN |
+| 1 | TU Berlin | tu.berlin | [~] KANDIDAT (verify): tu.berlin/en/about/friends-patrons-alumni/sponsoring-and-donating + /finanzen/.../sponsoring — Hauptdomain (tu.berlin), aktives Sponsoring mit Gegenleistung (Logo) beschrieben. Logowand/Verlinkung + Email prüfen. |
+| 2 | TU Dresden | tu-dresden.de | [~] KANDIDAT (verify) schwach: Hauptdomain-Seite tu-dresden.de/tu-dresden/spenden vorhanden, aber meist Spende o. Gegenleistung; Deutschlandstip.-Seite = Logo nur auf Event-Slides (kein Web-Link); GFF/Stiftung = Förderverein. Sponsoring-mit-Web-Logo nicht belegt → prüfen, sonst RAUS. |
+| 3 | TU Darmstadt | tu-darmstadt.de | [~] KANDIDAT (verify): Hauptdomain-Seiten tu-darmstadt.de/wissenstransfer/kooperation_mit_unternehmen/werbung_promotion/ + /scc/.../universitaetsfoerderung/ vorhanden; konkrete Sponsoring/Spenden-Details liegen auf SUBDOMAIN intern.tu-darmstadt.de. Hauptdomain-Verlinkung prüfen. |
+| 4 | TU Braunschweig | tu-braunschweig.de | [~] RAUS (Modell): TU betreibt laut eigener Aussage KEIN aktives Sponsoring; Partner werden ohne Links gelistet (Sandkasten), Deutschlandstip.-Förderer. → AUSGESCHLOSSEN-Kandidat (kein verlinktes Sponsoring). |
+| 5 | TU Dortmund | tu-dortmund.de | [~] KEIN FUND: keine allg. Hauptdomain-Sponsoring-mit-Gegenleistung-Seite gefunden; nur Event-Sponsoren (SchnupperUni) + /en/partners/ + Förder-Subdomains. Tiefer suchen, sonst RAUS. |
+| 6 | RPTU Kaiserslautern-Landau | rptu.de | [~] KANDIDAT (verify): rptu.de/ueber-die-rptu/stiften-und-foerdern/moeglichkeiten-und-vorteile (Hauptdomain) — Sponsoring mit Gegenleistung; steuerl. Sponsoring aber über proCampus GmbH, Stiftung + Freundeskreis (freundeskreis-rptu.de = eigene Domain). Logowand/Verlinkung + Email prüfen. |
+| 7 | Uni Göttingen | uni-goettingen.de | [~] KANDIDAT (verify) gut: uni-goettingen.de/en/sponsors/218089.html + /de/594386.html „Wie kann ich fördern?" (Hauptdomain); Sponsoring = Gegenleistung inkl. Nennung mit Logo im Internet. Kontakt: Stabsstelle Kooperation & Innovation. Logo-Verlinkung + Email prüfen. |
+| 8 | Uni Würzburg | uni-wuerzburg.de | [~] RAUS-lean / KEIN FUND: nur Deutschlandstipendium-Sponsoring (Logo-Nutzung des Programms, kein Backlink auf uni-wuerzburg.de). Keine allg. Sponsoring-mit-Link-Seite gefunden → tiefer prüfen, sonst AUSGESCHLOSSEN. |
+| 9 | FAU Erlangen-Nürnberg | fau.de | [~] KANDIDAT (verify): fau.de/outreach/fau-fuer-unternehmen-und-organisationen/ + /outreach/stiften-und-foerdern/ (Hauptdomain) — Sponsoring mit Gegenleistung (Firmenlogo). Mitgliedschaft/Listung evtl. über unibund.fau.de (Subdomain). Hauptdomain-Logowand + Email prüfen. |
 | 10 | Uni Augsburg | uni-augsburg.de | [ ] OFFEN |
 | 11 | Uni Bayreuth | uni-bayreuth.de | [ ] OFFEN |
 | 12 | Uni Regensburg | uni-regensburg.de | [ ] OFFEN |

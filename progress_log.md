@@ -45,3 +45,12 @@ Master-CSV vom Nutzer übernommen (Single Source of Truth): **55 Datenzeilen**
 
 | Zeitstempel | Institution | Disposition (Discovery) | Notiz |
 |-------------|-------------|--------------------------|-------|
+| 2026-06-06 | TU Berlin | KANDIDAT (verify) | tu.berlin sponsoring-and-donating Hauptdomain, Gegenleistung Logo; Verlink./Email offen (Netz-Blocker) |
+| 2026-06-06 | TU Dresden | KANDIDAT schwach | Hauptdomain /spenden, aber Spende o. Gegenleistung; Deutschlandstip.-Logo nur Event-Slides; GFF Förderverein |
+| 2026-06-06 | TU Darmstadt | KANDIDAT (verify) | Hauptdomain werbung_promotion/universitaetsfoerderung; Detail auf Subdomain intern.tu-darmstadt.de |
+| 2026-06-06 | TU Braunschweig | RAUS (Modell) | kein aktives Sponsoring lt. eigener Aussage; Partner ohne Links → AUSSCHLUSS-Kandidat |
+| 2026-06-06 | TU Dortmund | KEIN FUND | keine allg. Hauptdomain-Sponsoring-Seite; nur Event-Sponsoren + Subdomains |
+| 2026-06-06 | RPTU Kaiserslautern-Landau | KANDIDAT (verify) | rptu.de stiften-und-foerdern Hauptdomain; Sponsoring via proCampus GmbH; Freundeskreis eigene Domain |
+| 2026-06-06 | Uni Göttingen | KANDIDAT (verify) gut | uni-goettingen.de/en/sponsors + Förder-Seite Hauptdomain; Gegenleistung Logo im Internet |
+| 2026-06-06 | Uni Würzburg | RAUS-lean | nur Deutschlandstipendium-Logo-Nutzung; keine Sponsoring-mit-Link-Seite gefunden |
+| 2026-06-06 | FAU Erlangen-Nürnberg | KANDIDAT (verify) | fau.de/outreach Hauptdomain Sponsoring m. Firmenlogo; Listung evtl. unibund.fau.de Subdomain |
