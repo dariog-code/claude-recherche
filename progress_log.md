@@ -135,3 +135,8 @@ Die Kern-Verifikation (HTML/`<a href>`-Linkprüfung + Hunter Email-Verifier) war
 | 2026-06-06 | Westfälische HS Gelsenkirchen | KANDIDAT (verify) GUT | w-hs.de/hochschule/partner-und-foerderer + fk-ge/mitglieder Hauptdomain |
 | 2026-06-06 | HS Rhein-Waal | KANDIDAT schwach | Hauptdomain beschreibt 3 Fördervereine, die auf eigenen Domains liegen |
 | 2026-06-06 | HS Hamm-Lippstadt | KANDIDAT (verify) GUT | hshl.de/forschung-unternehmen/foerderer/sponsoren (Hörsaalsponsoring) Hauptdomain |
+| 2026-06-06 | HS Bielefeld (HSBI) | KANDIDAT schwach | hsbi.de/foerdergesellschaft (in Entw.) + Partnerunternehmen (operativ) |
+| 2026-06-06 | HS Hannover | KANDIDAT (verify) | hs-hannover.de/.../foerderung; Fakultäts-Fördervereine |
+| 2026-06-06 | Leibniz Uni Hannover (Bonus) | KANDIDAT (verify) | uni-hannover.de/.../fundraising/sponsoring Hauptdomain |
+| 2026-06-06 | Ostfalia HS | KANDIDAT schwach/RAUS-lean | Partnerunternehmen (Logistik/dual) + Event-Sponsoring |
+| 2026-06-06 | HS Emden/Leer | KANDIDAT schwach/RAUS-lean | Partnerunternehmen (Praxisverbund/dual) + Förderkreis (oldweb) |

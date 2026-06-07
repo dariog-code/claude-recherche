@@ -105,6 +105,11 @@ AUSGESCHLOSSEN: DHBW Karlsruhe · DHBW Mosbach · FH Aachen · FOM · Frankfurt 
 | 56 | Westfälische Hochschule (Gelsenkirchen) | w-hs.de | [~] KANDIDAT (verify) GUT: w-hs.de/hochschule/partner-und-foerderer/ + w-hs.de/fk-ge/mitglieder/ (Hauptdomain, Förderkreis-Mitgliederseite). Logos/Verlinkung + Email prüfen. |
 | 57 | Hochschule Rhein-Waal | hochschule-rhein-waal.de | [~] KANDIDAT schwach: hochschule-rhein-waal.de/.../supporters-and-friends-associations (Hauptdomain), aber 3 Fördervereine auf eigenen Domains (foerderverein-hrw.de, campus-cleve.eu). Hauptdomain-Logowand unklar → prüfen. |
 | 58 | Hochschule Hamm-Lippstadt (HSHL) | hshl.de | [~] KANDIDAT (verify) GUT: hshl.de/forschung-unternehmen/foerderer/sponsoren/ (Hauptdomain, „Sponsoren" – Hörsaal-/Seminarraum-Sponsoring) + /transfer/foerderer/partnerunternehmen/. Logos/dofollow + Email prüfen. |
+| 59 | Hochschule Bielefeld (HSBI) | hsbi.de | [~] KANDIDAT schwach: hsbi.de/foerdergesellschaft (Hauptdomain, „in Entwicklung") + Partnerunternehmen (Praxisbüro, eher operativ). Prüfen ob Förderer mit Logos verlinkt. |
+| 60 | Hochschule Hannover | hs-hannover.de | [~] KANDIDAT (verify): hs-hannover.de/ueber-uns/profil/wer-wir-sind/foerderung/ (Hauptdomain); Förderung über mehrere Fakultäts-Fördervereine. Verlinkung prüfen. |
+| 61 | Leibniz Uni Hannover (Bonus aus Suche) | uni-hannover.de | [~] KANDIDAT (verify): uni-hannover.de/de/universitaet/freunde-und-foerderer/fundraising/sponsoring/ (Hauptdomain, „Sponsoring"). Logowand/Verlinkung + Email prüfen. |
+| 62 | Ostfalia HS (Braunschweig/Wolfenbüttel) | ostfalia.de | [~] KANDIDAT schwach/RAUS-lean: v.a. Partnerunternehmen (Logistik/dual, operativ) + event-/kongressbezogenes Sponsoring auf Unterseiten. Kein loses Hauptdomain-Logowand-Angebot klar → prüfen. |
+| 63 | Hochschule Emden/Leer | hs-emden-leer.de | [~] KANDIDAT schwach/RAUS-lean: Partnerunternehmen (Praxisverbund/dual) + Förderkreis Ostfriesland (oldweb); operativ geprägt → prüfen, ggf. RAUS. |
 
 ## Fortschritt
 - Stand Beginn: 55 Master-Zeilen vorhanden; Discovery läuft.
