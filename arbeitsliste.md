@@ -93,5 +93,15 @@ AUSGESCHLOSSEN: DHBW Karlsruhe · DHBW Mosbach · FH Aachen · FOM · Frankfurt 
 
 ---
 
+## STARTREIHENFOLGE 3b — NRW HAW (Discovery fortlaufend)
+
+| # | Institution | Domain | Disposition |
+|---|-------------|--------|-------------|
+| 51 | Hochschule Niederrhein | hs-niederrhein.de | [~] KANDIDAT schwach/RAUS-lean: hs-niederrhein.de/angebote-fuer-unternehmen/ + Deutschlandstip.-Partner (viele Firmen, employer branding); Spenden. Sponsoring-mit-Logowand auf Hauptdomain unklar → prüfen. |
+| 52 | FH Münster | fh-muenster.de | [~] KEIN FUND: keine Förderer-/Sponsoren-Seite gefunden (Treffer betrafen uni-muenster.de = separat/ausgeschlossen). Tiefer prüfen. |
+| 53 | TH OWL | th-owl.de | [~] KANDIDAT (verify): th-owl.de/hochschule/organisation/foerdervereine/ (Hauptdomain); Hochschulgesellschaft OWL e.V. + Fakultäts-Fördervereine. Verlinkung prüfen. |
+| 54 | Hochschule Ruhr West (HRW) | hochschule-ruhr-west.de | [~] KANDIDAT (verify): hochschule-ruhr-west.de/kooperationen/foerderverein + /kooperationen/unternehmen-gesellschaft/angebote-fuer-unternehmen/ (Hauptdomain). Logowand/Verlinkung + Email prüfen. |
+
 ## Fortschritt
 - Stand Beginn: 55 Master-Zeilen vorhanden; Discovery läuft.
+- 2026-06-06: 53 Institutionen per WebSearch-Discovery vor-recherchiert (Startreihenfolge 1+2 komplett + BW/Bayern/NRW-HAW). Verifikation (Links/Hunter) weiterhin durch Netzwerk-Allowlist blockiert.

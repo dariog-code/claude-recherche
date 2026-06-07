@@ -127,3 +127,7 @@ Die Kern-Verifikation (HTML/`<a href>`-Linkprüfung + Hunter Email-Verifier) war
 | 2026-06-06 | HS Landshut | KANDIDAT (verify) | Freundeskreis (BMW/Flottweg/ebm-papst/ERLUS); Hauptdomain-Logoseite suchen |
 | 2026-06-06 | TH Rosenheim | KANDIDAT (verify) | th-rosenheim.de foerdervereine + labor unterstuetzer-und-sponsoren Hauptdomain |
 | 2026-06-06 | HS Kempten | (bereits AUSGESCHLOSSEN) | Hinweis: Förderkreis + Hörsaal-/Laborsponsoring (Bosch/Siemens) evtl. später reconsidern |
+| 2026-06-06 | HS Niederrhein | KANDIDAT schwach/RAUS-lean | angebote-fuer-unternehmen + Deutschlandstip.-Partner (employer branding) |
+| 2026-06-06 | FH Münster | KEIN FUND | keine Förderer-/Sponsoren-Seite (Treffer = uni-muenster.de separat) |
+| 2026-06-06 | TH OWL | KANDIDAT (verify) | th-owl.de/.../foerdervereine; Hochschulgesellschaft OWL e.V. |
+| 2026-06-06 | HS Ruhr West | KANDIDAT (verify) | hochschule-ruhr-west.de/kooperationen/foerderverein + angebote-fuer-unternehmen |
