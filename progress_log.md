@@ -175,3 +175,11 @@ HTWK Leipzig · HS Heilbronn · HS Pforzheim · Uni Göttingen · Uni Mannheim �
 | 2026-06-06 | HHL Leipzig (privat) | KANDIDAT schwach | hhl.de about-hhl + foundation; Kuratorium mit Firmen |
 | 2026-06-06 | Constructor University Bremen (privat) | KEIN FUND | stiftungsfinanziert; keine Sponsoren-/Partner-Logoseite |
 | 2026-06-06 | EBS Universität (privat) | KANDIDAT (verify) schwach | ebs.edu our-network/corporate-partners; McKinsey/Mercedes/UBS + Deutschlandstip. |
+| 2026-06-06 | HfWU Nürtingen-Geislingen | KANDIDAT (verify) | hfwu.de/wirtschaftskontakte + Hochschulbund; STIHL/Festool/LBBW |
+| 2026-06-06 | hsg Bochum | KANDIDAT (verify) schwach | hs-gesundheit.de/netzwerk/strategische-partner; Kliniken + Deutschlandstip. |
+
+### ABSCHLUSS-UPDATE 2 (Stand ~90 Institutionen vor-recherchiert)
+Abgedeckt: alle großen Unis (Startreihenfolge 1) + HAW/TH in allen 16 Bundesländern (Schwerpunkt Sachsen, Sachsen-Anhalt, Thüringen, MV, SH, Berlin/Brandenburg, NDS, Bremen, NRW, Hessen, RLP, BW, Bayern) + erste private Hochschulen.
+**Starke Kandidaten (Priorität Verifikation), 13:** HTWK Leipzig · HS Heilbronn · HS Pforzheim · Uni Göttingen · Uni Mannheim · Uni Regensburg · HS Augsburg · Westf. HS Gelsenkirchen · HS Hamm-Lippstadt · HS Albstadt-Sigmaringen · HS Worms · WHU · Zeppelin Uni.
+**Noch offen für spätere Discovery-Runden:** restliche private HS (SRH, IU, Fresenius, Macromedia, CBS, ISM, Hertie, Kühne Logistics, CODE, GISMA …), einzelne kleinere/konfessionelle HAW, Musik-/Kunsthochschulen (meist irrelevant).
+**Unverändert gilt:** Verifikation (Dofollow-Links ≥6 Firmen + Hunter-Email) steht für ALLE Kandidaten aus, bis die Netzwerk-Allowlist geöffnet ist.

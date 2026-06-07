@@ -143,6 +143,10 @@ AUSGESCHLOSSEN: DHBW Karlsruhe · DHBW Mosbach · FH Aachen · FOM · Frankfurt 
 | 89 | HHL Leipzig (privat) | hhl.de | [~] KANDIDAT schwach: hhl.de/about-hhl + hhl-foundation; Kuratorium mit Firmen, aber keine klare Corporate-Partner-Logowand gefunden → prüfen. |
 | 90 | Constructor University Bremen (privat) | constructor.university | [~] KEIN FUND: stiftungsfinanziert (Jacobs Foundation/Constructor Group); keine Sponsoren-/Partner-Logoseite gefunden → tiefer prüfen, ggf. RAUS. |
 | 91 | EBS Universität (privat, SRH) | ebs.edu | [~] KANDIDAT (verify) schwach: ebs.edu/.../our-network + corporate-partners (Hauptdomain); Firmen McKinsey, Bertelsmann, Mercedes, UBS; 200+ Partner + Deutschlandstip. Modell = Corporate Partnership — Logo-Verlinkung prüfen. |
+| 92 | HfWU Nürtingen-Geislingen | hfwu.de | [~] KANDIDAT (verify): hfwu.de/wirtschaftskontakte/ + HfWU-Hochschulbund (Hauptdomain); Firmen STIHL, Festool, Commerzbank, LBBW, Kreissparkassen. Logos/Verlinkung + Email prüfen. |
+| 93 | hsg Bochum (HS für Gesundheit) | hs-gesundheit.de | [~] KANDIDAT (verify) schwach: hs-gesundheit.de/netzwerk/strategische-partner (Hauptdomain); Partner v.a. Kliniken/Sparkasse + Deutschlandstip. (Weleda, Laerdal). Modell tlw. operativ → prüfen. |
+
+> Hinweis: TH Aschaffenburg (S9) und Hochschule Hannover (#60) bereits erfasst. Hochschule Furtwangen = Permanent-Ausschluss (trotz PRO HFU/Tuttlingen-Förderverein nicht aufnehmen).
 
 ## Fortschritt
 - Stand Beginn: 55 Master-Zeilen vorhanden; Discovery läuft.
