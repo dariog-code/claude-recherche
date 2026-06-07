@@ -1,0 +1,137 @@
+# Welle 2 — noch nicht geprüfte deutsche Hochschulen (für nächste Subagenten-Runde)
+
+Ausschließen (bereits in Master/Welle 1/Permanent-Ausschluss): siehe arbeitsliste.md + Master-CSV.
+
+## Universitäten (Welle 2)
+- Ruhr-Universität Bochum | ruhr-uni-bochum.de
+- Uni Paderborn | uni-paderborn.de
+- Uni Siegen | uni-siegen.de
+- Uni Wuppertal | uni-wuppertal.de
+- Uni Kassel | uni-kassel.de
+- Justus-Liebig-Uni Gießen | uni-giessen.de
+- Uni Potsdam | uni-potsdam.de
+- Uni Magdeburg (OVGU) | ovgu.de
+- Uni Oldenburg | uni-oldenburg.de
+- Uni Osnabrück | uni-osnabrueck.de
+- Leuphana Uni Lüneburg | leuphana.de
+- Uni Hohenheim | uni-hohenheim.de
+- Uni Ulm | uni-ulm.de
+- Uni Bamberg | uni-bamberg.de
+- Katholische Uni Eichstätt-Ingolstadt | ku.de
+- Uni Greifswald | uni-greifswald.de
+- Europa-Uni Flensburg | uni-flensburg.de
+- TU Clausthal | tu-clausthal.de
+- TU Bergakademie Freiberg | tu-freiberg.de
+- TU Ilmenau | tu-ilmenau.de
+- BTU Cottbus-Senftenberg | b-tu.de
+- FernUni Hagen | fernuni-hagen.de
+- Uni Vechta | uni-vechta.de
+- Uni Koblenz | uni-koblenz.de
+- Uni Trier | uni-trier.de
+- HU Berlin | hu-berlin.de
+- Uni Potsdam s.o.
+
+## HAW / Technische Hochschulen (Welle 2)
+- HS Ansbach | hs-ansbach.de (im Master als PRÜFEN? ggf. überspringen)
+- HNU Neu-Ulm | hnu.de (Master PRÜFEN? ggf. überspringen)
+- HS Esslingen | hs-esslingen.de (Master)
+- HS Reutlingen | reutlingen-university.de (Master)
+- HS Karlsruhe | h-ka.de (Master AUSGESCHLOSSEN? prüfen)
+- HS Konstanz HTWG (done)
+- Hochschule für Wirtschaft und Umwelt Nürtingen (HfWU done W1)
+- HS Heilbronn (done)
+- DHBW Stuttgart/Mannheim/… | dhbw.de (Modell dual)
+- HS Pforzheim (done)
+- HS Furtwangen (Permanent-Ausschluss)
+- HS Kempten (excluded)
+- OTH Regensburg (excluded)
+- HS Rosenheim (W1)
+- Technische Hochschule Nürnberg (excluded)
+- HS Weihenstephan (W1)
+- HS Coburg (done)
+- HS Hof (W1)
+- HS Amberg-Weiden OTH (done)
+- HS Würzburg-Schweinfurt (done)
+- HS Augsburg (done)
+- HS Landshut (W1)
+- HS Kempten (excluded)
+- HS Aalen (W1)
+- HS Esslingen s.o.
+- HS Albstadt (done)
+- HS Biberach (W1)
+- HS Offenburg (W1)
+- HS Furtwangen (excl)
+- HS Mannheim (W1)
+- HS Karlsruhe (Master)
+- HS Ravensburg RWU (W1)
+- Hochschule der Medien (done)
+- HS Niederrhein (W1)
+- HS Düsseldorf (excluded)
+- HS Bonn-Rhein-Sieg (done)
+- HS Köln TH Köln (excluded)
+- HS Aachen FH (excluded)
+- HS Niederrhein (W1)
+- Rheinische HS Köln | rh-koeln.de
+- HS für Polizei / Verwaltung — irrelevant
+- Hochschule Worms (W1)
+- HS Ludwigshafen | hwg-lu.de
+- HS Kaiserslautern (W1)
+- HS Trier (W1)
+- HS Mainz (W1)
+- HS Bingen TH Bingen | th-bingen.de
+- HS Darmstadt (excluded)
+- Frankfurt UAS (excluded)
+- HS Fulda (W1)
+- HS Geisenheim (W1)
+- HS RheinMain (W1)
+- THM Mittelhessen (W1)
+- Hochschule Hannover (W1)
+- HS Osnabrück (done)
+- Jade HS (done)
+- Ostfalia (TODO — war in arbeitsliste, evtl. nicht zugewiesen)
+- HS Emden/Leer (TODO — arbeitsliste, evtl. nicht zugewiesen)
+- HS Wilhelmshaven = Jade (done)
+- HS Braunschweig/Wolfenbüttel = Ostfalia
+- HS Bremen (W1)
+- HS Bremerhaven (W1)
+- HS Wismar (TODO arbeitsliste)
+- HS Stralsund (W1)
+- HS Neubrandenburg (TODO arbeitsliste)
+- HS Magdeburg-Stendal (W1)
+- HS Harz (excluded)
+- HS Merseburg (W1)
+- HS Anhalt (W1)
+- HS Mittweida (W1)
+- HTW Dresden (W1)
+- HTWK Leipzig (done)
+- HS Zittau/Görlitz (W1)
+- WHZ Zwickau (W1)
+- BA/DHGE Gera — dual
+- EAH Jena (W1)
+- HS Schmalkalden (W1)
+- HS Nordhausen (W1)
+- HS Erfurt | fh-erfurt.de (TODO)
+
+## Noch offen aus arbeitsliste (prüfen, ob Welle-1-Agenten sie hatten)
+- Ostfalia (ostfalia.de), HS Emden/Leer (hs-emden-leer.de), HS Wismar (hs-wismar.de),
+  HS Neubrandenburg (hs-nb.de), HS Kaiserslautern (hs-kl.de — W7), HS Koblenz (hs-koblenz.de — W7)
+
+## Private Hochschulen (Welle 2)
+- SRH Hochschule Heidelberg | srh-hochschule-heidelberg.de
+- IU Internationale Hochschule | iu.de
+- Hochschule Fresenius | hs-fresenius.de
+- Macromedia | macromedia.de
+- CBS International Business School | cbs.de
+- ISM International School of Management | ism.de
+- Hertie School | hertie-school.org
+- Kühne Logistics University | the-klu.org
+- CODE University | code.berlin
+- GISMA Business School | gisma.com
+- ESCP Berlin | escp.eu
+- HSBA Hamburg | hsba.de
+- Bucerius Law School | law-school.de
+- Jacobs/Constructor (W7)
+- WHU (W1), Zeppelin (W1), Frankfurt School (W7), HHL (W7), EBS (W7)
+- accadis Hochschule Bad Homburg | accadis.com
+- Hochschule Fresenius, BSP Business School Berlin | businessschool-berlin.de
+- Quadriga Hochschule Berlin | quadriga-hochschule.com
