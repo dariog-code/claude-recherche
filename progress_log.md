@@ -163,3 +163,7 @@ HTWK Leipzig · HS Heilbronn · HS Pforzheim · Uni Göttingen · Uni Mannheim �
 | 2026-06-06 | HS Kaiserslautern | KANDIDAT schwach/RAUS-lean | dual (KOSMO) + Event-/Fahrzeug-Sponsoring |
 | 2026-06-06 | HTW Berlin | KANDIDAT (verify) schwach | htw-berlin.de/.../foerdern-gefoerdert-werden + Förderverein; Kontakt matthias.zietz@htw-berlin.de |
 | 2026-06-06 | BHT Berlin (Beuth) | KANDIDAT schwach/RAUS-lean | Förderverein FBHT + Beuth-Gesellschaft (eigene Domain); Partner v.a. IHK |
+| 2026-06-06 | FH Dortmund | KANDIDAT schwach | fh-dortmund.de Fördergesellschaft/Hochschulförderung; stark Deutschlandstip. |
+| 2026-06-06 | FH Südwestfalen | KANDIDAT schwach/RAUS-lean | Fördervereine eigene Domains + Deutschlandstip. |
+| 2026-06-06 | HS Geisenheim | KEIN FUND | keine Förderer-Logo-Seite; Forschungs-/Industriepartner |
+| 2026-06-06 | HS Worms | KANDIDAT (verify) GUT | hs-worms.de hoersaalsponsoring + foerderer-und-partner; Logos auf Website lt. Snippet |

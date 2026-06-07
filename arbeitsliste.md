@@ -126,6 +126,10 @@ AUSGESCHLOSSEN: DHBW Karlsruhe · DHBW Mosbach · FH Aachen · FOM · Frankfurt 
 | 77 | Hochschule Kaiserslautern | hs-kl.de | [~] KANDIDAT schwach/RAUS-lean: v.a. dual (KOSMO) + Kooperations-/Forschungspartner + Event-/Fahrzeug-Sponsoring; kein loses Hauptdomain-Logo-Listing klar → prüfen. |
 | 78 | HTW Berlin | htw-berlin.de | [~] KANDIDAT (verify) schwach: htw-berlin.de/hochschule/foerdern-gefoerdert-werden/ + /spenden/ + /freunde-und-foerderer-ev/ (Hauptdomain); Förderverein (auch eigene Domain) + Deutschlandstip. Kontakt matthias.zietz@htw-berlin.de. Logowand prüfen. |
 | 79 | BHT Berlin (Beuth) | bht-berlin.de | [~] KANDIDAT schwach/RAUS-lean: Förderverein FBHT (bht-berlin.de/3653) + Christian-Peter-Beuth-Gesellschaft (eigene Domain); Partner v.a. IHK/Kooperationen. → prüfen, ggf. RAUS. |
+| 80 | FH Dortmund | fh-dortmund.de | [~] KANDIDAT schwach: fh-dortmund.de/hochschule/organisation/foerdergesellschaft.php + /transfer-forschung/kooperationen/hochschulfoerderung.php (Hauptdomain); stark Deutschlandstip.-geprägt. Logowand prüfen. |
+| 81 | FH Südwestfalen | fh-swf.de | [~] KANDIDAT schwach/RAUS-lean: Förderverein(e) auf eigenen Domains (alumni-hagen.de, Meschede) + Deutschlandstip. (MENNEKES, ITH …). Hauptdomain-Logo-Listing unklar → prüfen. |
+| 82 | Hochschule Geisenheim | hs-geisenheim.de | [~] KEIN FUND: keine Förderer-/Sponsoren-Seite mit Logos gefunden; v.a. Forschungs-/Industriepartner + international → tiefer prüfen. |
+| 83 | Hochschule Worms | hs-worms.de | [~] KANDIDAT (verify) GUT: hs-worms.de/hochschule/hochschule-und-wirtschaft/hochschule-foerdern/hoersaalsponsoring/ + /foerderer-und-partner/ (Hauptdomain) — lt. Snippet „Sponsoren-Logo auf Website unter Förderer der Hochschule" + Hörsaalsponsoring (Naming). Dofollow-Links + Email prüfen. |
 
 ## Fortschritt
 - Stand Beginn: 55 Master-Zeilen vorhanden; Discovery läuft.
