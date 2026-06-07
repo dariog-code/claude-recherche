@@ -131,3 +131,7 @@ Die Kern-Verifikation (HTML/`<a href>`-Linkprüfung + Hunter Email-Verifier) war
 | 2026-06-06 | FH Münster | KEIN FUND | keine Förderer-/Sponsoren-Seite (Treffer = uni-muenster.de separat) |
 | 2026-06-06 | TH OWL | KANDIDAT (verify) | th-owl.de/.../foerdervereine; Hochschulgesellschaft OWL e.V. |
 | 2026-06-06 | HS Ruhr West | KANDIDAT (verify) | hochschule-ruhr-west.de/kooperationen/foerderverein + angebote-fuer-unternehmen |
+| 2026-06-06 | HS Bochum | KANDIDAT (verify) | hochschule-bochum.de GDF Gesellschaft der Förderer; 23 Firmen |
+| 2026-06-06 | Westfälische HS Gelsenkirchen | KANDIDAT (verify) GUT | w-hs.de/hochschule/partner-und-foerderer + fk-ge/mitglieder Hauptdomain |
+| 2026-06-06 | HS Rhein-Waal | KANDIDAT schwach | Hauptdomain beschreibt 3 Fördervereine, die auf eigenen Domains liegen |
+| 2026-06-06 | HS Hamm-Lippstadt | KANDIDAT (verify) GUT | hshl.de/forschung-unternehmen/foerderer/sponsoren (Hörsaalsponsoring) Hauptdomain |

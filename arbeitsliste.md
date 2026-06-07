@@ -101,6 +101,10 @@ AUSGESCHLOSSEN: DHBW Karlsruhe · DHBW Mosbach · FH Aachen · FOM · Frankfurt 
 | 52 | FH Münster | fh-muenster.de | [~] KEIN FUND: keine Förderer-/Sponsoren-Seite gefunden (Treffer betrafen uni-muenster.de = separat/ausgeschlossen). Tiefer prüfen. |
 | 53 | TH OWL | th-owl.de | [~] KANDIDAT (verify): th-owl.de/hochschule/organisation/foerdervereine/ (Hauptdomain); Hochschulgesellschaft OWL e.V. + Fakultäts-Fördervereine. Verlinkung prüfen. |
 | 54 | Hochschule Ruhr West (HRW) | hochschule-ruhr-west.de | [~] KANDIDAT (verify): hochschule-ruhr-west.de/kooperationen/foerderverein + /kooperationen/unternehmen-gesellschaft/angebote-fuer-unternehmen/ (Hauptdomain). Logowand/Verlinkung + Email prüfen. |
+| 55 | Hochschule Bochum | hochschule-bochum.de | [~] KANDIDAT (verify): hochschule-bochum.de/die-bo/wichtige-einrichtungen/gdf-gesellschaft-der-foerderer-... (Hauptdomain); GDF mit 23 Firmen-Mitgliedern. Verlinkung prüfen. |
+| 56 | Westfälische Hochschule (Gelsenkirchen) | w-hs.de | [~] KANDIDAT (verify) GUT: w-hs.de/hochschule/partner-und-foerderer/ + w-hs.de/fk-ge/mitglieder/ (Hauptdomain, Förderkreis-Mitgliederseite). Logos/Verlinkung + Email prüfen. |
+| 57 | Hochschule Rhein-Waal | hochschule-rhein-waal.de | [~] KANDIDAT schwach: hochschule-rhein-waal.de/.../supporters-and-friends-associations (Hauptdomain), aber 3 Fördervereine auf eigenen Domains (foerderverein-hrw.de, campus-cleve.eu). Hauptdomain-Logowand unklar → prüfen. |
+| 58 | Hochschule Hamm-Lippstadt (HSHL) | hshl.de | [~] KANDIDAT (verify) GUT: hshl.de/forschung-unternehmen/foerderer/sponsoren/ (Hauptdomain, „Sponsoren" – Hörsaal-/Seminarraum-Sponsoring) + /transfer/foerderer/partnerunternehmen/. Logos/dofollow + Email prüfen. |
 
 ## Fortschritt
 - Stand Beginn: 55 Master-Zeilen vorhanden; Discovery läuft.
