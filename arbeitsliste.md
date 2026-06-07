@@ -131,6 +131,15 @@ AUSGESCHLOSSEN: DHBW Karlsruhe · DHBW Mosbach · FH Aachen · FOM · Frankfurt 
 | 82 | Hochschule Geisenheim | hs-geisenheim.de | [~] KEIN FUND: keine Förderer-/Sponsoren-Seite mit Logos gefunden; v.a. Forschungs-/Industriepartner + international → tiefer prüfen. |
 | 83 | Hochschule Worms | hs-worms.de | [~] KANDIDAT (verify) GUT: hs-worms.de/hochschule/hochschule-und-wirtschaft/hochschule-foerdern/hoersaalsponsoring/ + /foerderer-und-partner/ (Hauptdomain) — lt. Snippet „Sponsoren-Logo auf Website unter Förderer der Hochschule" + Hörsaalsponsoring (Naming). Dofollow-Links + Email prüfen. |
 
+## STARTREIHENFOLGE 3c — Bremen-Region + private Hochschulen (Discovery fortlaufend)
+
+| # | Institution | Domain | Disposition |
+|---|-------------|--------|-------------|
+| 84 | Hochschule Bremen (HSB) | hs-bremen.de | [~] KANDIDAT schwach/RAUS-lean: hs-bremen.de/informationen-fuer/unternehmen-und-organisationen/; ~180 Firmen, aber dual/Praxis + Deutschlandstip. Loses Logo-Listing unklar → prüfen. |
+| 85 | Hochschule Bremerhaven | hs-bremerhaven.de | [~] KANDIDAT (verify): hs-bremerhaven.de/hochschule/partner-und-foerderer + /foerderverein (Hauptdomain); Förderverein seit 1978 (Wirtschaft/Industrie). Kontakt foerderverein@hs-bremerhaven.de. Verlinkung prüfen. |
+| 86 | WHU – Otto Beisheim (privat) | whu.edu | [~] KANDIDAT (verify) GUT: whu.edu/.../stiftung-whu/spender-und-sponsoren/ + /unterstuetzer/ (Hauptdomain); Kategorien Stifter/Förderer/Freunde/Unterstützer; Firmen Henkel, BVB, Bertelsmann, Merck Finck; ~160 Partnerfirmen. Dofollow-Links + Email prüfen. |
+| 87 | Zeppelin Universität (privat) | zu.de | [~] KANDIDAT (verify) GUT: zu.de/universitaet/foerderer/ (Hauptdomain, „Partnerschaften und Förderungen"); Firmen Bosch, SAP, Rolls-Royce, KPMG, Otto Group, Würth, Bahlsen. Logos/Verlinkung + Email prüfen. |
+
 ## Fortschritt
 - Stand Beginn: 55 Master-Zeilen vorhanden; Discovery läuft.
 - 2026-06-06: 53 Institutionen per WebSearch-Discovery vor-recherchiert (Startreihenfolge 1+2 komplett + BW/Bayern/NRW-HAW). Verifikation (Links/Hunter) weiterhin durch Netzwerk-Allowlist blockiert.

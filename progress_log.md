@@ -167,3 +167,7 @@ HTWK Leipzig · HS Heilbronn · HS Pforzheim · Uni Göttingen · Uni Mannheim �
 | 2026-06-06 | FH Südwestfalen | KANDIDAT schwach/RAUS-lean | Fördervereine eigene Domains + Deutschlandstip. |
 | 2026-06-06 | HS Geisenheim | KEIN FUND | keine Förderer-Logo-Seite; Forschungs-/Industriepartner |
 | 2026-06-06 | HS Worms | KANDIDAT (verify) GUT | hs-worms.de hoersaalsponsoring + foerderer-und-partner; Logos auf Website lt. Snippet |
+| 2026-06-06 | HS Bremen (HSB) | KANDIDAT schwach/RAUS-lean | ~180 Firmen, aber dual/Praxis + Deutschlandstip. |
+| 2026-06-06 | HS Bremerhaven | KANDIDAT (verify) | hs-bremerhaven.de/.../partner-und-foerderer + Förderverein; foerderverein@hs-bremerhaven.de |
+| 2026-06-06 | WHU Otto Beisheim (privat) | KANDIDAT (verify) GUT | whu.edu spender-und-sponsoren/unterstuetzer; Henkel/BVB/Bertelsmann; 160 Partner |
+| 2026-06-06 | Zeppelin Universität (privat) | KANDIDAT (verify) GUT | zu.de/universitaet/foerderer; Bosch/SAP/Rolls-Royce/KPMG/Würth |
