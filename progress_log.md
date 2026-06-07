@@ -171,3 +171,7 @@ HTWK Leipzig · HS Heilbronn · HS Pforzheim · Uni Göttingen · Uni Mannheim �
 | 2026-06-06 | HS Bremerhaven | KANDIDAT (verify) | hs-bremerhaven.de/.../partner-und-foerderer + Förderverein; foerderverein@hs-bremerhaven.de |
 | 2026-06-06 | WHU Otto Beisheim (privat) | KANDIDAT (verify) GUT | whu.edu spender-und-sponsoren/unterstuetzer; Henkel/BVB/Bertelsmann; 160 Partner |
 | 2026-06-06 | Zeppelin Universität (privat) | KANDIDAT (verify) GUT | zu.de/universitaet/foerderer; Bosch/SAP/Rolls-Royce/KPMG/Würth |
+| 2026-06-06 | Frankfurt School (privat) | KANDIDAT (verify) | frankfurt-school.de/.../corporate-partners; Modell Corporate Partnership/Recruiting |
+| 2026-06-06 | HHL Leipzig (privat) | KANDIDAT schwach | hhl.de about-hhl + foundation; Kuratorium mit Firmen |
+| 2026-06-06 | Constructor University Bremen (privat) | KEIN FUND | stiftungsfinanziert; keine Sponsoren-/Partner-Logoseite |
+| 2026-06-06 | EBS Universität (privat) | KANDIDAT (verify) schwach | ebs.edu our-network/corporate-partners; McKinsey/Mercedes/UBS + Deutschlandstip. |

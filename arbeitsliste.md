@@ -139,6 +139,10 @@ AUSGESCHLOSSEN: DHBW Karlsruhe · DHBW Mosbach · FH Aachen · FOM · Frankfurt 
 | 85 | Hochschule Bremerhaven | hs-bremerhaven.de | [~] KANDIDAT (verify): hs-bremerhaven.de/hochschule/partner-und-foerderer + /foerderverein (Hauptdomain); Förderverein seit 1978 (Wirtschaft/Industrie). Kontakt foerderverein@hs-bremerhaven.de. Verlinkung prüfen. |
 | 86 | WHU – Otto Beisheim (privat) | whu.edu | [~] KANDIDAT (verify) GUT: whu.edu/.../stiftung-whu/spender-und-sponsoren/ + /unterstuetzer/ (Hauptdomain); Kategorien Stifter/Förderer/Freunde/Unterstützer; Firmen Henkel, BVB, Bertelsmann, Merck Finck; ~160 Partnerfirmen. Dofollow-Links + Email prüfen. |
 | 87 | Zeppelin Universität (privat) | zu.de | [~] KANDIDAT (verify) GUT: zu.de/universitaet/foerderer/ (Hauptdomain, „Partnerschaften und Förderungen"); Firmen Bosch, SAP, Rolls-Royce, KPMG, Otto Group, Würth, Bahlsen. Logos/Verlinkung + Email prüfen. |
+| 88 | Frankfurt School of Finance (privat) | frankfurt-school.de | [~] KANDIDAT (verify): frankfurt-school.de/.../corporate-partners (Hauptdomain); Firmen A.T. Kearney, Metzler, BNP, Banken. Modell = Corporate Partnership/Recruiting (nicht klass. Sponsoring) — Logo-Verlinkung prüfen. |
+| 89 | HHL Leipzig (privat) | hhl.de | [~] KANDIDAT schwach: hhl.de/about-hhl + hhl-foundation; Kuratorium mit Firmen, aber keine klare Corporate-Partner-Logowand gefunden → prüfen. |
+| 90 | Constructor University Bremen (privat) | constructor.university | [~] KEIN FUND: stiftungsfinanziert (Jacobs Foundation/Constructor Group); keine Sponsoren-/Partner-Logoseite gefunden → tiefer prüfen, ggf. RAUS. |
+| 91 | EBS Universität (privat, SRH) | ebs.edu | [~] KANDIDAT (verify) schwach: ebs.edu/.../our-network + corporate-partners (Hauptdomain); Firmen McKinsey, Bertelsmann, Mercedes, UBS; 200+ Partner + Deutschlandstip. Modell = Corporate Partnership — Logo-Verlinkung prüfen. |
 
 ## Fortschritt
 - Stand Beginn: 55 Master-Zeilen vorhanden; Discovery läuft.
