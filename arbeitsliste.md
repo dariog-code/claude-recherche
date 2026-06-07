@@ -114,6 +114,10 @@ AUSGESCHLOSSEN: DHBW Karlsruhe · DHBW Mosbach · FH Aachen · FOM · Frankfurt 
 | 65 | Hochschule Fulda | hs-fulda.de | [~] KANDIDAT (verify): hs-fulda.de/kooperieren/unterstuetzen-und-foerdern/foerderverein (Hauptdomain); Förderverein + Deutschlandstip. (Crowdfunding); Fakultäts-Vereine tlw. eigene Domain (fhoch5.org). Verlinkung prüfen. |
 | 66 | Hochschule RheinMain | hs-rm.de | [~] KANDIDAT (verify): hs-rm.de/kooperationen/foerderkultur/... (Hauptdomain) — „alle Förderer auf Homepage gelistet", Sponsorings+Partnerschaften; tlw. Deutschlandstip.-lastig. Logos/Verlinkung prüfen. |
 | 67 | TH Ingolstadt (THI) | thi.de | [~] KANDIDAT (verify): thi.de/hochschule/ueber-uns/partner-und-foerderer/ (Hauptdomain); 330 Firmenpartner (Audi/BMW/Conti/Siemens), Verein d. Freunde u. Förderer. ACHTUNG: Sichtbarkeit tlw. nur physisch (Spendersäule/Plaketten) — Web-Verlinkung prüfen. |
+| 68 | Hochschule Hof | hof-university.de | [~] KANDIDAT (verify): hof-university.de/hochschule/organisation/freunde-und-foerderer.html + /forschung-transfer/kooperationen/fundraising.html (Hauptdomain); Firmen im Vorstand (REHAU, Rödl, LAMILUX …). Verlinkung prüfen. |
+| 69 | HS Weihenstephan-Triesdorf (HSWT) | hswt.de | [~] KANDIDAT (verify) schwach: hswt.de/hochschule/hochschulprofil/foerdern-unterstuetzen (Hauptdomain); v.a. Deutschlandstip. (31 Sponsoren) + Bus-/Event-Sponsoring. Logowand prüfen. |
+| 70 | Hochschule Biberach (HBC) | hochschule-biberach.de | [~] KANDIDAT (verify): hochschule-biberach.de/web/betriebswirtschaft/spende-sponsoring-patenschaft + /hochschule/unser-netzwerk (Hauptdomain); Gesellschaft der Freunde. Verlinkung prüfen. |
+| 71 | Hochschule Albstadt-Sigmaringen | hs-albsig.de | [~] KANDIDAT (verify) GUT: hs-albsig.de/netzwerk/partnerschaften/kooperationspartner/ („Sponsoren der Hochschule") + Raumsponsoring (Blickle, Gühring, Geiger, Vetter). Förderverein = eigene Domain. Web-Verlinkung der Logos prüfen. |
 
 ## Fortschritt
 - Stand Beginn: 55 Master-Zeilen vorhanden; Discovery läuft.

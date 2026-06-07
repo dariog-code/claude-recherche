@@ -151,3 +151,7 @@ Zusätzliche Regionen abgearbeitet: BW/Bayern-HAW, NRW-HAW, Niedersachsen-HAW, H
 HTWK Leipzig · HS Heilbronn · HS Pforzheim · Uni Göttingen · Uni Mannheim · Uni Regensburg · HS Augsburg (THA, Hörsaalgalerie) · Westfälische HS Gelsenkirchen · HS Hamm-Lippstadt.
 **Weitere normale Kandidaten** (Förderverein/Sponsoring auf Hauptdomain, Verlinkung offen): TU Berlin, TU Darmstadt, RPTU, FAU, Uni Augsburg, Uni Bayreuth, Uni Freiburg, Uni Duisburg-Essen, Uni Kiel, Uni Leipzig, Leibniz Uni Hannover, HS Merseburg, EAH Jena, HS Stralsund, FH Kiel, TH Lübeck, HfT Stuttgart, RWU, THU Ulm, TH Rosenheim, HS Landshut, TH OWL, HS Ruhr West, HS Bochum, HS Hannover, HS Fulda, HS RheinMain, THI Ingolstadt.
 **RAUS-lean / KEIN FUND**: siehe Tabelle oben.
+| 2026-06-06 | HS Hof | KANDIDAT (verify) | hof-university.de freunde-und-foerderer + fundraising; Firmen im Vorstand |
+| 2026-06-06 | HSWT Weihenstephan-Triesdorf | KANDIDAT (verify) schwach | hswt.de/.../foerdern-unterstuetzen; Deutschlandstip. + Bus-/Event-Sponsoring |
+| 2026-06-06 | HS Biberach (HBC) | KANDIDAT (verify) | hochschule-biberach.de spende-sponsoring-patenschaft + unser-netzwerk |
+| 2026-06-06 | HS Albstadt-Sigmaringen | KANDIDAT (verify) GUT | hs-albsig.de/netzwerk/partnerschaften/kooperationspartner (Sponsoren) + Raumsponsoring |
