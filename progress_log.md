@@ -155,3 +155,7 @@ HTWK Leipzig · HS Heilbronn · HS Pforzheim · Uni Göttingen · Uni Mannheim �
 | 2026-06-06 | HSWT Weihenstephan-Triesdorf | KANDIDAT (verify) schwach | hswt.de/.../foerdern-unterstuetzen; Deutschlandstip. + Bus-/Event-Sponsoring |
 | 2026-06-06 | HS Biberach (HBC) | KANDIDAT (verify) | hochschule-biberach.de spende-sponsoring-patenschaft + unser-netzwerk |
 | 2026-06-06 | HS Albstadt-Sigmaringen | KANDIDAT (verify) GUT | hs-albsig.de/netzwerk/partnerschaften/kooperationspartner (Sponsoren) + Raumsponsoring |
+| 2026-06-06 | HS Trier | KANDIDAT (verify) | hochschule-trier.de/.../foerderer-und-netzwerk; Förderkreis + Umwelt-Campus Birkenfeld |
+| 2026-06-06 | HS Koblenz | KANDIDAT schwach/RAUS-lean | dual geprägt (Partnerlogo, 300 Koop.-Firmen) + Förderkreise |
+| 2026-06-06 | WHZ Zwickau | KANDIDAT (verify) | whz.de holzgestaltung/partner-sponsoren (viele Firmen) + Förderverein Mentor |
+| 2026-06-06 | HS Zittau/Görlitz | KANDIDAT (verify) schwach | hszg.de/.../foerderer-vereine; Förderverein eigene Domain + Deutschlandstip. |

@@ -118,6 +118,10 @@ AUSGESCHLOSSEN: DHBW Karlsruhe · DHBW Mosbach · FH Aachen · FOM · Frankfurt 
 | 69 | HS Weihenstephan-Triesdorf (HSWT) | hswt.de | [~] KANDIDAT (verify) schwach: hswt.de/hochschule/hochschulprofil/foerdern-unterstuetzen (Hauptdomain); v.a. Deutschlandstip. (31 Sponsoren) + Bus-/Event-Sponsoring. Logowand prüfen. |
 | 70 | Hochschule Biberach (HBC) | hochschule-biberach.de | [~] KANDIDAT (verify): hochschule-biberach.de/web/betriebswirtschaft/spende-sponsoring-patenschaft + /hochschule/unser-netzwerk (Hauptdomain); Gesellschaft der Freunde. Verlinkung prüfen. |
 | 71 | Hochschule Albstadt-Sigmaringen | hs-albsig.de | [~] KANDIDAT (verify) GUT: hs-albsig.de/netzwerk/partnerschaften/kooperationspartner/ („Sponsoren der Hochschule") + Raumsponsoring (Blickle, Gühring, Geiger, Vetter). Förderverein = eigene Domain. Web-Verlinkung der Logos prüfen. |
+| 72 | Hochschule Trier | hochschule-trier.de | [~] KANDIDAT (verify): hochschule-trier.de/hochschule/organisation/foerderer-und-netzwerk (Hauptdomain); Förderkreis HS Trier + Umwelt-Campus Birkenfeld. Verlinkung prüfen. (uni-trier.de = separat.) |
+| 73 | Hochschule Koblenz | hs-koblenz.de | [~] KANDIDAT schwach/RAUS-lean: hs-koblenz.de/unternehmen + Förderkreise; aber stark dual geprägt (Partnerlogo f. duale Partner, 300 Koop.-Firmen). Loses Sponsoring-Logo-Listing unklar → prüfen. |
+| 74 | Westsächsische HS Zwickau (WHZ) | whz.de | [~] KANDIDAT (verify): whz.de/.../holzgestaltung/partner-sponsoren/ (Fakultät, viele Firmen) + Förderverein Mentor e.V. Web-Verlinkung der Logos prüfen. |
+| 75 | HS Zittau/Görlitz | hszg.de | [~] KANDIDAT (verify) schwach: hszg.de/hochschule/ueber-uns/foerderer-vereine (Hauptdomain); Förderverein (eigene Domain, ~70 Mitglieder) + Deutschlandstip. Verlinkung prüfen. |
 
 ## Fortschritt
 - Stand Beginn: 55 Master-Zeilen vorhanden; Discovery läuft.
