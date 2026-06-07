@@ -140,3 +140,14 @@ Die Kern-Verifikation (HTML/`<a href>`-Linkprüfung + Hunter Email-Verifier) war
 | 2026-06-06 | Leibniz Uni Hannover (Bonus) | KANDIDAT (verify) | uni-hannover.de/.../fundraising/sponsoring Hauptdomain |
 | 2026-06-06 | Ostfalia HS | KANDIDAT schwach/RAUS-lean | Partnerunternehmen (Logistik/dual) + Event-Sponsoring |
 | 2026-06-06 | HS Emden/Leer | KANDIDAT schwach/RAUS-lean | Partnerunternehmen (Praxisverbund/dual) + Förderkreis (oldweb) |
+| 2026-06-06 | TH Mittelhessen (THM) | KANDIDAT schwach/RAUS-lean | StudiumPlus (1080 duale Partner) + Kooperationen |
+| 2026-06-06 | HS Fulda | KANDIDAT (verify) | hs-fulda.de/.../foerderverein + Deutschlandstip.; Fakultäts-Vereine eigene Domain |
+| 2026-06-06 | HS RheinMain | KANDIDAT (verify) | hs-rm.de Förderkultur; „alle Förderer auf Homepage"; tlw. Deutschlandstip. |
+| 2026-06-06 | TH Ingolstadt (THI) | KANDIDAT (verify) | thi.de/.../partner-und-foerderer; 330 Firmen; aber Sichtbarkeit tlw. physisch (Spendersäule) |
+
+### UPDATE Zwischenstand (nach ~64 vor-recherchierten Institutionen)
+Zusätzliche Regionen abgearbeitet: BW/Bayern-HAW, NRW-HAW, Niedersachsen-HAW, Hessen-HAW.
+**Starke Kandidaten gesamt (Hauptdomain + Logos/Sponsoren-Listing laut Snippet → Priorität für Verifikation):**
+HTWK Leipzig · HS Heilbronn · HS Pforzheim · Uni Göttingen · Uni Mannheim · Uni Regensburg · HS Augsburg (THA, Hörsaalgalerie) · Westfälische HS Gelsenkirchen · HS Hamm-Lippstadt.
+**Weitere normale Kandidaten** (Förderverein/Sponsoring auf Hauptdomain, Verlinkung offen): TU Berlin, TU Darmstadt, RPTU, FAU, Uni Augsburg, Uni Bayreuth, Uni Freiburg, Uni Duisburg-Essen, Uni Kiel, Uni Leipzig, Leibniz Uni Hannover, HS Merseburg, EAH Jena, HS Stralsund, FH Kiel, TH Lübeck, HfT Stuttgart, RWU, THU Ulm, TH Rosenheim, HS Landshut, TH OWL, HS Ruhr West, HS Bochum, HS Hannover, HS Fulda, HS RheinMain, THI Ingolstadt.
+**RAUS-lean / KEIN FUND**: siehe Tabelle oben.

@@ -110,6 +110,10 @@ AUSGESCHLOSSEN: DHBW Karlsruhe · DHBW Mosbach · FH Aachen · FOM · Frankfurt 
 | 61 | Leibniz Uni Hannover (Bonus aus Suche) | uni-hannover.de | [~] KANDIDAT (verify): uni-hannover.de/de/universitaet/freunde-und-foerderer/fundraising/sponsoring/ (Hauptdomain, „Sponsoring"). Logowand/Verlinkung + Email prüfen. |
 | 62 | Ostfalia HS (Braunschweig/Wolfenbüttel) | ostfalia.de | [~] KANDIDAT schwach/RAUS-lean: v.a. Partnerunternehmen (Logistik/dual, operativ) + event-/kongressbezogenes Sponsoring auf Unterseiten. Kein loses Hauptdomain-Logowand-Angebot klar → prüfen. |
 | 63 | Hochschule Emden/Leer | hs-emden-leer.de | [~] KANDIDAT schwach/RAUS-lean: Partnerunternehmen (Praxisverbund/dual) + Förderkreis Ostfriesland (oldweb); operativ geprägt → prüfen, ggf. RAUS. |
+| 64 | TH Mittelhessen (THM) | thm.de | [~] KANDIDAT schwach/RAUS-lean: thm.de/alumni/ueber-uns/foerdervereine.html; v.a. StudiumPlus (1080 duale Partner, operativ) + Kooperationspartner. Loses Sponsoring-Logo-Listing unklar → prüfen. |
+| 65 | Hochschule Fulda | hs-fulda.de | [~] KANDIDAT (verify): hs-fulda.de/kooperieren/unterstuetzen-und-foerdern/foerderverein (Hauptdomain); Förderverein + Deutschlandstip. (Crowdfunding); Fakultäts-Vereine tlw. eigene Domain (fhoch5.org). Verlinkung prüfen. |
+| 66 | Hochschule RheinMain | hs-rm.de | [~] KANDIDAT (verify): hs-rm.de/kooperationen/foerderkultur/... (Hauptdomain) — „alle Förderer auf Homepage gelistet", Sponsorings+Partnerschaften; tlw. Deutschlandstip.-lastig. Logos/Verlinkung prüfen. |
+| 67 | TH Ingolstadt (THI) | thi.de | [~] KANDIDAT (verify): thi.de/hochschule/ueber-uns/partner-und-foerderer/ (Hauptdomain); 330 Firmenpartner (Audi/BMW/Conti/Siemens), Verein d. Freunde u. Förderer. ACHTUNG: Sichtbarkeit tlw. nur physisch (Spendersäule/Plaketten) — Web-Verlinkung prüfen. |
 
 ## Fortschritt
 - Stand Beginn: 55 Master-Zeilen vorhanden; Discovery läuft.
