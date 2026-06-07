@@ -159,3 +159,7 @@ HTWK Leipzig · HS Heilbronn · HS Pforzheim · Uni Göttingen · Uni Mannheim �
 | 2026-06-06 | HS Koblenz | KANDIDAT schwach/RAUS-lean | dual geprägt (Partnerlogo, 300 Koop.-Firmen) + Förderkreise |
 | 2026-06-06 | WHZ Zwickau | KANDIDAT (verify) | whz.de holzgestaltung/partner-sponsoren (viele Firmen) + Förderverein Mentor |
 | 2026-06-06 | HS Zittau/Görlitz | KANDIDAT (verify) schwach | hszg.de/.../foerderer-vereine; Förderverein eigene Domain + Deutschlandstip. |
+| 2026-06-06 | HS Mainz | KANDIDAT (verify) | hs-mainz.de/.../foerdervereine (Welsch-Gesellschaft) + Deutschlandstip. 32 Firmen |
+| 2026-06-06 | HS Kaiserslautern | KANDIDAT schwach/RAUS-lean | dual (KOSMO) + Event-/Fahrzeug-Sponsoring |
+| 2026-06-06 | HTW Berlin | KANDIDAT (verify) schwach | htw-berlin.de/.../foerdern-gefoerdert-werden + Förderverein; Kontakt matthias.zietz@htw-berlin.de |
+| 2026-06-06 | BHT Berlin (Beuth) | KANDIDAT schwach/RAUS-lean | Förderverein FBHT + Beuth-Gesellschaft (eigene Domain); Partner v.a. IHK |

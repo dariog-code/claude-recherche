@@ -122,6 +122,10 @@ AUSGESCHLOSSEN: DHBW Karlsruhe · DHBW Mosbach · FH Aachen · FOM · Frankfurt 
 | 73 | Hochschule Koblenz | hs-koblenz.de | [~] KANDIDAT schwach/RAUS-lean: hs-koblenz.de/unternehmen + Förderkreise; aber stark dual geprägt (Partnerlogo f. duale Partner, 300 Koop.-Firmen). Loses Sponsoring-Logo-Listing unklar → prüfen. |
 | 74 | Westsächsische HS Zwickau (WHZ) | whz.de | [~] KANDIDAT (verify): whz.de/.../holzgestaltung/partner-sponsoren/ (Fakultät, viele Firmen) + Förderverein Mentor e.V. Web-Verlinkung der Logos prüfen. |
 | 75 | HS Zittau/Görlitz | hszg.de | [~] KANDIDAT (verify) schwach: hszg.de/hochschule/ueber-uns/foerderer-vereine (Hauptdomain); Förderverein (eigene Domain, ~70 Mitglieder) + Deutschlandstip. Verlinkung prüfen. |
+| 76 | Hochschule Mainz | hs-mainz.de | [~] KANDIDAT (verify): hs-mainz.de/hochschule/organisation/foerdervereine/ (Hauptdomain); Maximilian-von-Welsch-Gesellschaft + Freunde u. Förderer; Deutschlandstip. (32 Firmen). Verlinkung prüfen. (uni-mainz.de separat.) |
+| 77 | Hochschule Kaiserslautern | hs-kl.de | [~] KANDIDAT schwach/RAUS-lean: v.a. dual (KOSMO) + Kooperations-/Forschungspartner + Event-/Fahrzeug-Sponsoring; kein loses Hauptdomain-Logo-Listing klar → prüfen. |
+| 78 | HTW Berlin | htw-berlin.de | [~] KANDIDAT (verify) schwach: htw-berlin.de/hochschule/foerdern-gefoerdert-werden/ + /spenden/ + /freunde-und-foerderer-ev/ (Hauptdomain); Förderverein (auch eigene Domain) + Deutschlandstip. Kontakt matthias.zietz@htw-berlin.de. Logowand prüfen. |
+| 79 | BHT Berlin (Beuth) | bht-berlin.de | [~] KANDIDAT schwach/RAUS-lean: Förderverein FBHT (bht-berlin.de/3653) + Christian-Peter-Beuth-Gesellschaft (eigene Domain); Partner v.a. IHK/Kooperationen. → prüfen, ggf. RAUS. |
 
 ## Fortschritt
 - Stand Beginn: 55 Master-Zeilen vorhanden; Discovery läuft.
