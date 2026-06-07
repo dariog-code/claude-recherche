@@ -183,3 +183,23 @@ Abgedeckt: alle großen Unis (Startreihenfolge 1) + HAW/TH in allen 16 Bundeslä
 **Starke Kandidaten (Priorität Verifikation), 13:** HTWK Leipzig · HS Heilbronn · HS Pforzheim · Uni Göttingen · Uni Mannheim · Uni Regensburg · HS Augsburg · Westf. HS Gelsenkirchen · HS Hamm-Lippstadt · HS Albstadt-Sigmaringen · HS Worms · WHU · Zeppelin Uni.
 **Noch offen für spätere Discovery-Runden:** restliche private HS (SRH, IU, Fresenius, Macromedia, CBS, ISM, Hertie, Kühne Logistics, CODE, GISMA …), einzelne kleinere/konfessionelle HAW, Musik-/Kunsthochschulen (meist irrelevant).
 **Unverändert gilt:** Verifikation (Dofollow-Links ≥6 Firmen + Hunter-Email) steht für ALLE Kandidaten aus, bis die Netzwerk-Allowlist geöffnet ist.
+
+---
+
+## SESSION 2026-06-07 — VOLLE VERIFIKATION (Netz offen)
+
+Netzwerk-Allowlist offen (Hunter + Hochschul-Domains erreichbar, HTTP 200). Die in den Vorsessions blockierte Kern-Verifikation wurde durchgefuehrt.
+
+### Vorgehen
+- Tooling: `_tools/linkcheck.py` (dofollow/nofollow je Seite), `_tools/crawl.py` (Discovery), `_tools/hunter.sh` (E-Mail-Verify), `_tools/ingest.py` (CSV-Eintrag pro Institution), Methode in `_tools/METHOD.md`.
+- 12 parallele Recherche-Subagenten (2 Wellen) haben ~140 Hochschulen nach einheitlicher Methode geprueft: Sponsoren-/Foerderer-Listenseite der Hauptdomain per HTML-Analyse (externe dofollow-Firmenlinks >=6 nach Filterung) + 1 Hunter-verifizierte Kontakt-E-Mail.
+- Ergebnisse zentral validiert, pro Institution committet und gepusht. Roh-JSON je Batch in `_tools/results/`.
+
+### Ergebnis (Master-CSV jetzt 200 Datenzeilen)
+- LINK VERIFIZIERT: 17 (HSHL Hamm-Lippstadt, Frankfurt School, HS Hannover, HSWT, HS Mittweida, EAH Jena, HS Albstadt, Uni Osnabrueck, Uni Hohenheim, BTU Cottbus, bbw, Provadis, HFH + 4 Bestand)
+- SPONSORING-SEITE: 24 (u.a. HTWK Leipzig, HS Heilbronn, TH Luebeck, FH/HAW Kiel, HS Hof, HS Biberach, TU Ilmenau, HSBA, CODE + 15 Bestand)
+- PRUEFEN (Verlinkung): 88 · AUSGESCHLOSSEN: 65 · Rest Grenzfaelle
+- Priorisierte Liste: siehe `ERGEBNIS_UEBERSICHT.md`.
+
+### Wichtigste Erkenntnis
+Die WebSearch-Vorrecherche ueberschaetzte viele Kandidaten: bei den meisten grossen Unis und vielen HAW sind Foerderer/Sponsoren real nur als TEXT oder physische Wand/Foto bzw. als nicht verlinkte Logos hinterlegt -> echte dofollow-Backlinks (LINK VERIFIZIERT) sind selten. Klassische Foerderverein-Logowaende mit Links finden sich v.a. bei mittelgrossen HAW und einzelnen Unis.
