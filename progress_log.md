@@ -119,3 +119,11 @@ Die Kern-Verifikation (HTML/`<a href>`-Linkprüfung + Hunter Email-Verifier) war
 ### Manuelle Nachprüfung nötig
 - Alle „KEIN FUND"-Fälle (WebSearch lieferte keine eindeutige Hauptdomain-Seite).
 - Alle Kandidaten generell, da Dofollow/Subdomain/≥6-Firmen + Email in dieser Session technisch nicht prüfbar waren.
+| 2026-06-06 | RWU Ravensburg-Weingarten | KANDIDAT (verify) | rwu.de support-association Hauptdomain; Firmenmitglieder |
+| 2026-06-06 | HS Offenburg | RAUS-lean (Modell) | Kooperations-/Industriepartner + StudiumPlus auf Fakultäts-Subdomains |
+| 2026-06-06 | HS Mannheim | KANDIDAT schwach/RAUS-lean | Trainee-/Partnerunternehmen (operativ); kein Hauptdomain-Förderer-Listing |
+| 2026-06-06 | HS Ulm (THU) | KANDIDAT (verify) | thu.de/de/org/kom/prothu Hauptdomain; proTHU Förderverein, Firmen Mitglied |
+| 2026-06-06 | HS Augsburg (THA) | KANDIDAT (verify) GUT | tha.de/hs-augsburg.de Hoersaalgalerie + unternehmen/Foerderverein; Hörsaal-/Laborsponsoring |
+| 2026-06-06 | HS Landshut | KANDIDAT (verify) | Freundeskreis (BMW/Flottweg/ebm-papst/ERLUS); Hauptdomain-Logoseite suchen |
+| 2026-06-06 | TH Rosenheim | KANDIDAT (verify) | th-rosenheim.de foerdervereine + labor unterstuetzer-und-sponsoren Hauptdomain |
+| 2026-06-06 | HS Kempten | (bereits AUSGESCHLOSSEN) | Hinweis: Förderkreis + Hörsaal-/Laborsponsoring (Bosch/Siemens) evtl. später reconsidern |

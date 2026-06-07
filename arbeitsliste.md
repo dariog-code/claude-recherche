@@ -80,13 +80,13 @@ AUSGESCHLOSSEN: DHBW Karlsruhe · DHBW Mosbach · FH Aachen · FOM · Frankfurt 
 | 40 | Hochschule Heilbronn | hs-heilbronn.de | [~] KANDIDAT (verify) GUT: hs-heilbronn.de/de/sponsoring + /de/foerderkreis + /1073875/partner-foerderer-und-institute + /de/projektpartner-und-sponsoren (alles Hauptdomain). Förderkreis auch foerderkreis-hhn.de (eigene Domain). Hauptdomain-Logowand/dofollow + Email prüfen → potenziell LINK VERIFIZIERT. |
 | 41 | Hochschule Pforzheim | hs-pforzheim.de | [~] KANDIDAT (verify) GUT: hs-pforzheim.de/unternehmen/dialog_und_standort/infrastruktur_und_ausstattungssponsoring + /veranstaltungssponsoring + /en/university/financial_support_sponsoring (Hauptdomain) — „Firmenlogos begleiten Studierende". FAV-Verein = eigene Domain. Hauptdomain-Verlinkung + Email prüfen. |
 | 42 | Hochschule Furtwangen | hs-furtwangen.de | [ ] PERMANENT-AUSSCHLUSS |
-| 43 | Hochschule Ravensburg-Weingarten (RWU) | rwu.de | [ ] OFFEN |
-| 44 | Hochschule Offenburg | hs-offenburg.de | [ ] OFFEN |
-| 45 | Hochschule Mannheim | hs-mannheim.de | [ ] OFFEN |
-| 46 | Hochschule Ulm (THU) | thu.de | [ ] OFFEN |
-| 47 | Hochschule Augsburg | hs-augsburg.de | [ ] OFFEN |
-| 48 | Hochschule Landshut | haw-landshut.de | [ ] OFFEN |
-| 49 | Hochschule Rosenheim (TH) | th-rosenheim.de | [ ] OFFEN |
+| 43 | Hochschule Ravensburg-Weingarten (RWU) | rwu.de | [~] KANDIDAT (verify): rwu.de/.../support-association-ravensburg-weingarten (Hauptdomain); Förderverein mit Firmen-/Privatmitgliedern. Logowand/Verlinkung + Email prüfen. |
+| 44 | Hochschule Offenburg | hs-offenburg.de | [~] RAUS-lean (Modell): überwiegend Kooperations-/Industriepartner + StudiumPlus (dual) auf Fakultäts-Subdomains (studiumplus./emi./mv.); Verein d. Freunde u. Förderer ohne klares Hauptdomain-Logo-Listing. → prüfen, ggf. AUSGESCHLOSSEN. |
+| 45 | Hochschule Mannheim | hs-mannheim.de | [~] KANDIDAT schwach/RAUS-lean: v.a. Trainee-/Partnerunternehmen (operativ) + career.hs-mannheim.de (Subdomain); kein klares Förderer-mit-Link-Listing auf Hauptdomain gefunden → prüfen. |
+| 46 | Hochschule Ulm (THU) | thu.de | [~] KANDIDAT (verify): thu.de/de/org/kom/prothu (Hauptdomain) — proTHU Alumni u. Förderer e.V., zahlreiche Firmen Mitglied. Verlinkung/Logowand + Email prüfen. |
+| 47 | Hochschule Augsburg (TH Augsburg) | tha.de / hs-augsburg.de | [~] KANDIDAT (verify) GUT: tha.de/unternehmen.html (Fördermögl.) + tha.de/Foerderverein.html + Hoersaalgalerie (Hörsaal-/Laborsponsoring, Sponsoren-Bildergalerie) auf Hauptdomain (auch hs-augsburg.de/Kommunikation/Hoersaalgalerie.html). Verlinkung der Sponsoren-Logos + Email prüfen. |
+| 48 | Hochschule Landshut | haw-landshut.de | [~] KANDIDAT (verify): Freundeskreis HS Landshut (Firmen: BMW Werk Landshut, Flottweg, ebm-papst, ERLUS …); bisher nur News-Beleg, Hauptdomain-Förderer-Seite mit Logos+Links suchen. |
+| 49 | Hochschule Rosenheim (TH) | th-rosenheim.de | [~] KANDIDAT (verify): th-rosenheim.de/die-hochschule/ueber-uns/foerdervereine + .../labor-fuer-fertigungstechnik/unterstuetzer-und-sponsoren (Hauptdomain); Firmen Henkel, Hettich, EGGER, Pfeifer, Lindner. Verlinkung prüfen. |
 | 50 | Hochschule Würzburg-Schweinfurt | (= THWS, FERTIG) | [x] FERTIG |
 
 (Weitere Institutionen werden während des Durchlaufs angehängt.)
