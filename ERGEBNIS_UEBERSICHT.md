@@ -1,24 +1,27 @@
 # Ergebnis-Uebersicht — Foerderer/Sponsoring deutscher Hochschulen
 
-Stand: 2026-06-08 · 200 gepruefte Institutionen · Quelle: recherche_master_foerdervereine.csv
+Stand: 2026-06-08 · 244 gepruefte Institutionen · Quelle: recherche_master_foerdervereine.csv
 
-Zwei Pruefrunden: (1) HTML-Linkanalyse der Hauptdomain-Foerderer-/Sponsorenseiten (externe dofollow-Firmenlinks, gefiltert) + Hunter-E-Mail; (2) Re-Check aller PRUEFEN-Faelle auf **Verlinkungspotenzial** (Outreach-Chance auf einen Backlink).
+Abdeckung: alle Universitaeten/TUs, (nahezu) alle staatlichen HAW/Technischen Hochschulen, sowie die backlink-relevanten privaten Hochschulen Deutschlands. Bewusst ausgelassen (nach Abstimmung): Kunst-/Musik-/Verwaltungs-/kirchliche Hochschulen.
+
+Methodik: (1) HTML-Linkanalyse der Hauptdomain-Foerderer-/Sponsorenseiten (externe dofollow-Firmenlinks, gefiltert) + Hunter-E-Mail; (2) Re-Check der PRUEFEN-Faelle auf Verlinkungspotenzial.
 
 ## Statusverteilung
 
 | Status | Anzahl | Bedeutung |
 |---|---:|---|
-| LINK VERIFIZIERT | 17 | >=6 dofollow-Firmenlinks auf der Hauptdomain — beste Backlink-Ziele |
-| SPONSORING-SEITE | 43 | Firmen-Logowand/-Liste vorhanden, aber NICHT verlinkt — Outreach-Kandidaten |
-| PRUEFEN (Verlinkung) | 69 | Foerderverein/Sponsoring auf Hauptdomain, aber keine oeffentliche Firmenliste/Logowand |
-| PRUEFEN/GRENZFALL | 6 | Grenzfaelle aus frueheren Sessions |
-| AUSGESCHLOSSEN | 65 | nur Deutschlandstipendium / Verein auf Eigendomain / kein Sponsoring-Modell |
+| LINK VERIFIZIERT | 29 | >=6 dofollow-Firmenlinks auf der Hauptdomain — beste Backlink-Ziele |
+| SPONSORING-SEITE | 48 | Firmen-Logowand/-Liste vorhanden, aber NICHT verlinkt — Outreach-Kandidaten |
+| PRUEFEN (Verlinkung) | 74 | Foerderverein/Sponsoring auf Hauptdomain, aber keine oeffentliche Firmenliste/Logowand |
+| AUSGESCHLOSSEN | 77 | nur Deutschlandstipendium / Verein auf Eigendomain / dual / kein Sponsoring-Modell |
+| KEIN FUND | 10 | keine Seite gefunden bzw. Domain technisch gesperrt (503/Bot) |
+| PRUEFEN/GRENZFALL (Bestand) | 6 | aus frueheren Sessions |
 
-## Outreach-Ranking nach Verlinkungspotenzial
+## Outreach-Ranking nach Verlinkungspotenzial (aus Re-Check)
 
-Aus dem Re-Check der PRUEFEN-Faelle. 'hoch' = Firmen werden oeffentlich genannt/als Logo gezeigt, aber NICHT verlinkt → direkter Hebel ("Logo/Name ist da, bitte verlinken").
+'hoch' = Firmen werden oeffentlich genannt/als Logo gezeigt, aber NICHT verlinkt → direkter Hebel.
 
-### Potenzial HOCH — sofort ansprechbar (Firmen genannt/Logo, unverlinkt) — 20
+### Potenzial HOCH — Firmen genannt/Logo, unverlinkt — 20
 
 | Nr | Status | Hochschule | Beste Outreach-Seite | Kontakt-E-Mail |
 |---|---|---|---|---|
@@ -43,7 +46,7 @@ Aus dem Re-Check der PRUEFEN-Faelle. 'hoch' = Firmen werden oeffentlich genannt/
 | S43 | SPONSORING-SEITE | Rheinische Hochschule Köln | rh-koeln.de/rheinische-hochschule/servicebereich/partnership-management | partnership-management@rh-koeln.de |
 | P50 | PRÜFEN (Verlinkung) | EBS Universität für Wirtschaft und Recht | ebs.edu/en/about-us/our-network/corporate-partners | christof.glaser@ebs.edu |
 
-### Potenzial MITTEL — Foerderverein mit Firmenmitgliedern, Liste (noch) nicht oeffentlich — 45
+### Potenzial MITTEL — Foerderverein mit Firmenmitgliedern, Liste (noch) nicht oeffentlich — 49
 
 | Nr | Status | Hochschule | Beste Outreach-Seite | Kontakt-E-Mail |
 |---|---|---|---|---|
@@ -92,10 +95,14 @@ Aus dem Re-Check der PRUEFEN-Faelle. 'hoch' = Firmen werden oeffentlich genannt/
 | P83 | PRÜFEN (Verlinkung) | Hochschule für Wirtschaft und Gesellschaft Ludwigshafen (HWG LU) | hwg-lu.de/hochschule/alumni/freunde-und-foerderer-der-hochschule-ludwigshafen-am-rhein | alumni@hwg-lu.de |
 | P86 | PRÜFEN (Verlinkung) | Fachhochschule Westküste (Heide) | fh-westkueste.de/hochschulprofil/die-fh-westkueste/foerderforum-ev | bultjer@flensburg.ihk.de |
 | P87 | PRÜFEN (Verlinkung) | htw saar (HTW des Saarlandes) | htwsaar.de/hochschule/profil/foerderer/ahw/startseite-ahw | info@htwsaar.de |
+| P88 | PRÜFEN (Verlinkung) | Karlshochschule International University Karlsruhe | karlshochschule.de/de/partner/sponsoring.html | info@karlshochschule.de |
+| P90 | PRÜFEN (Verlinkung) | Deutsche Sporthochschule Köln | dshs-koeln.de/universitaet/profil/partnerschaften-und-kooperationen/ | j.kurzke@dshs-koeln.de |
+| P91 | PRÜFEN (Verlinkung) | Hochschule für nachhaltige Entwicklung Eberswalde (HNEE) | hnee.de/engagement/gesellschaft/foerderverein | johanna.koehle@hnee.de |
+| P92 | PRÜFEN (Verlinkung) | HafenCity Universität Hamburg | hcu-hamburg.de/dialog/foerderer/ | marcus.steffens@hcu-hamburg.de |
 
 ## LINK VERIFIZIERT — priorisierte Backlink-Ziele
 
-Auf diesen Hauptdomains sind >=6 echte Firmen mit dofollow-Link gelistet (verifizierter Backlink-Kontext).
+Hauptdomain mit >=6 dofollow-Firmenlinks. Hinweis: einige beruhen auf dualen Kooperations-/Partnerseiten (Modell in der CSV-Bewertung vermerkt).
 
 | Nr | Hochschule | Typ | Listungsseite (Hauptdomain) | Kontakt-E-Mail | E-Mail-Status |
 |---|---|---|---|---|---|
@@ -116,10 +123,22 @@ Auf diesen Hauptdomains sind >=6 echte Firmen mit dofollow-Link gelistet (verifi
 | 15 | Universität Osnabrück | Universität | uni-osnabrueck.de/universitaet/foerderung-und-sponsoring/kreis-der-foerderer/ | unigesos@uni-osnabrueck.de | deliverable |
 | 16 | Universität Hohenheim | Universität | uni-hohenheim.de/universitaet/profil/geschichte/jubilaeum2018/jubilaeum-spender-sponsoren | christine.moritz@uni-hohenheim.de | deliverable (score 90) |
 | 17 | BTU Cottbus-Senftenberg | Universität (TU) | b-tu.de/universitaet/stiften-und-foerdern/foerderverein/mitgliedskoerperschaften | foerderverein@b-tu.de | risky (score 58) |
+| 18 | DIPLOMA Hochschule | private (Fach-)Hochschule | diploma.de/kooperationen | vertrieb@diploma.de | deliverable (score 100) |
+| 19 | Hochschule für angewandtes Management (FHAM) | private Fachhochschule | fham.de/hochschule/kooperationen/kooperationspartner/ | info@fham.de | deliverable (score 100) |
+| 20 | SRH Fernhochschule (Mobile University) | private Fernhochschule | mobile-university.de/ueber-uns/unsere-partner/ | corporate-partners@mobile-university.de | deliverable (score 100) |
+| 21 | UE University of Europe for Applied Sciences | Private Hochschule (GUS Germany) | ue-germany.com/about-us/corporate-partners | rakshya.karmacharya@ue-germany.com | risky (accept_all) |
+| 22 | Berlin School of Business and Innovation (BSBI) | Private Hochschule (GUS Germany) | berlinsbi.com/about-us/partnerships | info@berlinsbi.com | risky (accept_all) |
+| 23 | SDI München (Internationale Hochschule SDI) | Private Hochschule | sdi-muenchen.de/partner/unternehmen | stefanie.herrmann@sdi-muenchen.de | deliverable |
+| 24 | HMKW Hochschule für Medien, Kommunikation und Wirtschaft | Private Hochschule | media-university.de/hochschule/profil/kooperationspartner/ | info@hmkw.de | deliverable |
+| 25 | EBZ Business School Bochum | private FH (Immobilienwirtschaft) | ebz-business-school.de/ueber-uns/gremien-und-netzwerke/unsere-partner-und-kunden.html | rektorat@ebz-bs.de | deliverable (score 100) |
+| 26 | DHGS Deutsche Hochschule für Gesundheit und Sport | private FH | dhgs-hochschule.de/hochschule/kooperationspartner-werden/partnerunternehmen/ | partner@dhgs-hochschule.de | deliverable (score 100) |
+| 27 | Hochschule Döpfer (HSD) | privat (FH) | hs-doepfer.de/hochschule/kooperationspartner | s.steier@hs-doepfer.de | deliverable |
+| 28 | DHfPG Deutsche Hochschule für Prävention und Gesundheitsmanagement | privat (FH) | dhfpg.de/die-hochschule/partner/ausbildungspartner | info@dhfpg.de | risky (accept_all) |
+| 29 | Hochschule Weserbergland Hameln | privat (FH) | hsw-hameln.de/praxispartner-duales-studium-ihre-vorteile-als-unternehmen-hsw/kooperationspartner-foerderer/ | malm@hsw-hameln.de | deliverable |
 
 ## SPONSORING-SEITE — Outreach-Kandidaten (Logos/Listen vorhanden, unverlinkt)
 
-Firmen-Logos/-Listen vorhanden, aber nicht verlinkt. Spalte Listung_Domain_Bewertung in der CSV nennt die konkreten Firmen + Potenzial.
+Firmen-Logos/-Listen vorhanden, aber nicht verlinkt. Konkrete Firmen + Potenzial je Zeile in CSV-Spalte Listung_Domain_Bewertung.
 
 | Nr | Hochschule | Typ | Listungsseite (Hauptdomain) | Kontakt-E-Mail | E-Mail-Status |
 |---|---|---|---|---|---|
@@ -166,11 +185,15 @@ Firmen-Logos/-Listen vorhanden, aber nicht verlinkt. Spalte Listung_Domain_Bewer
 | S24 | TU Ilmenau | Universität (TU) | tu-ilmenau.de/stifter-und-foerderer/unsere-foerderer | stipendien@tu-ilmenau.de | deliverable (score 100) |
 | S42 | Universität Trier | Universität | uni-trier.de/studium/im-studium/studienfinanzierung/deutschlandstipendium/foerderer-werden-1/unsere-foerderinnen-und-foerderer | freundeskreis@uni-trier.de | risky (score 75) |
 | S43 | Rheinische Hochschule Köln | Privathochschule | rh-koeln.de/rheinische-hochschule/servicebereich/partnership-management | partnership-management@rh-koeln.de | deliverable (score 100) |
+| S44 | FHDW Fachhochschule der Wirtschaft | private Fachhochschule | fhdw.de/foerderverein | alexander.braendle@fhdw.de | deliverable (score 100) |
+| S45 | ESMT Berlin | Private Wirtschaftshochschule (Stiftung) | esmt.berlin/about/founders | jovana.panic@esmt.berlin | deliverable |
+| S46 | Hochschule 21 Buxtehude | private FH (staatl. anerkannt) | hs21.de/unser-profil/foerderer/foerderverein | info@hs21.de | deliverable (score 100) |
+| S47 | Mediadesign Hochschule (MD.H) | private FH | mediadesign.de/de/partner-kooperationen | info@mediadesign.de |  |
+| S48 | HAWK Hildesheim/Holzminden/Göttingen | staatlich (HAW) | exskallerate.hawk.de/de/partner | info@hawk.de |  |
 
 ## Hinweise
 
-- Detailbelege (Firmen, Logo/Text/Link-Befund, Potenzial-Begruendung) je Zeile in Spalte Listung_Domain_Bewertung der CSV.
+- Detailbelege (Firmen, Logo/Text/Link-Befund, Potenzial) je Zeile in Spalte Listung_Domain_Bewertung der CSV.
 - 'risky (accept_all)' = Catch-all-Mailserver; Adresse plausibel, per SMTP nicht eindeutig verifizierbar.
-- Viele SPONSORING-SEITEN mit Potenzial hoch sind Deutschlandstipendium-Foerderwaende (z.B. FAU ~58, Freiburg ~30, Wuerzburg, Augsburg) — Firmen als Logo/Text, aber unverlinkt.
-- Technisch nicht abrufbar (Bot-/503-Sperre, manuelle Pruefung empfohlen): RUB, HU Berlin, HWG Ludwigshafen, htw saar.
+- Technisch gesperrt (manuell nachpruefen): RUB, HU Berlin, HWG Ludwigshafen, htw saar, DEKRA HS, IB-Hochschule, Praxishochschule.
 - Vollstaendige Rohdaten + Kontakte (inkl. 2. Kontakt) in recherche_master_foerdervereine.csv.

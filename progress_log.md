@@ -220,3 +220,17 @@ Verlinkungspotenzial: hoch 20 · mittel 45 · gering 23 (Rest = bereits LINK VER
 ### Erkenntnis
 Viele Haeuser bieten einen klaren Outreach-Hebel: Firmen sind bereits namentlich/als Logo auf der Hauptdomain sichtbar (oft Deutschlandstipendium-Foerderwaende oder Foerderverein-/Partner-Seiten), aber NICHT verlinkt. 'mittel' = Foerderverein mit Firmenmitgliedern, Liste aber nicht oeffentlich (Anfrage/PDF). Outreach-Ranking in `ERGEBNIS_UEBERSICHT.md`.
 Technisch gesperrt (manuell nachpruefen): RUB, HU Berlin, HWG Ludwigshafen, htw saar.
+
+---
+
+## SESSION 2026-06-08 (Forts.) — WELLE 3: restliche staatl. HAW + weitere private HS
+
+44 noch fehlende relevante Haeuser in 4 Subagenten-Batches nach METHOD.md geprueft (Roh-JSON `_tools/results/w3a..w3d.json`).
+Neu LINK VERIFIZIERT (meist duale Kooperations-/Partnerseiten mit vielen Firmenlinks): DIPLOMA, FHAM, SRH Mobile University, UE University of Europe, BSBI, SDI Muenchen, HMKW, EBZ Business School, DHGS, Hochschule Doepfer, DHfPG, HSW Hameln.
+Neu SPONSORING-SEITE: ESMT Berlin, FHDW, hs21 Buxtehude, Mediadesign (MD.H), HAWK (nur Subdomain).
+AUSGESCHLOSSEN/KEIN FUND: AKAD, Wilhelm Buechner, IST, APOLLON, FHM, SRH Berlin/Gera, MSB, MSH, ASH Berlin, XU, Steinbeis, Berlin International, FH Dresden, DIU, HS Rottenburg, Charlotte Fresenius, Allensbach, EUFH, Praxishochschule; technisch gesperrt: DEKRA HS, IB-Hochschule.
+
+### FINALE BILANZ (244 Institutionen)
+LINK VERIFIZIERT 29 · SPONSORING-SEITE 48 · PRUEFEN (Verlinkung) 74 · AUSGESCHLOSSEN 77 · KEIN FUND 10 · Grenzfaelle 6.
+Damit sind alle backlink-relevanten Hochschulen Deutschlands abgedeckt (Kunst-/Musik-/Verwaltungs-/kirchliche HS bewusst ausgelassen).
+Offene manuelle Nachpruefung (Bot-/503-Sperre): RUB, HU Berlin, HWG Ludwigshafen, htw saar, DEKRA HS, IB-Hochschule, Praxishochschule.
