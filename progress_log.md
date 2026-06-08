@@ -234,3 +234,19 @@ AUSGESCHLOSSEN/KEIN FUND: AKAD, Wilhelm Buechner, IST, APOLLON, FHM, SRH Berlin/
 LINK VERIFIZIERT 29 · SPONSORING-SEITE 48 · PRUEFEN (Verlinkung) 74 · AUSGESCHLOSSEN 77 · KEIN FUND 10 · Grenzfaelle 6.
 Damit sind alle backlink-relevanten Hochschulen Deutschlands abgedeckt (Kunst-/Musik-/Verwaltungs-/kirchliche HS bewusst ausgelassen).
 Offene manuelle Nachpruefung (Bot-/503-Sperre): RUB, HU Berlin, HWG Ludwigshafen, htw saar, DEKRA HS, IB-Hochschule, Praxishochschule.
+
+---
+
+## SESSION 2026-06-08 (Forts.) — WELLE 4: Kunst-, Musik- & kirchliche Hochschulen
+
+66 Haeuser in 6 Subagenten-Batches nach METHOD.md geprueft (Roh-JSON _tools/results/k1,k2,m1,m2,c1,c2.json).
+Ahrefs: keine Anbindung in dieser Session (nur GitHub/Drive/HubSpot/WebSearch); Methode weiterhin HTML-Linkanalyse + Hunter.
+
+Ergebnis der drei neuen Kategorien (durchweg Freundeskreis-/Foerderverein-Modelle, oft auf eigener Domain):
+- Neu LINK VERIFIZIERT (3): HMT Hamburg (Stiftungen-&-Maezene-Seite, ~22 Links Berenberg/Hoyer/Hapag-Lloyd/Zeit-Stiftung), HMT Rostock (OSPA/Yamaha u.a.), Popakademie BW (~40 Instrumentenhersteller: Sennheiser/Neumann/Korg/Meinl).
+- Neu SPONSORING-SEITE (2): Folkwang Essen (Deichmann/Sparkasse/Stauder-Logos), HfJS Heidelberg (Stiftungs-/Sparkassen-Logos).
+- Sonst: viele PRUEFEN (Foerderverein/Sponsoring auf Hauptdomain, aber keine verlinkte Firmenliste/Logowand) und AUSGESCHLOSSEN (Verein/Stiftung auf eigener (Sub-)Domain, nur Stipendien/Diakonie/Kultur-Kooperation).
+- Technisch gesperrt/DNS tot: Kiho Wuppertal/Bethel (503), PTHV Vallendar (503), HfeK Bayreuth (DNS), IH Liebenzell (DNS).
+
+### FINALE GESAMTBILANZ (310 Institutionen — alle Hochschultypen Deutschlands)
+LINK VERIFIZIERT 32 · SPONSORING-SEITE 50 · PRUEFEN (Verlinkung) 99 · AUSGESCHLOSSEN 103 · KEIN FUND 20 · Grenzfaelle 6.

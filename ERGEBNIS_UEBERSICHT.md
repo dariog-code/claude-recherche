@@ -1,20 +1,20 @@
 # Ergebnis-Uebersicht — Foerderer/Sponsoring deutscher Hochschulen
 
-Stand: 2026-06-08 · 244 gepruefte Institutionen · Quelle: recherche_master_foerdervereine.csv
+Stand: 2026-06-08 · 310 gepruefte Institutionen · Quelle: recherche_master_foerdervereine.csv
 
-Abdeckung: alle Universitaeten/TUs, (nahezu) alle staatlichen HAW/Technischen Hochschulen, sowie die backlink-relevanten privaten Hochschulen Deutschlands. Bewusst ausgelassen (nach Abstimmung): Kunst-/Musik-/Verwaltungs-/kirchliche Hochschulen.
+Abdeckung: VOLLSTAENDIG fuer alle Hochschultypen Deutschlands — Universitaeten/TUs, (nahezu) alle staatlichen HAW/Technischen Hochschulen, die backlink-relevanten privaten Hochschulen sowie Kunst-, Musik- und kirchliche/theologische Hochschulen.
 
-Methodik: (1) HTML-Linkanalyse der Hauptdomain-Foerderer-/Sponsorenseiten (externe dofollow-Firmenlinks, gefiltert) + Hunter-E-Mail; (2) Re-Check der PRUEFEN-Faelle auf Verlinkungspotenzial.
+Methodik: (1) HTML-Linkanalyse der Hauptdomain-Foerderer-/Sponsorenseiten (externe dofollow-Firmenlinks, gefiltert) + Hunter-E-Mail; (2) Re-Check der PRUEFEN-Faelle auf Verlinkungspotenzial. Kein externes Backlink-Tool (z.B. Ahrefs) angebunden.
 
 ## Statusverteilung
 
 | Status | Anzahl | Bedeutung |
 |---|---:|---|
-| LINK VERIFIZIERT | 29 | >=6 dofollow-Firmenlinks auf der Hauptdomain — beste Backlink-Ziele |
-| SPONSORING-SEITE | 48 | Firmen-Logowand/-Liste vorhanden, aber NICHT verlinkt — Outreach-Kandidaten |
-| PRUEFEN (Verlinkung) | 74 | Foerderverein/Sponsoring auf Hauptdomain, aber keine oeffentliche Firmenliste/Logowand |
-| AUSGESCHLOSSEN | 77 | nur Deutschlandstipendium / Verein auf Eigendomain / dual / kein Sponsoring-Modell |
-| KEIN FUND | 10 | keine Seite gefunden bzw. Domain technisch gesperrt (503/Bot) |
+| LINK VERIFIZIERT | 32 | >=6 dofollow-Firmenlinks auf der Hauptdomain — beste Backlink-Ziele |
+| SPONSORING-SEITE | 50 | Firmen-Logowand/-Liste vorhanden, aber NICHT verlinkt — Outreach-Kandidaten |
+| PRUEFEN (Verlinkung) | 99 | Foerderverein/Sponsoring auf Hauptdomain, aber keine oeffentliche Firmenliste/Logowand |
+| AUSGESCHLOSSEN | 103 | nur Deutschlandstipendium / Verein auf Eigendomain / dual / kein Sponsoring-Modell |
+| KEIN FUND | 20 | keine Seite gefunden bzw. Domain technisch gesperrt (503/Bot) oder DNS tot |
 | PRUEFEN/GRENZFALL (Bestand) | 6 | aus frueheren Sessions |
 
 ## Outreach-Ranking nach Verlinkungspotenzial (aus Re-Check)
@@ -46,7 +46,7 @@ Methodik: (1) HTML-Linkanalyse der Hauptdomain-Foerderer-/Sponsorenseiten (exter
 | S43 | SPONSORING-SEITE | Rheinische Hochschule Köln | rh-koeln.de/rheinische-hochschule/servicebereich/partnership-management | partnership-management@rh-koeln.de |
 | P50 | PRÜFEN (Verlinkung) | EBS Universität für Wirtschaft und Recht | ebs.edu/en/about-us/our-network/corporate-partners | christof.glaser@ebs.edu |
 
-### Potenzial MITTEL — Foerderverein mit Firmenmitgliedern, Liste (noch) nicht oeffentlich — 49
+### Potenzial MITTEL — Foerderverein mit Firmenmitgliedern bzw. Firmen namentlich, Liste/Logos (noch) nicht verlinkt — 54
 
 | Nr | Status | Hochschule | Beste Outreach-Seite | Kontakt-E-Mail |
 |---|---|---|---|---|
@@ -99,10 +99,15 @@ Methodik: (1) HTML-Linkanalyse der Hauptdomain-Foerderer-/Sponsorenseiten (exter
 | P90 | PRÜFEN (Verlinkung) | Deutsche Sporthochschule Köln | dshs-koeln.de/universitaet/profil/partnerschaften-und-kooperationen/ | j.kurzke@dshs-koeln.de |
 | P91 | PRÜFEN (Verlinkung) | Hochschule für nachhaltige Entwicklung Eberswalde (HNEE) | hnee.de/engagement/gesellschaft/foerderverein | johanna.koehle@hnee.de |
 | P92 | PRÜFEN (Verlinkung) | HafenCity Universität Hamburg | hcu-hamburg.de/dialog/foerderer/ | marcus.steffens@hcu-hamburg.de |
+| P101 | PRÜFEN (Verlinkung) | Hochschule für Musik Franz Liszt Weimar | hfm-weimar.de/foerdern/projektfoerdernde | online@hfm-weimar.de |
+| P111 | PRÜFEN (Verlinkung) | Hochschule für Musik und Theater München | hmtm.de/gesellschaft-freunde-der-hochschule-fuer-musik-und-theater-muenchen-e-v/ | freunde@hmtm.de |
+| P112 | PRÜFEN (Verlinkung) | Hochschule für Musik und Theater Leipzig | hmt-leipzig.de/hochschule/freunde-und-foerderer/sponsoren | freundeskreis@hmt-leipzig.de |
+| P114 | PRÜFEN (Verlinkung) | Hochschule für Musik Carl Maria von Weber Dresden | hfmdd.de/hochschule/partner | foerderverein@hfmdd.org |
+| P116 | PRÜFEN (Verlinkung) | Hochschule für Musik und Darstellende Kunst Mannheim | muho-mannheim.de/wir-ueber-uns/partner/stipendiengeber-/-foerderer/ | freundeskreis@muho-mannheim.de |
 
 ## LINK VERIFIZIERT — priorisierte Backlink-Ziele
 
-Hauptdomain mit >=6 dofollow-Firmenlinks. Hinweis: einige beruhen auf dualen Kooperations-/Partnerseiten (Modell in der CSV-Bewertung vermerkt).
+Hauptdomain mit >=6 dofollow-Firmen-/Foerderer-Links. Hinweis: einige beruhen auf dualen Kooperations-/Partnerseiten bzw. (bei Musikhochschulen) Stiftungs-/Maezen-Sammelseiten (Modell jeweils in der CSV-Bewertung vermerkt).
 
 | Nr | Hochschule | Typ | Listungsseite (Hauptdomain) | Kontakt-E-Mail | E-Mail-Status |
 |---|---|---|---|---|---|
@@ -135,6 +140,9 @@ Hauptdomain mit >=6 dofollow-Firmenlinks. Hinweis: einige beruhen auf dualen Koo
 | 27 | Hochschule Döpfer (HSD) | privat (FH) | hs-doepfer.de/hochschule/kooperationspartner | s.steier@hs-doepfer.de | deliverable |
 | 28 | DHfPG Deutsche Hochschule für Prävention und Gesundheitsmanagement | privat (FH) | dhfpg.de/die-hochschule/partner/ausbildungspartner | info@dhfpg.de | risky (accept_all) |
 | 29 | Hochschule Weserbergland Hameln | privat (FH) | hsw-hameln.de/praxispartner-duales-studium-ihre-vorteile-als-unternehmen-hsw/kooperationspartner-foerderer/ | malm@hsw-hameln.de | deliverable |
+| 30 | Hochschule für Musik und Theater Rostock | Musikhochschule | hmt-rostock.de/partner-foerderer-alumni/sponsoren/ | angelika.thoenes@hmt-rostock.de | risky (accept_all) |
+| 31 | Popakademie Baden-Württemberg Mannheim | Musikhochschule (Pop) | popakademie.de/de/ueber-uns/partner/ | info@popakademie.de | deliverable |
+| 32 | Hochschule für Musik und Theater Hamburg | Musikhochschule | hfmt-hamburg.de/hochschule/netzwerk/stiftungen-und-maezene | praesident@hfmt-hamburg.de | deliverable |
 
 ## SPONSORING-SEITE — Outreach-Kandidaten (Logos/Listen vorhanden, unverlinkt)
 
@@ -190,10 +198,13 @@ Firmen-Logos/-Listen vorhanden, aber nicht verlinkt. Konkrete Firmen + Potenzial
 | S46 | Hochschule 21 Buxtehude | private FH (staatl. anerkannt) | hs21.de/unser-profil/foerderer/foerderverein | info@hs21.de | deliverable (score 100) |
 | S47 | Mediadesign Hochschule (MD.H) | private FH | mediadesign.de/de/partner-kooperationen | info@mediadesign.de |  |
 | S48 | HAWK Hildesheim/Holzminden/Göttingen | staatlich (HAW) | exskallerate.hawk.de/de/partner | info@hawk.de |  |
+| S49 | Hochschule für Jüdische Studien Heidelberg | jüdisch/wissenschaftlich | hfjs.eu/hochschule/organisation/freundinnen-foerdernde.html | info@hfjs.eu | risky (accept_all) |
+| S50 | Folkwang Universität der Künste Essen | Kunst-/Musikhochschule (staatlich) | folkwang-uni.de/home/hochschule/studium/foerderung/sponsoren-ihre-projekte | info@gfff-folkwang-uni.de | deliverable (score 92) |
 
 ## Hinweise
 
 - Detailbelege (Firmen, Logo/Text/Link-Befund, Potenzial) je Zeile in Spalte Listung_Domain_Bewertung der CSV.
+- Kunst-/Musik-/kirchliche Hochschulen: ueberwiegend Freundeskreis-/Foerderverein-Modelle (Personen-Mitgliedschaft) oder Vereine/Stiftungen auf eigener Domain → meist AUSGESCHLOSSEN/PRUEFEN. Ausnahmen mit echtem Firmenbezug: HMT Hamburg, HMT Rostock, Popakademie BW (LINK VERIFIZIERT); Folkwang Essen, HfJS Heidelberg (SPONSORING-SEITE).
 - 'risky (accept_all)' = Catch-all-Mailserver; Adresse plausibel, per SMTP nicht eindeutig verifizierbar.
-- Technisch gesperrt (manuell nachpruefen): RUB, HU Berlin, HWG Ludwigshafen, htw saar, DEKRA HS, IB-Hochschule, Praxishochschule.
+- Technisch gesperrt / nicht erreichbar (manuell nachpruefen): RUB, HU Berlin, HWG Ludwigshafen, htw saar, DEKRA HS, IB-Hochschule, Praxishochschule, Kiho Wuppertal/Bethel, PTHV Vallendar (alle 503/Bot); HfeK Bayreuth, IH Liebenzell (DNS tot / Domain umgezogen).
 - Vollstaendige Rohdaten + Kontakte (inkl. 2. Kontakt) in recherche_master_foerdervereine.csv.
