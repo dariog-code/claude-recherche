@@ -250,3 +250,15 @@ Ergebnis der drei neuen Kategorien (durchweg Freundeskreis-/Foerderverein-Modell
 
 ### FINALE GESAMTBILANZ (310 Institutionen — alle Hochschultypen Deutschlands)
 LINK VERIFIZIERT 32 · SPONSORING-SEITE 50 · PRUEFEN (Verlinkung) 99 · AUSGESCHLOSSEN 103 · KEIN FUND 20 · Grenzfaelle 6.
+
+---
+
+## SESSION 2026-06-08 (Forts.) — AHREFS-INTEGRATION (DR-Anreicherung)
+
+Ahrefs API v3 angebunden (Advanced-Plan, 1 Mio Units/Monat). Genutzte Endpoints: domain-rating, outlinks-stats, linkeddomains.
+Harvester _tools/ahrefs_harvest.py zog fuer alle 309 Domains: DR, ausgehende dofollow-Links/-Domains, Top-75 verlinkte Domains (Roh-JSON unter _tools/ahrefs/raw/, .gitignored). Verbrauch unkritisch.
+
+Befund: Rohe Ausgangslink-Zahlen taugen NICHT zur Sponsoren-Erkennung (dominiert von Verlagen/Tools/Behoerden/Studierenden-Portfolios/eigenen Schwester-Domains; geparkte Domains als Artefakte). Gegenpruefung aller Domains auf sitewide-Firmenleisten (Footer/Header) ergab KEINE uebersehenen Sponsorenseiten -> manuelle, seiten-kontextbasierte Klassifikation haelt stand.
+Echter Mehrwert: Domain Rating (DR) je Hochschule -> Priorisierung nach Backlink-Wert. DR fuer alle 309 in ahrefs_enrichment.csv; in ERGEBNIS_UEBERSICHT.md integriert (Prioritaere Backlink-Ziele nach DR).
+
+Top-Outreach-Ziele (hoher DR, Status SPONSORING-SEITE = Logos vorhanden, aber unverlinkt): KIT (85), RWTH Aachen (85), Uni Stuttgart (84), Uni Freiburg (84), Uni Bremen (83), FAU (83), Uni Wuerzburg (82), Uni Trier (82), Uni Marburg (81).
