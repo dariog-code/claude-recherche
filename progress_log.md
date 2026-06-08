@@ -203,3 +203,20 @@ Netzwerk-Allowlist offen (Hunter + Hochschul-Domains erreichbar, HTTP 200). Die 
 
 ### Wichtigste Erkenntnis
 Die WebSearch-Vorrecherche ueberschaetzte viele Kandidaten: bei den meisten grossen Unis und vielen HAW sind Foerderer/Sponsoren real nur als TEXT oder physische Wand/Foto bzw. als nicht verlinkte Logos hinterlegt -> echte dofollow-Backlinks (LINK VERIFIZIERT) sind selten. Klassische Foerderverein-Logowaende mit Links finden sich v.a. bei mittelgrossen HAW und einzelnen Unis.
+
+---
+
+## SESSION 2026-06-08 — RE-CHECK der 88 PRUEFEN-Faelle auf Verlinkungspotenzial
+
+Alle 88 'PRUEFEN (Verlinkung)'-Haeuser in 8 Subagenten-Batches erneut geprueft (Methode `_tools/METHOD2.md`): gezielte Suche nach uebersehenen Mitglieder-/Sponsoren-/Foerderer-Unterseiten und Bewertung des Outreach-Potenzials. Roh-JSON in `_tools/results/r1..r8.json`, Update pro Institution via `_tools/update_rows.py`.
+
+### Reklassifizierungen -> SPONSORING-SEITE (Firmen genannt/als Logo, aber unverlinkt), Potenzial hoch
+HFT Stuttgart, TH Rosenheim, Zeppelin Uni, HfWU, HS Fulda, HS Kaiserslautern, RPTU, Uni Wuerzburg, FAU (~58 Logos), Uni Augsburg, Uni Bayreuth, Uni Freiburg (~30), BSP Berlin, Quadriga (~27), Munich Business School, Uni Wuppertal/FABU, Uni Bamberg, Uni Trier, Rheinische HS Koeln (14+ Logos). (EBS bleibt PRUEFEN, aber Potenzial hoch.)
+
+### Bilanz danach
+LINK VERIFIZIERT 17 · SPONSORING-SEITE 43 · PRUEFEN (Verlinkung) 69 · AUSGESCHLOSSEN 65 · Grenzfaelle 6 (200 Zeilen).
+Verlinkungspotenzial: hoch 20 · mittel 45 · gering 23 (Rest = bereits LINK VERIFIZIERT o. Bestand).
+
+### Erkenntnis
+Viele Haeuser bieten einen klaren Outreach-Hebel: Firmen sind bereits namentlich/als Logo auf der Hauptdomain sichtbar (oft Deutschlandstipendium-Foerderwaende oder Foerderverein-/Partner-Seiten), aber NICHT verlinkt. 'mittel' = Foerderverein mit Firmenmitgliedern, Liste aber nicht oeffentlich (Anfrage/PDF). Outreach-Ranking in `ERGEBNIS_UEBERSICHT.md`.
+Technisch gesperrt (manuell nachpruefen): RUB, HU Berlin, HWG Ludwigshafen, htw saar.
