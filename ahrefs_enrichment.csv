@@ -1,0 +1,311 @@
+Nr,Status,Hochschule,Domain,Ahrefs_DR,Linked_Domains_dofollow,Outgoing_Links_dofollow
+1,LINK VERIFIZIERT,HdM Stuttgart (Hochschule der Medien),hdm-stuttgart.de,75.0,5143,5112725
+2,LINK VERIFIZIERT,OTH Amberg-Weiden,oth-aw.de,70.0,1980,132453
+3,LINK VERIFIZIERT,TH Georg Agricola (Bochum),thga.de,56.0,1066,5106973
+4,LINK VERIFIZIERT,THWS Würzburg-Schweinfurt,thws.de,71.0,3191,4774156
+S1,SPONSORING-SEITE,FH Wedel (privat),fh-wedel.de,65.0,1036,244241
+S2,SPONSORING-SEITE,HTWG Konstanz,htwg-konstanz.de,72.0,2212,55844
+S3,SPONSORING-SEITE,Hochschule Bonn-Rhein-Sieg (H-BRS),h-brs.de,72.0,2255,144407
+S4,SPONSORING-SEITE,Hochschule Coburg,hs-coburg.de,70.0,1026,129301
+S5,SPONSORING-SEITE,Hochschule Osnabrück,hs-osnabrueck.de,76.0,3914,321015
+S6,SPONSORING-SEITE,Jade Hochschule,jade-hs.de,71.0,1965,12941515
+S7,SPONSORING-SEITE,KIT Karlsruhe,kit.edu,85.0,45811,3495794
+S8,SPONSORING-SEITE,RWTH Aachen,rwth-aachen.de,85.0,27388,3222513
+S9,SPONSORING-SEITE,TH Aschaffenburg,th-ab.de,59.0,794,64274
+S10,SPONSORING-SEITE,TH Deggendorf,th-deg.de,72.0,861,690295
+S11,SPONSORING-SEITE,TU Chemnitz,tu-chemnitz.de,80.0,12932,1222867
+S12,SPONSORING-SEITE,Universität Bremen,uni-bremen.de,83.0,20360,90132399
+S13,SPONSORING-SEITE,Universität Marburg,uni-marburg.de,81.0,10647,927020
+S14,SPONSORING-SEITE,Universität Passau,uni-passau.de,77.0,3683,1643752
+S15,SPONSORING-SEITE,Universität Stuttgart,uni-stuttgart.de,84.0,22061,17804563
+-,PRÜFEN (Modell),Hochschule Ansbach,hs-ansbach.de,62.0,1328,88184
+-,PRÜFEN (Verlinkung),Hochschule Neu-Ulm (HNU),hnu.de,64.0,1269,141988
+-,PRÜFEN (Domain),Universität Halle (MLU),uni-halle.de,81.0,13744,1552650
+-,PRÜFEN (Domain),Universität Mainz (JGU),uni-mainz.de,83.0,13862,17015640
+-,PRÜFEN (Domain),Universität Rostock,uni-rostock.de,80.0,3977,682614
+-,GRENZFALL,Hochschule Esslingen,hs-esslingen.de,73.0,6761,2328351
+-,GRENZFALL,Hochschule Reutlingen,reutlingen-university.de,70.0,1182,46329
+-,AUSGESCHLOSSEN,DHBW Karlsruhe,dhbw-karlsruhe.de,47.0,18,88
+-,AUSGESCHLOSSEN,DHBW Mosbach,dhbw-mosbach.de,39.0,0,0
+-,AUSGESCHLOSSEN,FH Aachen,fh-aachen.de,74.0,4035,2451072
+-,AUSGESCHLOSSEN,FOM Hochschule,fom.de,75.0,1395,18545
+-,AUSGESCHLOSSEN,Frankfurt UAS,frankfurt-university.de,74.0,2512,37251
+-,AUSGESCHLOSSEN,Freie Universität Berlin,fu-berlin.de,86.0,32338,1797956
+-,AUSGESCHLOSSEN,Goethe-Universität Frankfurt,uni-frankfurt.de,84.0,17020,8867800
+-,AUSGESCHLOSSEN,HAW Hamburg,haw-hamburg.de,77.0,6812,3498095
+-,AUSGESCHLOSSEN,HWR Berlin,hwr-berlin.de,74.0,420,40393
+-,AUSGESCHLOSSEN,Hochschule Darmstadt (h_da),h-da.de,75.0,4019,320669
+-,AUSGESCHLOSSEN,Hochschule Düsseldorf (HSD),hs-duesseldorf.de,73.0,1084,38822
+-,AUSGESCHLOSSEN,Hochschule Harz,hs-harz.de,67.0,2494,129032
+-,AUSGESCHLOSSEN,Hochschule Karlsruhe (HKA),h-ka.de,72.0,2015,31574
+-,AUSGESCHLOSSEN,Hochschule Kempten,hs-kempten.de,68.0,1411,71212
+-,AUSGESCHLOSSEN,Hochschule München (HM),hm.edu,76.0,2537,229772
+-,AUSGESCHLOSSEN,LMU München,unigesellschaft.de,27.0,15,1468
+-,AUSGESCHLOSSEN,Nordakademie (Elmshorn),nordakademie.de,65.0,544,4529
+-,AUSGESCHLOSSEN,OTH Regensburg,oth-regensburg.de,71.0,2101,277567
+-,AUSGESCHLOSSEN,TH Köln,th-koeln.de,77.0,5592,19104407
+-,AUSGESCHLOSSEN,TH Nürnberg (Georg Simon Ohm),th-nuernberg.de,73.0,4186,5415190
+-,AUSGESCHLOSSEN,TU München,tum.de,87.0,6574,7481989
+-,AUSGESCHLOSSEN,Universität Erfurt,unigesellschaft-erfurt.de,6.0,0,0
+-,AUSGESCHLOSSEN,Universität Hamburg,uni-gesellschaft-hh.de,20.0,17,116
+-,AUSGESCHLOSSEN,Universität Heidelberg,uni-heidelberg.de,87.0,20951,9533760
+-,AUSGESCHLOSSEN,Universität Hildesheim,uni-hildesheim.de,76.0,341,5060
+-,AUSGESCHLOSSEN,Universität Münster,uni-muenster.de,84.0,18913,1097183
+-,AUSGESCHLOSSEN,Universität Tübingen,uni-tuebingen.de,85.0,23011,7620638
+-,AUSGESCHLOSSEN,Universität des Saarlandes,uni-saarland.de,82.0,15565,5261173
+-,AUSGESCHLOSSEN,Universität zu Köln,stiftung-uni-koeln.de,7.0,11,29
+S16,SPONSORING-SEITE,HTWK Leipzig,htwk-leipzig.de,73.0,4400,881387
+S17,SPONSORING-SEITE,Hochschule Heilbronn (HHN),hs-heilbronn.de,72.0,1905,170652
+P1,PRÜFEN (Verlinkung),Hochschule Pforzheim,hs-pforzheim.de,71.0,1278,131582
+5,LINK VERIFIZIERT,Hochschule Albstadt-Sigmaringen,hs-albsig.de,64.0,614,68910
+P2,PRÜFEN (Verlinkung),Universität Konstanz,uni-konstanz.de,81.0,5776,5423473
+P3,PRÜFEN (Verlinkung),Universität Duisburg-Essen,uni-due.de,82.0,17221,4208210
+P4,PRÜFEN (Verlinkung),Universität Bielefeld,uni-bielefeld.de,82.0,11609,22086038
+P5,PRÜFEN (Verlinkung),Christian-Albrechts-Universität zu Kiel (CAU),uni-kiel.de,82.0,2791,674688
+P6,PRÜFEN (Verlinkung),Friedrich-Schiller-Universität Jena,uni-jena.de,82.0,12740,1001384
+P7,PRÜFEN (Verlinkung),Leibniz Universität Hannover,uni-hannover.de,83.0,16262,11980658
+S18,SPONSORING-SEITE,Fachhochschule Kiel (HAW Kiel),haw-kiel.de,70.0,2551,566584
+S19,SPONSORING-SEITE,Technische Hochschule Lübeck,th-luebeck.de,68.0,1543,80044
+P8,PRÜFEN (Verlinkung),Hochschule Flensburg,hs-flensburg.de,64.0,902,123519
+P9,PRÜFEN (Verlinkung),Hochschule Stralsund,hochschule-stralsund.de,66.0,1457,85574
+S25,SPONSORING-SEITE,Hochschule für Technik Stuttgart (HFT),hft-stuttgart.de,70.0,1272,3759372
+P11,PRÜFEN (Verlinkung),Universität Göttingen,uni-goettingen.de,84.0,16945,30264696
+P12,PRÜFEN (Verlinkung),Universität Mannheim,uni-mannheim.de,80.0,7492,1587537
+-,AUSGESCHLOSSEN,Universität Regensburg,uni-regensburg.de,81.0,10559,9970420
+P13,PRÜFEN (Verlinkung),Technische Hochschule Augsburg (THA),tha.de,72.0,5495,63996888
+P14,PRÜFEN (Verlinkung),Westfälische Hochschule (Gelsenkirchen),w-hs.de,71.0,1791,63599
+6,LINK VERIFIZIERT,Hochschule Hamm-Lippstadt (HSHL),hshl.de,62.0,1709,534798
+P15,PRÜFEN (Verlinkung),Hochschule Worms,hs-worms.de,63.0,181,10214
+P16,PRÜFEN (Verlinkung),WHU – Otto Beisheim School of Management,whu.edu,72.0,1468,136765
+S27,SPONSORING-SEITE,Zeppelin Universität,zu.de,66.0,23,274
+P18,PRÜFEN (Verlinkung),Hochschule Niederrhein,hs-niederrhein.de,74.0,1963,213446
+P19,PRÜFEN (Verlinkung),FH Münster,fh-muenster.de,77.0,1441,425683
+-,AUSGESCHLOSSEN,TH OWL,th-owl.de,72.0,2455,14521476
+P20,PRÜFEN (Verlinkung),Hochschule Ruhr West,hochschule-ruhr-west.de,65.0,861,20994
+P21,PRÜFEN (Verlinkung),Hochschule Bochum,hochschule-bochum.de,73.0,2545,337361
+-,AUSGESCHLOSSEN,Hochschule Rhein-Waal,hochschule-rhein-waal.de,69.0,1083,153134
+P22,PRÜFEN (Verlinkung),Hochschule Bielefeld (HSBI),hsbi.de,73.0,906,13855
+P23,PRÜFEN (Verlinkung),FH Dortmund,fh-dortmund.de,73.0,1931,1790781
+-,AUSGESCHLOSSEN,FH Südwestfalen,fh-swf.de,71.0,1500,17829608
+P24,PRÜFEN (Verlinkung),BHT Berlin (Berliner Hochschule für Technik),bht-berlin.de,73.0,4181,635729
+P25,PRÜFEN (Verlinkung),HTW Berlin,htw-berlin.de,79.0,3409,458561
+7,LINK VERIFIZIERT,Hochschule Hannover,hs-hannover.de,72.0,2743,226174
+P26,PRÜFEN (Verlinkung),Hochschule Aalen,hs-aalen.de,69.0,676,55014
+P27,PRÜFEN (Verlinkung),RWU Hochschule Ravensburg-Weingarten,rwu.de,59.0,892,31514
+P28,PRÜFEN (Verlinkung),Hochschule Offenburg,hs-offenburg.de,71.0,3485,2544652
+P29,PRÜFEN (Verlinkung),Hochschule Mannheim,hs-mannheim.de,71.0,1591,20608655
+P30,PRÜFEN (Verlinkung),Technische Hochschule Ulm (THU),thu.de,63.0,477,12864
+P31,PRÜFEN (Verlinkung),Hochschule Landshut,haw-landshut.de,69.0,1392,100027
+S26,SPONSORING-SEITE,TH Rosenheim,th-rosenheim.de,72.0,1603,79030
+S20,SPONSORING-SEITE,Hochschule Hof,hof-university.de,67.0,796,66725
+8,LINK VERIFIZIERT,HSWT Weihenstephan-Triesdorf,hswt.de,72.0,1939,122541
+S21,SPONSORING-SEITE,Hochschule Biberach (HBC),hochschule-biberach.de,65.0,585,36292
+S28,SPONSORING-SEITE,HfWU Nürtingen-Geislingen,hfwu.de,71.0,21,1324909
+P34,PRÜFEN (Verlinkung),TH Ingolstadt (THI),thi.de,71.0,1732,238674
+P35,PRÜFEN (Verlinkung),TH Wildau,th-wildau.de,71.0,2838,247842
+P36,PRÜFEN (Verlinkung),TH Brandenburg,th-brandenburg.de,68.0,1805,315426
+P37,PRÜFEN (Verlinkung),HS Magdeburg-Stendal,h2.de,72.0,1896,14304701
+P38,PRÜFEN (Verlinkung),HS Merseburg,hs-merseburg.de,68.0,1142,206135
+P39,PRÜFEN (Verlinkung),HS Anhalt,hs-anhalt.de,72.0,7,197
+9,LINK VERIFIZIERT,HS Mittweida,hs-mittweida.de,73.0,2679,1078900
+P40,PRÜFEN (Verlinkung),HTW Dresden,htw-dresden.de,72.0,5526,814477
+P41,PRÜFEN (Verlinkung),HS Schmalkalden,hs-schmalkalden.de,60.0,890,139030
+10,LINK VERIFIZIERT,EAH Jena (Ernst-Abbe-Hochschule),eah-jena.de,71.0,1421,714222
+-,AUSGESCHLOSSEN,HS Nordhausen,hs-nordhausen.de,60.0,53,5606
+-,AUSGESCHLOSSEN,Westsächsische HS Zwickau (WHZ),whz.de,68.0,1801,1975517
+-,AUSGESCHLOSSEN,TH Mittelhessen (THM),thm.de,75.0,903,75857
+S29,SPONSORING-SEITE,HS Fulda,hs-fulda.de,74.0,3165,1160240
+-,AUSGESCHLOSSEN,HS RheinMain,hs-rm.de,74.0,2387,244082
+P43,PRÜFEN (Verlinkung),HS Trier,hochschule-trier.de,71.0,2347,151240
+P44,PRÜFEN (Verlinkung),HS Koblenz,hs-koblenz.de,71.0,1954,164888
+P45,PRÜFEN (Verlinkung),HS Mainz,hs-mainz.de,72.0,2833,828539
+S30,SPONSORING-SEITE,HS Kaiserslautern,hs-kl.de,68.0,1246,729197
+P47,PRÜFEN (Verlinkung),HS Geisenheim,hs-geisenheim.de,70.0,988,158810
+-,AUSGESCHLOSSEN,HS Zittau/Görlitz (HSZG),hszg.de,69.0,2693,1039869
+-,AUSGESCHLOSSEN,Hochschule Bremen (HSB),hs-bremen.de,73.0,2583,96238
+P48,PRÜFEN (Verlinkung),Hochschule Bremerhaven,hs-bremerhaven.de,65.0,452,2309133
+11,LINK VERIFIZIERT,Frankfurt School of Finance & Management,frankfurt-school.de,74.0,1221,40409
+P49,PRÜFEN (Verlinkung),HHL Leipzig Graduate School of Management,hhl.de,66.0,629,9731
+P50,PRÜFEN (Verlinkung),EBS Universität für Wirtschaft und Recht,ebs.edu,69.0,309,14269
+-,AUSGESCHLOSSEN,hsg Bochum (Hochschule für Gesundheit),hs-gesundheit.de,63.0,31,531
+-,AUSGESCHLOSSEN,Constructor University Bremen,constructor.university,71.0,1262,65738
+P51,PRÜFEN (Verlinkung),TU Berlin,tu.berlin,80.0,1462,54443
+P52,PRÜFEN (Verlinkung),TU Dresden,tu-dresden.de,85.0,27145,13343380
+P53,PRÜFEN (Verlinkung),TU Darmstadt,tu-darmstadt.de,83.0,19137,3527722
+P54,PRÜFEN (Verlinkung),TU Braunschweig,tu-braunschweig.de,79.0,7419,750443
+-,AUSGESCHLOSSEN,TU Dortmund,tu-dortmund.de,80.0,11362,8910185
+S31,SPONSORING-SEITE,RPTU Kaiserslautern-Landau,rptu.de,77.0,7303,635952
+S32,SPONSORING-SEITE,Uni Würzburg,uni-wuerzburg.de,82.0,12956,6571917
+S33,SPONSORING-SEITE,FAU Erlangen-Nürnberg,fau.de,83.0,32333,4811720
+S34,SPONSORING-SEITE,Uni Augsburg,uni-augsburg.de,80.0,38143,5791623
+S35,SPONSORING-SEITE,Uni Bayreuth,uni-bayreuth.de,80.0,11375,7818326
+S36,SPONSORING-SEITE,Uni Freiburg,uni-freiburg.de,84.0,16334,10433283
+P61,PRÜFEN (Verlinkung),Uni Leipzig,uni-leipzig.de,84.0,14284,1409174
+-,AUSGESCHLOSSEN,SRH Hochschule Heidelberg (SRH University),srh-university.de,73.0,1007,47779
+-,AUSGESCHLOSSEN,IU Internationale Hochschule,iu.de,75.0,13,67
+-,AUSGESCHLOSSEN,Hochschule Fresenius,hs-fresenius.de,71.0,324,34171
+-,AUSGESCHLOSSEN,Hochschule Macromedia,macromedia.de,49.0,8,-59
+-,AUSGESCHLOSSEN,CBS International Business School,cbs.de,70.0,497,11301
+-,AUSGESCHLOSSEN,ISM International School of Management,ism.de,61.0,164,15381
+-,AUSGESCHLOSSEN,Hertie School,hertie-school.org,73.0,2154,361541
+-,AUSGESCHLOSSEN,Kühne Logistics University (KLU),klu.org,52.0,1,4
+S22,SPONSORING-SEITE,CODE University of Applied Sciences,code.berlin,64.0,194,4103
+-,AUSGESCHLOSSEN,GISMA Business School,gisma.com,53.0,244,10600
+S23,SPONSORING-SEITE,HSBA Hamburg School of Business Administration,hsba.de,63.0,312,7117
+-,AUSGESCHLOSSEN,Bucerius Law School,law-school.de,70.0,5,9
+P62,PRÜFEN (Verlinkung),ESCP Business School Berlin,escp.eu,75.0,2564,87958
+-,AUSGESCHLOSSEN,accadis Hochschule Bad Homburg,accadis.com,54.0,68,230
+S37,SPONSORING-SEITE,BSP Business & Law School Berlin,businessschool-berlin.de,51.0,331,17180
+S38,SPONSORING-SEITE,Quadriga Hochschule Berlin,quadriga-hochschule.com,53.0,224,7477
+-,AUSGESCHLOSSEN,DHBW Duale Hochschule Baden-Württemberg,dhbw.de,80.0,2531,84403
+12,LINK VERIFIZIERT,bbw Hochschule Berlin,bbw-hochschule.de,49.0,3,12
+S39,SPONSORING-SEITE,Munich Business School,munich-business-school.de,69.0,1766,39321
+13,LINK VERIFIZIERT,Provadis Hochschule Frankfurt,provadis-hochschule.de,53.0,82,3464
+-,AUSGESCHLOSSEN,EBC Hochschule,ebc-hochschule.de,34.0,0,0
+14,LINK VERIFIZIERT,Hamburger Fern-Hochschule (HFH),hfh-fernstudium.de,56.0,0,0
+P66,PRÜFEN (Verlinkung),Ruhr-Universität Bochum,ruhr-uni-bochum.de,83.0,16339,11839292
+P67,PRÜFEN (Verlinkung),Universität Paderborn,uni-paderborn.de,79.0,8392,16514277
+P68,PRÜFEN (Verlinkung),Universität Siegen,uni-siegen.de,79.0,10074,1472445
+S40,SPONSORING-SEITE,Bergische Universität Wuppertal,uni-wuppertal.de,80.0,3942,14004830
+-,AUSGESCHLOSSEN,Universität Kassel,uni-kassel.de,80.0,9761,784745
+-,AUSGESCHLOSSEN,Justus-Liebig-Universität Gießen,uni-giessen.de,81.0,3092,7566935
+P70,PRÜFEN (Verlinkung),Universität Potsdam,uni-potsdam.de,81.0,11348,3793761
+P71,PRÜFEN (Verlinkung),Otto-von-Guericke-Universität Magdeburg,ovgu.de,78.0,12273,9816568
+-,AUSGESCHLOSSEN,Carl von Ossietzky Universität Oldenburg,ugoldenburg.de,1.4,11,99
+15,LINK VERIFIZIERT,Universität Osnabrück,uni-osnabrueck.de,78.0,8561,4152220
+P72,PRÜFEN (Verlinkung),Leuphana Universität Lüneburg,leuphana.de,77.0,7702,232312
+P73,PRÜFEN (Verlinkung),Humboldt-Universität zu Berlin,hu-berlin.de,85.0,14412,725484
+16,LINK VERIFIZIERT,Universität Hohenheim,uni-hohenheim.de,79.0,331,159189
+-,AUSGESCHLOSSEN,Universität Ulm,uug-ulm.de,11.0,254,2109
+S41,SPONSORING-SEITE,Universität Bamberg,uni-bamberg.de,79.0,2341,4577091
+-,AUSGESCHLOSSEN,Katholische Universität Eichstätt-Ingolstadt,ku.de,74.0,6472,1075123
+-,AUSGESCHLOSSEN,Universität Greifswald,uni-greifswald.de,78.0,3226,1496367
+-,AUSGESCHLOSSEN,Europa-Universität Flensburg,uni-flensburg.de,71.0,3600,377742
+-,AUSGESCHLOSSEN,TU Clausthal,tu-clausthal.de,75.0,2415,139832
+P75,PRÜFEN (Verlinkung),TU Bergakademie Freiberg,tu-freiberg.de,75.0,14117,881694
+S24,SPONSORING-SEITE,TU Ilmenau,tu-ilmenau.de,77.0,10155,2735429
+17,LINK VERIFIZIERT,BTU Cottbus-Senftenberg,b-tu.de,75.0,7605,1761175
+P76,PRÜFEN (Verlinkung),Universität Vechta,uni-vechta.de,71.0,49,2695
+S42,SPONSORING-SEITE,Universität Trier,uni-trier.de,82.0,18031,884265535
+P78,PRÜFEN (Verlinkung),Hochschule Wismar,hs-wismar.de,73.0,372,890095
+P79,PRÜFEN (Verlinkung),Hochschule Neubrandenburg,hs-nb.de,69.0,2126,77463
+-,AUSGESCHLOSSEN,Ostfalia Hochschule für angewandte Wissenschaften,ostfalia.de,73.0,2734,3573486
+P80,PRÜFEN (Verlinkung),Hochschule Emden/Leer,hs-emden-leer.de,68.0,170,558582
+P81,PRÜFEN (Verlinkung),Fachhochschule Erfurt,foerderverein-fhe.de,1.8,38,87
+P82,PRÜFEN (Verlinkung),Technische Hochschule Bingen,th-bingen.de,57.0,481,42060
+P83,PRÜFEN (Verlinkung),Hochschule für Wirtschaft und Gesellschaft Ludwigshafen (HWG LU),hwg-lu.de,64.0,1011,105478
+S43,SPONSORING-SEITE,Rheinische Hochschule Köln,rh-koeln.de,60.0,150,8612
+-,AUSGESCHLOSSEN,Universität Koblenz,uni-koblenz.de,76.0,3045,618623
+P85,PRÜFEN (Verlinkung),FernUniversität in Hagen,fernuni-hagen.de,78.0,5747,954906
+P86,PRÜFEN (Verlinkung),Fachhochschule Westküste (Heide),fh-westkueste.de,59.0,482,5635
+P87,PRÜFEN (Verlinkung),htw saar (HTW des Saarlandes),htwsaar.de,71.0,2219,226011
+-,AUSGESCHLOSSEN,AKAD University,akad.de,63.0,97,5459
+-,AUSGESCHLOSSEN,Wilhelm Büchner Hochschule,wb-fernstudium.de,57.0,155,12104
+-,AUSGESCHLOSSEN,IST-Hochschule für Management,ist-hochschule.de,64.0,900,46582
+-,AUSGESCHLOSSEN,APOLLON Hochschule der Gesundheitswirtschaft,apollon-hochschule.de,60.0,284,89556
+18,LINK VERIFIZIERT,DIPLOMA Hochschule,diploma.de,57.0,281,5886
+-,KEIN FUND,DEKRA Hochschule für Medien Berlin,dekra-hochschule.de,19.0,0,0
+19,LINK VERIFIZIERT,Hochschule für angewandtes Management (FHAM),fham.de,61.0,246,5386
+S44,SPONSORING-SEITE,FHDW Fachhochschule der Wirtschaft,fhdw.de,62.0,589,28989
+-,KEIN FUND,EUFH Europäische Fachhochschule,eufh.de,62.0,0,0
+-,KEIN FUND,Allensbach Hochschule Konstanz,allensbach-hochschule.de,52.0,163,10592
+20,LINK VERIFIZIERT,SRH Fernhochschule (Mobile University),mobile-university.de,65.0,754,35275
+S45,SPONSORING-SEITE,ESMT Berlin,esmt.berlin,71.0,649,18574
+P88,PRÜFEN (Verlinkung),Karlshochschule International University Karlsruhe,karlshochschule.de,53.0,319,3917
+-,KEIN FUND,Steinbeis-Hochschule Berlin,steinbeis-hochschule.de,53.0,16,520
+-,AUSGESCHLOSSEN,SRH Berlin University of Applied Sciences,srh-berlin.de,53.0,20,745
+21,LINK VERIFIZIERT,UE University of Europe for Applied Sciences,ue-germany.com,70.0,877,21884
+22,LINK VERIFIZIERT,Berlin School of Business and Innovation (BSBI),berlinsbi.com,58.0,1009,29317
+-,KEIN FUND,Berlin International University of Applied Sciences,berlin-international.de,46.0,474,17976
+P89,PRÜFEN (Verlinkung),Mannheim Business School,mannheim-business-school.com,53.0,142,16869
+23,LINK VERIFIZIERT,SDI München (Internationale Hochschule SDI),sdi-muenchen.de,60.0,299,3818
+24,LINK VERIFIZIERT,"HMKW Hochschule für Medien, Kommunikation und Wirtschaft",media-university.de,56.0,930,136047
+-,AUSGESCHLOSSEN,FHM Fachhochschule des Mittelstands,fh-mittelstand.de,68.0,282,27416
+S46,SPONSORING-SEITE,Hochschule 21 Buxtehude,hs21.de,53.0,182,25016
+-,KEIN FUND,Fachhochschule Dresden (FHD),fh-dresden.eu,49.0,475,14147
+-,KEIN FUND,Dresden International University,di-uni.de,62.0,1,2
+25,LINK VERIFIZIERT,EBZ Business School Bochum,ebz-business-school.de,48.0,274,21513
+P90,PRÜFEN (Verlinkung),Deutsche Sporthochschule Köln,dshs-koeln.de,75.0,2110,1454756
+-,KEIN FUND,Hochschule Rottenburg,hs-rottenburg.net,57.0,647,34403
+-,AUSGESCHLOSSEN,Praxishochschule (Köln/Rheine),praxishochschule.de,59.0,0,0
+-,AUSGESCHLOSSEN,SRH Hochschule für Gesundheit Gera,srh-university.de,73.0,1007,47779
+S47,SPONSORING-SEITE,Mediadesign Hochschule (MD.H),mediadesign.de,62.0,1072,17101
+26,LINK VERIFIZIERT,DHGS Deutsche Hochschule für Gesundheit und Sport,dhgs-hochschule.de,52.0,302,4014
+-,KEIN FUND,Charlotte Fresenius Hochschule,charlotte-fresenius-uni.de,37.0,143,1283
+-,AUSGESCHLOSSEN,MSB Medical School Berlin,medicalschool-berlin.de,57.0,366,12067
+-,AUSGESCHLOSSEN,MSH Medical School Hamburg,medicalschool-hamburg.de,62.0,579,44330
+27,LINK VERIFIZIERT,Hochschule Döpfer (HSD),hs-doepfer.de,51.0,251,7987
+28,LINK VERIFIZIERT,DHfPG Deutsche Hochschule für Prävention und Gesundheitsmanagement,dhfpg.de,70.0,527,67368
+-,KEIN FUND,IB-Hochschule Berlin,ib-hochschule.de,41.0,0,0
+-,AUSGESCHLOSSEN,XU Exponential University Potsdam,xu-university.com,42.0,36,695
+S48,SPONSORING-SEITE,HAWK Hildesheim/Holzminden/Göttingen,hawk.de,73.0,2028,2615363
+P91,PRÜFEN (Verlinkung),Hochschule für nachhaltige Entwicklung Eberswalde (HNEE),hnee.de,72.0,936,37180
+P92,PRÜFEN (Verlinkung),HafenCity Universität Hamburg,hcu-hamburg.de,71.0,1320,86743
+-,AUSGESCHLOSSEN,Alice Salomon Hochschule Berlin,ash-berlin.eu,71.0,2352,39696
+29,LINK VERIFIZIERT,Hochschule Weserbergland Hameln,hsw-hameln.de,52.0,336,7483
+-,KEIN FUND,Katholische Hochschule für Sozialwesen Berlin (KHSB),khsb-berlin.de,62.0,67,364
+-,AUSGESCHLOSSEN,Katholische Hochschule Nordrhein-Westfalen (KatHO NRW),katho-nrw.de,70.0,1573,1126447
+P93,PRÜFEN (Verlinkung),Katholische Stiftungshochschule München (KSH),ksh-muenchen.de,63.0,302,2827
+-,AUSGESCHLOSSEN,Katholische Hochschule Mainz (KH Mainz),kh-mz.de,54.0,2,341
+-,AUSGESCHLOSSEN,Katholische Hochschule Freiburg (KH Freiburg),kh-freiburg.de,63.0,499,317768
+-,AUSGESCHLOSSEN,Evangelische Hochschule Berlin (EHB),eh-berlin.de,58.0,593,10787
+P94,PRÜFEN (Verlinkung),Evangelische Hochschule Darmstadt (EH Hessen),eh-hessen.de,50.0,360,16372
+-,KEIN FUND,Evangelische Hochschule Dresden (EHS Dresden),ehs-dresden.de,57.0,578,715040
+-,KEIN FUND,Evangelische Hochschule Freiburg (EH Freiburg),eh-freiburg.de,60.0,276,10980
+-,AUSGESCHLOSSEN,Evangelische Hochschule Ludwigsburg (EH Ludwigsburg),eh-ludwigsburg.de,51.0,346,9974
+P95,PRÜFEN (Verlinkung),Evangelische Hochschule Nürnberg (EVHN),evhn.de,59.0,487,18781
+-,AUSGESCHLOSSEN,Universität der Künste Berlin (UdK),udk-berlin.de,78.0,5547,706473
+-,AUSGESCHLOSSEN,Kunsthochschule Berlin-Weißensee,kh-berlin.de,69.0,1348,6856475
+-,AUSGESCHLOSSEN,Hochschule für Bildende Künste Dresden,hfbk-dresden.de,63.0,4,20
+-,AUSGESCHLOSSEN,Hochschule für Grafik und Buchkunst Leipzig,hgb-leipzig.de,71.0,1737,839169
+P96,PRÜFEN (Verlinkung),Hochschule für Bildende Künste Braunschweig,hbk-bs.de,67.0,595,13761207
+-,AUSGESCHLOSSEN,Hochschule für Bildende Künste Hamburg,hfbk-hamburg.de,70.0,3161,57084
+-,AUSGESCHLOSSEN,Kunstakademie Düsseldorf,kunstakademie-duesseldorf.de,61.0,130,305
+-,AUSGESCHLOSSEN,Kunstakademie Münster,kunstakademie-muenster.de,54.0,541,9775
+-,AUSGESCHLOSSEN,Akademie der Bildenden Künste München,adbk.de,69.0,1229,113217
+-,AUSGESCHLOSSEN,Akademie der Bildenden Künste Nürnberg,adbk-nuernberg.de,58.0,376,11896
+-,AUSGESCHLOSSEN,Staatliche Akademie der Bildenden Künste Stuttgart,abk-stuttgart.de,69.0,1494,57913
+-,AUSGESCHLOSSEN,Evangelische Hochschule RWL Bochum,evh-bochum.de,55.0,682,109375
+-,AUSGESCHLOSSEN,Evangelische Hochschule für Soziale Arbeit & Diakonie Hamburg (Rauhes Haus),rauheshaus.de,55.0,60,4731
+-,KEIN FUND,CVJM-Hochschule Kassel,cvjm-hochschule.de,52.0,262,20495
+-,AUSGESCHLOSSEN,Theologische Hochschule Friedensau,thh-friedensau.de,50.0,252,3062929
+-,KEIN FUND,Kirchliche Hochschule Wuppertal/Bethel,kiho-wuppertal-bethel.de,29.0,0,0
+-,AUSGESCHLOSSEN,Augustana-Hochschule Neuendettelsau,augustana.de,47.0,0,0
+-,KEIN FUND,Philosophisch-Theologische Hochschule Vallendar (PTHV),pthv.de,40.0,0,0
+P97,PRÜFEN (Verlinkung),Hochschule für Philosophie München,hfph.de,63.0,336,3771
+-,KEIN FUND,Internationale Hochschule Liebenzell,ih-liebenzell.de,0.0,0,0
+P98,PRÜFEN (Verlinkung),Theologische Hochschule Reutlingen,th-reutlingen.de,37.0,98,1291
+S49,SPONSORING-SEITE,Hochschule für Jüdische Studien Heidelberg,hfjs.eu,58.0,479,18105
+30,LINK VERIFIZIERT,Hochschule für Musik und Theater Rostock,hmt-rostock.de,60.0,475,74847
+31,LINK VERIFIZIERT,Popakademie Baden-Württemberg Mannheim,popakademie.de,58.0,348,57677
+P99,PRÜFEN (Verlinkung),Hochschule für Musik Detmold,hfm-detmold.de,64.0,73,2307063
+P100,PRÜFEN (Verlinkung),Hochschule für Musik Saar Saarbrücken,hfmsaar.de,54.0,2,4
+P101,PRÜFEN (Verlinkung),Hochschule für Musik Franz Liszt Weimar,hfm-weimar.de,66.0,943,69189
+-,AUSGESCHLOSSEN,Hochschule für Musik Nürnberg,hfm-nuernberg.de,59.0,242,22053
+-,AUSGESCHLOSSEN,Robert Schumann Hochschule Düsseldorf,rsh-duesseldorf.de,62.0,434,12555
+-,AUSGESCHLOSSEN,Hochschule für Musik und Tanz Köln,hfmt-koeln.de,67.0,496,53032
+-,AUSGESCHLOSSEN,Hochschule für katholische Kirchenmusik und Musikpädagogik Regensburg,hfkm-regensburg.de,41.0,55,2059
+-,AUSGESCHLOSSEN,Hochschule für Kirchenmusik Heidelberg,hfk-heidelberg.de,38.0,0,0
+-,KEIN FUND,Hochschule für evangelische Kirchenmusik Bayreuth,hfkm-bayreuth.de,0.0,0,0
+P102,PRÜFEN (Verlinkung),Staatliche Akademie der Bildenden Künste Karlsruhe,kunstakademie-karlsruhe.de,51.0,189,12217
+P103,PRÜFEN (Verlinkung),Hochschule für Gestaltung Offenbach (HfG Offenbach),hfg-offenbach.de,68.0,3349,215828
+P104,PRÜFEN (Verlinkung),Staatliche Hochschule für Gestaltung Karlsruhe (HfG Karlsruhe),hfg-karlsruhe.de,69.0,1385,68254
+P105,PRÜFEN (Verlinkung),Burg Giebichenstein Kunsthochschule Halle,burg-halle.de,72.0,6878,227878
+P106,PRÜFEN (Verlinkung),Muthesius Kunsthochschule Kiel,muthesius-kunsthochschule.de,66.0,0,0
+P107,PRÜFEN (Verlinkung),Kunsthochschule für Medien Köln (KHM),khm.de,71.0,3447,175036
+P108,PRÜFEN (Verlinkung),Hochschule für Künste Bremen (HfK Bremen),hfk-bremen.de,70.0,1351,91696
+-,KEIN FUND,Hochschule für Gestaltung Schwäbisch Gmünd (HfG Gmünd),hfg-gmuend.de,70.0,611,7065
+S50,SPONSORING-SEITE,Folkwang Universität der Künste Essen,folkwang-uni.de,71.0,1186,45821
+P109,PRÜFEN (Verlinkung),Bauhaus-Universität Weimar,uni-weimar.de,78.0,8038,364715
+P110,PRÜFEN (Verlinkung),"Alanus Hochschule für Kunst und Gesellschaft, Alfter",alanus.edu,70.0,88,12516
+P111,PRÜFEN (Verlinkung),Hochschule für Musik und Theater München,hmtm.de,64.0,300,23427
+32,LINK VERIFIZIERT,Hochschule für Musik und Theater Hamburg,hfmt-hamburg.de,72.0,2135,2352943
+P112,PRÜFEN (Verlinkung),Hochschule für Musik und Theater Leipzig,hmt-leipzig.de,67.0,619,58882
+P113,PRÜFEN (Verlinkung),Hochschule für Musik Hanns Eisler Berlin,hfm-berlin.de,63.0,229,35310
+P114,PRÜFEN (Verlinkung),Hochschule für Musik Carl Maria von Weber Dresden,hfmdd.de,61.0,342,66416
+-,AUSGESCHLOSSEN,Hochschule für Musik Freiburg,mh-freiburg.de,63.0,1154,73477
+-,AUSGESCHLOSSEN,Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart,hmdk-stuttgart.de,64.0,42,10203
+P115,PRÜFEN (Verlinkung),Hochschule für Musik Karlsruhe,hfm-karlsruhe.de,61.0,589,3598
+P116,PRÜFEN (Verlinkung),Hochschule für Musik und Darstellende Kunst Mannheim,muho-mannheim.de,64.0,515,14153
+P117,PRÜFEN (Verlinkung),Hochschule für Musik Trossingen,hfm-trossingen.de,59.0,371,7037
+-,KEIN FUND,Hochschule für Musik Würzburg,hfm-wuerzburg.de,60.0,1008,32283
