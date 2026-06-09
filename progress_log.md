@@ -262,3 +262,17 @@ Befund: Rohe Ausgangslink-Zahlen taugen NICHT zur Sponsoren-Erkennung (dominiert
 Echter Mehrwert: Domain Rating (DR) je Hochschule -> Priorisierung nach Backlink-Wert. DR fuer alle 309 in ahrefs_enrichment.csv; in ERGEBNIS_UEBERSICHT.md integriert (Prioritaere Backlink-Ziele nach DR).
 
 Top-Outreach-Ziele (hoher DR, Status SPONSORING-SEITE = Logos vorhanden, aber unverlinkt): KIT (85), RWTH Aachen (85), Uni Stuttgart (84), Uni Freiburg (84), Uni Bremen (83), FAU (83), Uni Wuerzburg (82), Uni Trier (82), Uni Marburg (81).
+
+---
+
+## SESSION 2026-06-09 — WELLE 5: Tiefen-Re-Check mit breitem Massstab (217 Haeuser, 19 Batches)
+
+Auf Wunsch breitere Definition "wertvoll": jede HS mit Partnerbereich/externen Firmenlinks/Firmen-Logos. METHOD_ADDENDUM.md mit neuen Tiers (FIRMEN-LINKS, FIRMEN-LOGOS, PARTNERBEREICH, KEINE FIRMEN). Re-Check aller bis dahin nicht-wertvollen Haeuser, nach DR priorisiert; Subagenten suchten aktiv Partner-/Kooperations-/Praxispartner-/Career-/Sponsoren-Seiten. Ergebnisse via update_ingest.py (Namens-Match) in CSV aktualisiert.
+
+Wichtigste Upgrades zu FIRMEN-LINKS (vorher AUSGESCHLOSSEN/PRUEFEN): TU Berlin, FU Berlin, Uni Goettingen, Hochschule Karlsruhe, Bauhaus Weimar, TH Koeln, FOM, Nordakademie, HS Anhalt (189 Partner), Hochschule Kempten (109), HS Offenburg, HS Mannheim, TH Wildau, HS Koblenz, HS Trier, HafenCity Uni, DHBW Mosbach, DHBW Karlsruhe, FH Erfurt, hsg Bochum, HS Ansbach.
+Neue FIRMEN-LOGOS: TUM, TU Dresden, Uni Muenster, Uni Mainz, TU Darmstadt, Uni Hamburg, HM Muenchen, Uni Hildesheim, Uni Koblenz, CBS, EBS, HS Magdeburg-Stendal, HS Mainz, HS Rhein-Waal (Deutschlandstipendium-/Partners-of-Excellence-/Aussteller-Firmenlisten).
+PARTNERBEREICH (neu, ~40): u.a. Jena, Dortmund, Kassel, TU Braunschweig, Paderborn, Magdeburg, Greifswald, DSHS Koeln, FH Aachen, Leuphana, THM, WHU, Mannheim Business School, Bucerius, KH Freiburg, HfBK Dresden, HfM Hanns Eisler/Trossingen/Saar/Weimar, HMT Leipzig, MSH/MSB-nahe, accadis, XU u.a.
+
+### FINALE GESAMTBILANZ (310 Institutionen)
+LINK VERIFIZIERT 53 · SPONSORING-SEITE 64 · PARTNERBEREICH 40 · AUSGESCHLOSSEN 143 · KEIN FUND 6 · PRUEFEN 4.
+=> 157 wertvolle Ziele (vorher 82). ERGEBNIS_UEBERSICHT.md neu nach DR priorisiert.
