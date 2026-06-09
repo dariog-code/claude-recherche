@@ -1,0 +1,12 @@
+RWU Hochschule Ravensburg-Weingarten | rwu.de | PRÜFEN (Verlinkung) | DR59 | Leads: tws.de, bigbluebutton.org, seezeit.com, unicum-merchandising.com, ph-weingarten.de, hochschulstart.de
+Fachhochschule Westküste (Heide) | fh-westkueste.de | PRÜFEN (Verlinkung) | DR59 | Leads: hispro.de, sked.de, di-tourismusforschung.de, intechopen.com, vocatium.de, dpma.de
+Evangelische Hochschule Nürnberg (EVHN) | evhn.de | PRÜFEN (Verlinkung) | DR59 | Leads: primuss.de, bayern-evangelisch.de, bib-bvb.de, ercas.de, eveeno.com, vgn.de
+Hochschule für Musik Nürnberg | hfm-nuernberg.de | AUSGESCHLOSSEN | DR59 | Leads: dvb.bayern, netzwerk-musikhochschulen.de, theater-mummpitz.de, leonardo-zentrum.de, eventim-inhouse.de, nuernberg.de
+Hochschule für Musik Trossingen | hfm-trossingen.de | PRÜFEN (Verlinkung) | DR59 | Leads: mh-trossingen.de, netzwerk-musikhochschulen.de, my-stuwe.de, landesrecht-bw.de, vibus.de, decentsamples.com
+Evangelische Hochschule Berlin (EHB) | eh-berlin.de | AUSGESCHLOSSEN | DR58 | Leads: hispro.de, dp-wired.de, bt-merchandising.de, idw-online.de, sked.de, stw.berlin
+Akademie der Bildenden Künste Nürnberg | adbk-nuernberg.de | AUSGESCHLOSSEN | DR58 | Leads: list-manage.com, openstreetmap.org, leonardo-zentrum.de, klasse-kuehn.de, andreasfaust.de, nuernberg.de
+Technische Hochschule Bingen | th-bingen.de | PRÜFEN (Verlinkung) | DR57 | Leads: zdv.net, bingen.science, his.de, scikit-learn.org, vcrp.de, typo3.org
+Wilhelm Büchner Hochschule | wb-fernstudium.de | AUSGESCHLOSSEN | DR57 | Leads: wb-online-campus.de, klett-corporate-education.de, segreencolumn.com, klett-gruppe.de, klett-euw.de, sgd.de
+Hochschule Rottenburg | hs-rottenburg.net | KEIN FUND | DR57 | Leads: unglaublich-wichtig.de, my-stuwe.de, hochschulregion.de, eui-rottenburg.de, theforestcleanup.de, pioniergarten.de
+MSB Medical School Berlin | medicalschool-berlin.de | AUSGESCHLOSSEN | DR57 | Leads: trainex32.de, hafencity-institut-systemische-ausbildung.de, institut-integrative-psychotherapieausbildung.berlin, private-hochschulen.info, iro-group.de, health-and-medical-university.de
+Evangelische Hochschule Dresden (EHS Dresden) | ehs-dresden.de | KEIN FUND | DR57 | Leads: telegra.ph, hochschulforumdigitalisierung.de, htw-dresden.de, qucosa.de, bibliothek-campusjohannstadt.de, sachsen-fernsehen.de

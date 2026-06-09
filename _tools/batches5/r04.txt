@@ -1,0 +1,12 @@
+Bauhaus-Universität Weimar | uni-weimar.de | PRÜFEN (Verlinkung) | DR78 | Leads: mfpa.de, wba-weimar.de, bau-ha.us, bauhaus.fm, mixcloud.com, bionet.net
+HAW Hamburg | haw-hamburg.de | AUSGESCHLOSSEN | DR77 | Leads: plone.org, usc.edu, blinde-kuh.de, jugendserver-hamburg.net, ferienpass.net, kinderfilmring.net
+TH Köln | th-koeln.de | AUSGESCHLOSSEN | DR77 | Leads: sinatrarb.com, mycore.de, spotseven.de, bibsonomy.org, h-brs.de, digital-sciences.de
+FH Münster | fh-muenster.de | PRÜFEN (Verlinkung) | DR77 | Leads: astafh.de, panopto.eu, fh.ms, unglaublich-wichtig.de, climate-extender.de, die-jobboersen.de
+Leuphana Universität Lüneburg | leuphana.de | PRÜFEN (Verlinkung) | DR77 | Leads: geogebra.org, dokuwiki.org, sun.com, eumamae.com, mathematik-sehen-und-verstehen.de, hochschulforumdigitalisierung.de
+Hochschule München (HM) | hm.edu | AUSGESCHLOSSEN | DR76 | Leads: mahara.org, primuss.de, dvb.bayern, sce.de, vamtam.com, 3wadmin.de
+Universität Hildesheim | uni-hildesheim.de | AUSGESCHLOSSEN | DR76 | Leads: mit.edu, ox.ac.uk, waikato.ac.nz, berkeley.edu, ecmlpkdd.org, cmu.edu
+Universität Koblenz | uni-koblenz.de | AUSGESCHLOSSEN | DR76 | Leads: erc.is, unishop-koblenz.de, khg-koblenz.de, his.de, kirchenkreis-koblenz.de, study-in-koblenz.de
+FOM Hochschule | fom.de | AUSGESCHLOSSEN | DR75 | Leads: fom-international.com, oc-digital.de, bildungscentrum.de, fom-net.de, fom-blog.de, guidecom.de
+Hochschule Darmstadt (h_da) | h-da.de | AUSGESCHLOSSEN | DR75 | Leads: univ-tech.eu, hawtech.de, fernmaster.de, typo3.org, initiatived21.de, typo3.community
+TH Mittelhessen (THM) | thm.de | AUSGESCHLOSSEN | DR75 | Leads: biosciencedbc.jp, encodeproject.org, his.de, sonarsource.com, esa.int, mahara.org
+IU Internationale Hochschule | iu.de | AUSGESCHLOSSEN | DR75 | Leads: constr.dev, iu.org, iu-fernstudium.de, iu-careers.com, iu-shop.com, iu-akademie.de

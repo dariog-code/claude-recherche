@@ -1,0 +1,12 @@
+Universität des Saarlandes | uni-saarland.de | AUSGESCHLOSSEN | DR82 | Leads: uks.eu, researchr.org, inria.fr, pubmlst.org, rechtsinformatik.saarland, rocq-prover.org
+Universität Duisburg-Essen | uni-due.de | PRÜFEN (Verlinkung) | DR82 | Leads: mycore.de, didaktik.info, campusreport.online, uaruhr.de, innopreneurship.de, uk-essen.de
+Universität Bielefeld | uni-bielefeld.de | PRÜFEN (Verlinkung) | DR82 | Leads: cris.nrw, panopto.eu, neolaiacampus.eu, taskcards.app, getindico.io, literaturgeschichten.de
+Christian-Albrechts-Universität zu Kiel (CAU) | uni-kiel.de | PRÜFEN (Verlinkung) | DR82 | Leads: haki-sh.de, dfg-spp-icdp.de, wpdownloadmanager.com, curry-lang.org, uksh.de, newscientist.com
+Friedrich-Schiller-Universität Jena | uni-jena.de | PRÜFEN (Verlinkung) | DR82 | Leads: adh.de, thueringen-weltoffen.de, getindico.io, oeaw.ac.at, gap-system.org, sagemath.org
+Universität Halle (MLU) | uni-halle.de | PRÜFEN (Domain) | DR81 | Leads: dini.de, h2.de, umh.de, ovgu.de, wsv.de, gnd.network
+Universität Konstanz | uni-konstanz.de | PRÜFEN (Verlinkung) | DR81 | Leads: htwg-konstanz.de, basex.org, europeansurveyresearch.org, kit.edu, gesis.org, sfu.ca
+Universität Regensburg | uni-regensburg.de | AUSGESCHLOSSEN | DR81 | Leads: ur.de, ur-library.de, ukr.de, campusstore-regensburg.de, lmu.de, wisskomm.social
+Justus-Liebig-Universität Gießen | uni-giessen.de | AUSGESCHLOSSEN | DR81 | Leads: semantics.de, ukgm.info, campus-nes.de, stackoverflow.com, schemaspy.org, rka.de
+Universität Potsdam | uni-potsdam.de | PRÜFEN (Verlinkung) | DR81 | Leads: semantics.de, dfn.de, openstreetmap.org, unishop-potsdam.de, klischee-frei.de, scholarsatrisk.org
+Universität Rostock | uni-rostock.de | PRÜFEN (Domain) | DR80 | Leads: iec-rostock.de, genealogy.net, soton.ac.uk, southampton.ac.uk, geonames.org, dzne.de
+Universität Mannheim | uni-mannheim.de | PRÜFEN (Verlinkung) | DR80 | Leads: soton.ac.uk, absolventum.de, southampton.ac.uk, e-humanities.net, mannheim-business-school.com, sabinecarey.com

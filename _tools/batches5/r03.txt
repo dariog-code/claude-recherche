@@ -1,0 +1,12 @@
+TU Berlin | tu.berlin | PRÜFEN (Verlinkung) | DR80 | Leads: wisskomm.social, gesetze-im-internet.de, cafenero.net, berlin-universities-publishing.de, qualitative-research.net, cogitatiopress.com
+TU Dortmund | tu-dortmund.de | AUSGESCHLOSSEN | DR80 | Leads: stwdo.de, fhcrc.org, fredhutch.org, genomic.social, ruhr-innovation-lab.de, zulipchat.com
+DHBW Duale Hochschule Baden-Württemberg | dhbw.de | AUSGESCHLOSSEN | DR80 | Leads: bildungscampus.hn, liv-bib.de, brain-appeal.com, meetergo.com, redi-bw.de, stuv-heidenheim.de
+Universität Kassel | uni-kassel.de | AUSGESCHLOSSEN | DR80 | Leads: panopto.eu, bibsonomy.org, wi-kassel.de, wp.com, frankfurt-airport.com, kvg.de
+HTW Berlin | htw-berlin.de | PRÜFEN (Verlinkung) | DR79 | Leads: htw.berlin, stw.berlin, htwk-leipzig.de, eah-jena.de, europa-uni.de, berlin-university-alliance.de
+TU Braunschweig | tu-braunschweig.de | PRÜFEN (Verlinkung) | DR79 | Leads: wisskomm.social, traces-project.eu, dini.de, sympa.community, mycore.de, aiaa.org
+Universität Paderborn | uni-paderborn.de | PRÜFEN (Verlinkung) | DR79 | Leads: upb.de, semantics.de, librecat.org, unishop-paderborn.de, tecup.de, stwpb.de
+Universität Siegen | uni-siegen.de | PRÜFEN (Verlinkung) | DR79 | Leads: phpmyfaq.de, berufsschullehrer-werden.info, fablab-siegen.de, meineverwaltung.nrw, snspa.ro, idw-online.de
+Otto-von-Guericke-Universität Magdeburg | ovgu.de | PRÜFEN (Verlinkung) | DR78 | Leads: sun.com, mvz-cracau.de, wi-md.de, enzyklopaedie-der-wirtschaftsinformatik.de, mft-online.de, medizinische-fakultaeten.de
+Universität Greifswald | uni-greifswald.de | AUSGESCHLOSSEN | DR78 | Leads: ckan.org, niederdeutsche-literatur.de, opendefinition.org, unimedizin-greifswald.de, greifswaldmoor.de, galileocomputing.de
+FernUniversität in Hagen | fernuni-hagen.de | PRÜFEN (Verlinkung) | DR78 | Leads: jku.at, fernstudien.at, ki-campus.org, bildung.social, leafletjs.com, feu.de
+Universität der Künste Berlin (UdK) | udk-berlin.de | AUSGESCHLOSSEN | DR78 | Leads: deutschlandfunkkultur.de, rbb-online.de, brandeins.de, brandquarterly.com, radiodrei.de, berliner-zeitung.de

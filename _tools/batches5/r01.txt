@@ -1,0 +1,12 @@
+TU München | tum.de | AUSGESCHLOSSEN | DR87 | Leads: mytum.de, architekturmuseum.de, opencampus.net, appspot.com, ckan.org, getindico.io
+Universität Heidelberg | uni-heidelberg.de | AUSGESCHLOSSEN | DR87 | Leads: dini.de, wiss-ki.eu, open-access.net, arthistoricum.net, openarchives.org, nuernberg.de
+Freie Universität Berlin | fu-berlin.de | AUSGESCHLOSSEN | DR86 | Leads: dini.de, berlin.social, torproject.org, stw.berlin, wisspub.net, ur.de
+Universität Tübingen | uni-tuebingen.de | AUSGESCHLOSSEN | DR85 | Leads: my-stuwe.de, bawü.social, ecosia.org, mastodonshare.com, tuebinale.de, iwm-tuebingen.de
+TU Dresden | tu-dresden.de | PRÜFEN (Verlinkung) | DR85 | Leads: slub-dresden.de, wisskomm.social, eutopia-university.eu, esim-project.eu, twoday.net, znuny.org
+Goethe-Universität Frankfurt | uni-frankfurt.de | AUSGESCHLOSSEN | DR84 | Leads: geneontology.org, ucsc.edu, rhein-main-universitaeten.de, goethe-university-frankfurt.de, redi-bw.de, unireport.info
+Universität Münster | uni-muenster.de | AUSGESCHLOSSEN | DR84 | Leads: ercis.org, ukm.de, 100-jahre-universitaetsmedizin-muenster.de, ukmuenster.de, clinicalkey.com, wwu.de
+Universität Göttingen | uni-goettingen.de | PRÜFEN (Verlinkung) | DR84 | Leads: openbiblio.social, gutenbergdigital.de, stellenwerk-goettingen.de, vd17.de, gwdg.de, animalbase.org
+Uni Leipzig | uni-leipzig.de | PRÜFEN (Verlinkung) | DR84 | Leads: dataverse.org, taskcards.app, scads.ai, idiv.de, deutsches-literaturinstitut.de, wisskomm.social
+Universität Mainz (JGU) | uni-mainz.de | PRÜFEN (Domain) | DR83 | Leads: oeis.org, adwmainz.de, getindico.io, wisskomm.social, hi-mainz.de, unimedizin-mainz.de
+Leibniz Universität Hannover | uni-hannover.de | PRÜFEN (Verlinkung) | DR83 | Leads: cleopatra-project.eu, l3s.de, upm.es, wikiquote.org, hochschulverband.de, tu9.de
+TU Darmstadt | tu-darmstadt.de | PRÜFEN (Verlinkung) | DR83 | Leads: calendar.cx, phpicalendar.net, jstatsoft.org, nfdi4ing.de, gnd.network, oup.com

@@ -1,0 +1,12 @@
+Technische Hochschule Ulm (THU) | thu.de | PRÜFEN (Verlinkung) | DR63 | Leads: jobportal-ulm.de, moodle-thu.de, htwg-konstanz.de, ulm.de, servicerobotik-ulm.de, hochschulstart.de
+hsg Bochum (Hochschule für Gesundheit) | hs-gesundheit.de | AUSGESCHLOSSEN | DR63 | Leads: vimp.com, his.de, hochschulstart.de, openstreetmap.org, kobotoolbox.org, enketo.org
+AKAD University | akad.de | AUSGESCHLOSSEN | DR63 | Leads: site.com, akad-campus.de, ibm.com, userlike.com, myworkdayjobs.com, zfu.de
+Katholische Stiftungshochschule München (KSH) | ksh-muenchen.de | PRÜFEN (Verlinkung) | DR63 | Leads: 4me.com, ksh-m.de, makers-of-tomorrow.de, eveeno.com, erzbistum-muenchen.de, kloster-benediktbeuern.de
+Katholische Hochschule Freiburg (KH Freiburg) | kh-freiburg.de | AUSGESCHLOSSEN | DR63 | Leads: videolectures.net, ruhr-uni-bochum.de, e-teaching.org, stangl.eu, gabler.de, degruyterbrill.com
+Hochschule für Bildende Künste Dresden | hfbk-dresden.de | AUSGESCHLOSSEN | DR63 | Leads: libero-is.de, his.de, mailenable.com
+Hochschule für Philosophie München | hfph.de | PRÜFEN (Verlinkung) | DR63 | Leads: academyfive.net, openstreetmap.org, amazon.de, campusapp.net, center-responsible-ai.de, digilog-transformation.com
+Hochschule für Musik Hanns Eisler Berlin | hfm-berlin.de | PRÜFEN (Verlinkung) | DR63 | Leads: cas.de, konzerthaus.de, agi-imc.de, muvac.com, die-deutschen-musikhochschulen.de, appointmind.net
+Hochschule für Musik Freiburg | mh-freiburg.de | AUSGESCHLOSSEN | DR63 | Leads: badische-zeitung.de, freiburg.de, swfr.de, humdrum.org, unsplash.com, dgfmm.org
+Hochschule Ansbach | hs-ansbach.de | PRÜFEN (Modell) | DR62 | Leads: cforum-hs-ansbach.de, hightechagenda.de, mwn.de, primuss.de, fsan.de, userway.org
+EUFH Europäische Fachhochschule | eufh.de | KEIN FUND | DR62 | Leads: cbs.de, simovative.com
+Dresden International University | di-uni.de | KEIN FUND | DR62 | Leads: 
