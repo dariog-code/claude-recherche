@@ -37,7 +37,9 @@ def main():
             miss+=1; log.append(f"  !! NO MATCH: {it.get('hochschule')}"); continue
         vals=[st]+[str(it.get(k,"") or "") for k in KEYS[1:]]
         # row layout: [Nr, status, hochschule, typ, verein, firmenmit, jahr, listung, bewert, k1.., k2..]
-        for i,v in enumerate(vals): row[i+1]=v
+        # status (i=0) always set; other fields only overwrite when new value non-empty
+        for i,v in enumerate(vals):
+            if i==0 or v.strip(): row[i+1]=v
         upd+=1; log.append(f"  {it.get('hochschule')[:48]}: -> {st}")
     renumber(rows)
     bad=[i for i,r in enumerate(rows) if len(r)!=19]
