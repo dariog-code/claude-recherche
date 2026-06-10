@@ -1,0 +1,12 @@
+Fraunhofer IAO Stuttgart | iao.fraunhofer.de
+Fraunhofer IIS Erlangen | iis.fraunhofer.de
+Fraunhofer IPA Stuttgart | ipa.fraunhofer.de
+Fraunhofer IML Dortmund | iml.fraunhofer.de
+Fraunhofer HHI Berlin | hhi.fraunhofer.de
+Fraunhofer ISE Freiburg | ise.fraunhofer.de
+Fraunhofer IZM Berlin | izm.fraunhofer.de
+Fraunhofer IPT Aachen | ipt.fraunhofer.de
+Fraunhofer IESE Kaiserslautern | iese.fraunhofer.de
+Fraunhofer IGD Darmstadt | igd.fraunhofer.de
+Fraunhofer IFAM Bremen | ifam.fraunhofer.de
+Fraunhofer IWU Chemnitz | iwu.fraunhofer.de
