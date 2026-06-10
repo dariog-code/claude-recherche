@@ -69,6 +69,30 @@ rows = [
  ["PARTNERBEREICH","Hagen","hagen.de","hagen.de/aus-dem-rathaus/.../kulturbuero-hagen/","3","Kulturbüro Hauptsponsoren (Prosa) auf offiz. Domain","","","","","","",""],
  ["PARTNERBEREICH","Schwerin","schwerin.de","schwerin.de/.../konservatorium/sponsoren-foerderer-partner/","1","Konservatorium Sponsorenseite (Sparkassen-Stiftung) auf offiz. Domain","","","","","","",""],
  ["PARTNERBEREICH","Düren","dueren.de","dueren.de/.../lions-kulturtage...","1","Lions Kulturtage (Sparkasse Düren) auf offiz. Domain","","","","","","",""],
+
+ # --- nolis-CMS Gemeinden/Kleinstädte (offizielle Domain) ---
+ ["FIRMEN-LINKS","Holzminden","holzminden.de","holzminden.de/portal/seiten/foerderer-sponsoren-900000404-25610.html","~10","~9-11 dofollow Firmen (Symrise, Stiebel Eltron, Mercedes Beineke) auf offiz. nolis-Domain",
+  "Maike Riesenberg","Innenstadtmanagerin/Kulturamt","riesenberg.maike@holzminden.de","risky (78)","Kulturamt","kulturamt@holzminden.de","risky (79)"],
+ ["FIRMEN-LINKS","Frohburg","frohburg.de","frohburg.de/portal/seiten/sponsoren-gesucht-900000074-27270.html","6","6 dofollow + 7 Logos (Erntedankfest) auf offiz. nolis-Domain",
+  "Sylvia Grundei","Stadtverwaltung","s.grundei@frohburg.de","deliverable (90)","Stadtverwaltung","stadt@frohburg.de","deliverable (100)"],
+ ["FIRMEN-LOGOS","Waldheim","stadt-waldheim.de","stadt-waldheim.de/portal/seiten/sponsoren-900000174-26400.html","21","21 Firmenlogos (Heimatfest) unverlinkt auf offiz. nolis-Domain",
+  "Steffen Ernst","Bürgermeister","sernst@stadt-waldheim.de","risky (79)","Stadtinformation","info@stadt-waldheim.de","deliverable (100)"],
+ ["FIRMEN-LOGOS","Nienburg/Weser","nienburg.de","nienburg.de/portal/seiten/sponsoren-902000541-21501.html","21","17 Sponsoren + 4 Partner (Adventszauber) unverlinkt auf offiz. nolis-Domain",
+  "Hendrik Schumacher","City-/Stadtmarketing","h.schumacher@nienburg.de","deliverable (100)","Adventszauber-Team","adventszauber@nienburg.de","deliverable (100)"],
+ ["FIRMEN-LOGOS","Rudolstadt","rudolstadt.de","altstadtfest.rudolstadt.de/sponsoren","24","24 Firmenlogos (Altstadtfest) auf offiz. Subdomain, interne Links",
+  "Ulrike Haas","Presse/Öffentlichkeitsarbeit","u.haas@rudolstadt.de","deliverable (100)","Presseamt","presseamt@rudolstadt.de","deliverable (100)"],
+ ["PARTNERBEREICH","Schkeuditz","schkeuditz.de","schkeuditz.de/portal/seiten/dank-an-sponsoren-900000289-27780.html","2","2 dofollow Firmen (DHL Hub, Globana) auf offiz. nolis-Domain",
+  "Ronald Krause","Pressesprecher","ronald.krause@schkeuditz.de","Muster","Pressestelle","pressestelle@schkeuditz.de","risky (70)"],
+ ["PARTNERBEREICH","Rhede","rhede.de","rhede.de/portal/seiten/sponsoring-900000306-28220.html","Sponsoring","Sponsoring-Programmseite (Mustervertrag) auf offiz. nolis-Domain, Firmen unverlinkt",
+  "Martin Bröker","Stellv. Kämmerer","info@rhede.de","nicht geprüft","","",""],
+ ["PARTNERBEREICH","Seevetal","seevetal.de","seevetal.de/portal/seiten/sponsoring-von-gruenflaechen-auf-kreiseln-910000997-20200.html","2","Kreisel-Sponsoring 2 Firmen unverlinkt auf offiz. nolis-Domain",
+  "Stabsstelle Umwelt","Umwelt","stadtradeln@seevetal.de","nicht geprüft","","",""],
+ ["PARTNERBEREICH","Lauterecken","lauterecken.de","lauterecken.de/partner--sponsoren","3","Partner & Sponsoren, 1 dofollow (Bittmann-Stiftung) auf offiz. Domain",
+  "Isabel Steinhauer-Theis","Stadtbürgermeisterin","stadthaus@lauterecken.de","nicht geprüft","Planungsteam Veranstaltungen","planungsteam@lauterecken.de","nicht geprüft"],
+ ["PARTNERBEREICH","Cloppenburg","cloppenburg.de","cloppenburg.de/portal/seiten/citylauf-900000016-31040.html","5","5 Firmen (Citylauf) genannt/unverlinkt auf offiz. nolis-Domain",
+  "Jens Kramer","SG-Leiter Kultur & Tourismus","j.kramer@cloppenburg.de","deliverable (100)","Andy Albers","a.albers@cloppenburg.de","deliverable (100)"],
+ ["FIRMEN-LOGOS","Osterode am Harz","osterode.de","osterode.de/portal/seiten/osteroder-stadtfest-2025-912001165-21351.html","Banner","Stadtfest-Sponsoren als Sammelgrafik auf offiz. nolis-Domain (schwach, nicht einzeln verlinkt)",
+  "Cansu Ceylan","Öffentlichkeit/Kultur","cansu.ceylan@osterode.de","risky (81)","","",""],
 ]
 
 with open("recherche_staedte_offiziell.csv","w",newline="") as f:
