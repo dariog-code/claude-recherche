@@ -1,0 +1,12 @@
+Moers | moers.de
+Siegen | siegen.de
+Hildesheim | hildesheim.de
+Cottbus | cottbus.de
+Gütersloh | guetersloh.de
+Kaiserslautern | kaiserslautern.de
+Witten | witten.de
+Gera | gera.de
+Iserlohn | iserlohn.de
+Schwerin | schwerin.de
+Düren | dueren.de
+Esslingen am Neckar | esslingen.de

@@ -1,0 +1,12 @@
+Bielefeld | bielefeld.de
+Bonn | bonn.de
+Münster | muenster.de
+Karlsruhe | karlsruhe.de
+Augsburg | augsburg.de
+Wiesbaden | wiesbaden.de
+Mönchengladbach | moenchengladbach.de
+Gelsenkirchen | gelsenkirchen.de
+Aachen | aachen.de
+Braunschweig | braunschweig.de
+Kiel | kiel.de
+Chemnitz | chemnitz.de

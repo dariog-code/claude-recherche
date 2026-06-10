@@ -1,0 +1,12 @@
+Berlin | berlin.de
+Hamburg | hamburg.de
+Frankfurt am Main | frankfurt.de
+Stuttgart | stuttgart.de
+Düsseldorf | duesseldorf.de
+Dortmund | dortmund.de
+Essen | essen.de
+Bremen | bremen.de
+Hannover | hannover.de
+Duisburg | duisburg.de
+Bochum | bochum.de
+Wuppertal | wuppertal.de

@@ -1,0 +1,12 @@
+Halle (Saale) | halle.de
+Magdeburg | magdeburg.de
+Freiburg im Breisgau | freiburg.de
+Krefeld | krefeld.de
+Mainz | mainz.de
+Lübeck | luebeck.de
+Erfurt | erfurt.de
+Oberhausen | oberhausen.de
+Rostock | rostock.de
+Kassel | kassel.de
+Hagen | hagen.de
+Potsdam | potsdam.de
