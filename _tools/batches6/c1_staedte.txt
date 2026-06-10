@@ -1,0 +1,10 @@
+München | muenchen.de
+Köln | koeln.de
+Dresden | dresden.de
+Leipzig | leipzig.de
+Nürnberg | nuernberg.de
+Heidelberg | heidelberg.de
+Regensburg | regensburg.de
+Würzburg | wuerzburg.de
+Paderborn | paderborn.de
+Göttingen | goettingen.de
