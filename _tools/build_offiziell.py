@@ -93,6 +93,12 @@ rows = [
   "Jens Kramer","SG-Leiter Kultur & Tourismus","j.kramer@cloppenburg.de","deliverable (100)","Andy Albers","a.albers@cloppenburg.de","deliverable (100)"],
  ["FIRMEN-LOGOS","Osterode am Harz","osterode.de","osterode.de/portal/seiten/osteroder-stadtfest-2025-912001165-21351.html","Banner","Stadtfest-Sponsoren als Sammelgrafik auf offiz. nolis-Domain (schwach, nicht einzeln verlinkt)",
   "Cansu Ceylan","Öffentlichkeit/Kultur","cansu.ceylan@osterode.de","risky (81)","","",""],
+
+ # --- Stadtradeln-Vektor (offizielle Domain, dofollow) ---
+ ["FIRMEN-LINKS","Coesfeld","coesfeld.de","coesfeld.de/leben/mobilitaet/radverkehr/stadtradeln","9","9 dofollow Firmen (Stadtradeln-Preisstifter) auf offiz. Domain",
+  "Thomas Külper","Mobilitätsmanager","thomas.kuelper@coesfeld.de","risky (81)","Andrea Zirkel","andrea.zirkel@coesfeld.de","risky (81)"],
+ ["PARTNERBEREICH","Delbrück","stadt-delbrueck.de","stadt-delbrueck.de/de/rathaus-online/klimaschutz/STADTRADELN.php","3","3 dofollow Firmen (Stadtradeln-Preisstifter) auf offiz. Domain",
+  "Luis Schorat","Klimaschutzmanager","luis.schorat@stadt-delbrueck.de","risky (79)","Pressestelle","presse@stadt-delbrueck.de","risky (73)"],
 ]
 
 with open("recherche_staedte_offiziell.csv","w",newline="") as f:
