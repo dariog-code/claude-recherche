@@ -99,6 +99,10 @@ rows = [
   "Thomas Külper","Mobilitätsmanager","thomas.kuelper@coesfeld.de","risky (81)","Andrea Zirkel","andrea.zirkel@coesfeld.de","risky (81)"],
  ["PARTNERBEREICH","Delbrück","stadt-delbrueck.de","stadt-delbrueck.de/de/rathaus-online/klimaschutz/STADTRADELN.php","3","3 dofollow Firmen (Stadtradeln-Preisstifter) auf offiz. Domain",
   "Luis Schorat","Klimaschutzmanager","luis.schorat@stadt-delbrueck.de","risky (79)","Pressestelle","presse@stadt-delbrueck.de","risky (73)"],
+ ["PARTNERBEREICH","Heide","heide.de","heide.de/rathaus-buergerservice/bauprojekte-und-stadtentwicklung/fahrradfreundliche-stadt.html","3","3 dofollow Firmen (Stadtradeln: Küstenrad, VR Bank SHM, Sonnenscheintour) auf offiz. Domain",
+  "Stadt Heide","Klimaschutz/Mobilität","stadtradeln@heide.de","nicht geprüft","","",""],
+ ["FIRMEN-LINKS","Georgsmarienhütte","georgsmarienhuette.de","georgsmarienhuette.de/portal/seiten/mitgliederliste-914000192-22600.html","~80","~80 dofollow Firmen (Stadtmarketingverein-Mitgliederliste) auf offiz. nolis-Domain",
+  "Janine Bering","Wirtschaftsförderung","janine.bering@georgsmarienhuette.de","accept_all (97)","Stadtmarketing","stadtmarketing@georgsmarienhuette.de","accept_all (95)"],
 ]
 
 with open("recherche_staedte_offiziell.csv","w",newline="") as f:
