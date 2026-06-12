@@ -1,0 +1,15 @@
+[
+  {
+    "status": "FIRMEN-LINKS",
+    "stadt": "Schwäbisch Hall",
+    "domain": "schwaebischhall.de",
+    "listungsseite": "https://www.schwaebischhall.de/de/kultur-tourismus/feste-highlights/kuchen-und-brunnenfest",
+    "firmen_ca": 24,
+    "dofollow_anzahl": 20,
+    "bewertung": "Offizielle Kommunaldomain schwaebischhall.de bestaetigt (Bundesland BW, ca. 41.000 EW). Die Sponsoren-Sektion der Seite zum Kuchen- und Brunnenfest enthaelt ca. 20 echte dofollow-Firmenlinks (keine reinen Logos), u.a. breitner-abfuellanlagen.de, hotelgoldeneradler.de, leutert-bau.de, samocca-sha.de, schreinerei-steiner.de, stadtwerke-hall.de, vogelmann-hoerakustik.de, autohaus-noller.de, badundheizung.de/windmueller, cunzemann-toyota.de, elektro-erkert.de, haller-loewenbraeu.de, hotel-hohenlohe.de, leonhard-weiss.de, optima-packaging.com, oscarmahl.de. curl-Pruefung: 90 a-Tags ohne nofollow, davon ~20 externe Firmen-Domains. JazzArtFestival-Seite derselben Domain nennt weitere Firmen (Optima, Wuerth, KLAFS, Kaercher) jedoch nur als Logos/Text (nicht dofollow-verlinkt) und qualifiziert daher nicht eigenstaendig. Stadt publiziert Sponsorenlisten regelmaessig auf der offiziellen Domain (auch Jakobimarkt).",
+    "k1_name": "Finja Gärtling",
+    "k1_funktion": "Marketing Manager (Stadtmarketing/Veranstaltungen)",
+    "k1_email": "finja.gaertling@schwaebischhall.de",
+    "k1_verify": "valid | deliverable | score=100 | smtp_check=True | accept_all=False (Hunter verify)"
+  }
+]
