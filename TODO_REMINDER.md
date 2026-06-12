@@ -1,14 +1,10 @@
-# OFFENE TODOS
+# OFFENE TODOs
 
-## 📌 FREITAG (2026-06-12): Hochschul-Outreach-Liste
-Der Kunde (eology) kommt am Freitag auf die **Hochschul-Liste** zurück.
-- Fertige Basis liegt bereits vor: `outreach_liste_150.csv` enthält 89 Hochschulen
-  (FIRMEN-LINKS + FIRMEN-LOGOS) mit Ansprechpartnern.
-- Reine Hochschul-Liste kann analog zu `outreach_staedte.csv` erzeugt werden
-  (Filter Kategorie=Hochschule aus recherche_master_foerdervereine.csv + DR aus ahrefs_enrichment.csv).
-- Bei Bedarf: 30 generische Funktionspostfächer durch namentliche Ansprechpartner ersetzen;
-  E-Mails vor Versand verifizieren (104 deliverable / 32 risky / 12 ungeprüft in der 150er-Mischliste).
+## Hochschul-Outreach-Liste (vorgemerkt für KW 25, ab Mo 15.06.2026)
+- ~89 Hochschulen mit FIRMEN-LINKS / SPONSORING-SEITE / PARTNERBEREICH
+- Ansprechpartner bereits recherchiert (Fördervereine/Pressestellen)
+- VOR Versand: Kontakte per Hunter.io verifizieren (Standing Rule)
+- Analog zu outreach_150_final.csv als versandfertige Liste aufbereiten
 
-## Status Städte-Outreach (laufend)
-- `outreach_staedte.csv`: 120 Städte, prinzip-sortiert, mail-merge-fertig.
-- Top-up läuft: +60 Städte (Rang 151-210, _tools/batches8/) -> Ziel 150 Städte.
+## Erledigt
+- [x] 150er Städte-Outreach-Liste (outreach_150_final.csv) - 44 offiziell + 106 stadtnah, Hunter-verifiziert, 144 sendbar
