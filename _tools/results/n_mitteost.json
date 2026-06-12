@@ -1,0 +1,28 @@
+[
+  {
+    "status": "PARTNERBEREICH",
+    "stadt": "Wetzlar",
+    "domain": "wetzlar.de",
+    "listungsseite": "https://www.wetzlar.de/leben-in-wetzlar/sport/brueckenlauf/sponsoren-unterstuetzer.php",
+    "firmen_ca": 4,
+    "dofollow_anzahl": 3,
+    "bewertung": "Offizielle Kommunaldomain wetzlar.de (Stadt Wetzlar, Hessen) bestaetigt. Seite 'Sponsoren und Unterstuetzer' des staedtischen Brueckenlaufs (Sportamt). Echte dofollow-Firmenlinks (curl 2026-06-12, target=_blank, kein rel=nofollow): dornbach.de (Dornbach Wirtschaftspruefung/Steuerberatung), knappschaft.de (Knappschaft Krankenkasse), wetzlar-kongress.de (Wetzlar Kongress). Dazu lahn-dill-kreis.de (Landkreis, halb-oeffentlich). => 3 echte Firmen-Dofollows = PARTNERBEREICH (1-5 Firmen). Kein excludiertes Event-/Marketingportal; Liste liegt direkt auf der offiziellen Domain.",
+    "k1_name": "Sportamt Stadt Wetzlar (Brueckenlauf-Organisation)",
+    "k1_funktion": "Sportamt / Veranstalter Wetzlarer Brueckenlauf (Sponsorenseite)",
+    "k1_email": "sportamt@wetzlar.de",
+    "k1_verify": "valid | deliverable | score=100 | smtp_check=true | accept_all=false (hunter 2026-06-12)"
+  },
+  {
+    "status": "RECHERCHE-HINWEIS",
+    "stadt": "(Methodischer Befund 8 Bundeslaender)",
+    "domain": "-",
+    "listungsseite": "-",
+    "firmen_ca": 0,
+    "dofollow_anzahl": 0,
+    "bewertung": "Systematischer Durchgang HE/RLP/SL/BE/BB/SN/ST/TH (Ausschlussliste beruecksichtigt). Geprueft via WebSearch + curl-Dofollow-Analyse: STADTRADELN-Seiten (Mainz-Vorbild) bei Giessen, Koblenz, Worms, Speyer, Trier, Neustadt/W., Frankenthal, Viernheim, Maintal, Bad Vilbel, Langen, Neuwied; Stadtfest-Sponsoren bei Arnstadt, Naumburg, Hanau, Marburg, Limburg, Andernach, Bingen; Museumsnacht/Lange Nacht bei Erfurt, Jena, Halle; nolis /portal/seiten/sponsoren in SN/ST/TH. Ergebnis: Auf den offiziellen Kommunaldomains werden Sponsoren fast durchgaengig nur als Fliesstext oder unverlinkte Logos genannt (0 Dofollows: Arnstadt /news/*, Giessen, Koblenz, Worms, Speyer, Gera). Die dofollow-verlinkten Sponsoren-Galerien liegen auf AUSGESCHLOSSENEN Fremddomains (stadtfest-zwickau.de, altstadtfest-goerlitz.com, oranienburg-erleben.de, stadtfest-falkensee.de/ig-falkensee.de, citymarketing-ft.de, dvv-dessau.de) ODER auf bereits in exclude_all.txt gelisteten Staedten (Neuwied, Frohburg, Waldheim, Schkeuditz, Bad Kreuznach, Erfurt, Rudolstadt). Einziger belegter Offizial-Domain-Treffer mit echten Firmen-Dofollows: Wetzlar (s.o., PARTNERBEREICH). Mainz (Vorbild) bestaetigt 15 Dofollows, aber Landeshauptstadt > 170k + bereits bekannt.",
+    "k1_name": "-",
+    "k1_funktion": "-",
+    "k1_email": "-",
+    "k1_verify": "-"
+  }
+]
