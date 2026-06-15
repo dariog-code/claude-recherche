@@ -1,0 +1,32 @@
+[
+  {
+    "stadt": "Deggendorf",
+    "domain": "deggendorf.de",
+    "listungsseite": "https://www.deggendorf.de/averanstaltungen/nightrun-beats-2024",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "5",
+    "evidenz": "Offizielle Stadtdomain deggendorf.de. Auf der Veranstaltungsseite Nightrun & Beats 2024 werden im Dank-Abschnitt 5 Firmen genannt: Stadtwerke Deggendorf, Sparkasse Deggendorf, Sport Pauli, Intersport Greil, Edeka Oswald. Reine Nennung, keine externen Links.",
+    "region": "BY"
+  },
+  {
+    "stadt": "Kitzingen",
+    "domain": "stadt-kitzingen.de",
+    "listungsseite": "https://www.stadt-kitzingen.de/aktuelles/pressemitteilungen/2026/mai/stadtfest/",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "5",
+    "evidenz": "Offizielle Stadtdomain stadt-kitzingen.de (nicht kitzingen.de = Landratsamt). In der Stadtfest-Pressemitteilung werden als Buehnen-Sponsoren 5 Firmen genannt: LKW Kitzingen, Sparkasse, VR-Bank, Brauerei Kesselring, Seynstahl. Nennung im Fliesstext, ohne externe Links.",
+    "region": "BY"
+  },
+  {
+    "stadt": "Bad Kissingen",
+    "domain": "badkissingen.de",
+    "listungsseite": "https://www.badkissingen.de/bildung-und-soziales/juedisches-leben/badkissinger-stolpersteine/38600.Paten-und-Sponsoren.html",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "13",
+    "evidenz": "Offizielle Stadtdomain badkissingen.de. Eigene Seite 'Paten und Sponsoren' (Stolpersteine-Projekt) listet 13 Firmen, u.a. Bayer. Staatsbad Bad Kissingen GmbH, Druckerei Wolfgang Lutz, Henkel Wasch- und Reinigungsmittel, MIKADO Marketing GmbH, perma-tec GmbH, Schick Bau, Sparkasse Bad Kissingen, VR-Bank, Walz-Druckcenter, Mack Druck & Verlag. Alle nur als Namen, keine externen dofollow-Links.",
+    "region": "BY"
+  }
+]
