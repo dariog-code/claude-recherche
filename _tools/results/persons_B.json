@@ -1,0 +1,128 @@
+[
+  {
+    "stadt": "Husum",
+    "domain": "husum.org",
+    "personen": [
+      {
+        "vorname": "Martin",
+        "nachname": "Kindl",
+        "funktion": "Bürgermeister der Stadt Husum",
+        "email": "",
+        "quelle_url": "https://www.husum.org/Verwaltung-Politik/"
+      }
+    ]
+  },
+  {
+    "stadt": "Saalfeld",
+    "domain": "saalfeld.de",
+    "personen": [
+      {
+        "vorname": "Martin",
+        "nachname": "Hauswald",
+        "funktion": "Leiter Kommunikation und Marketing / Pressereferent",
+        "email": "",
+        "quelle_url": "https://www.saalfeld.de/buergerservice/stadt-buerger/detail.htm?newsid=166D4A297A5&index=1480"
+      },
+      {
+        "vorname": "Christopher",
+        "nachname": "Mielke",
+        "funktion": "Leitung Büro des Bürgermeisters (zuständig u.a. für Kommunikation und Marketing)",
+        "email": "",
+        "quelle_url": "https://www.saalfeld.de/buergerservice/stadt-buerger/detail.htm?newsid=166D4A297A5&index=1480"
+      }
+    ]
+  },
+  {
+    "stadt": "Heide",
+    "domain": "heide.de",
+    "personen": [
+      {
+        "vorname": "Oliver",
+        "nachname": "Schmidt-Gutzat",
+        "funktion": "Bürgermeister der Stadt Heide",
+        "email": "",
+        "quelle_url": "https://www.heide.de/"
+      },
+      {
+        "vorname": "Rango",
+        "nachname": "Lorenz",
+        "funktion": "Büroleitender Beamter",
+        "email": "",
+        "quelle_url": "https://www.heide.de/"
+      }
+    ]
+  },
+  {
+    "stadt": "Riesa",
+    "domain": "riesa.de",
+    "personen": [
+      {
+        "vorname": "Uwe",
+        "nachname": "Päsler",
+        "funktion": "Pressesprecher / Presse- und Öffentlichkeitsarbeit",
+        "email": "obm.pressestelle@stadt-riesa.de",
+        "quelle_url": "https://riesa.de/rathaus/buergerservice/aemter-und-ansprechpartner/persoenliche-referentinpresse-und-oeffentlichkeitsarbeit"
+      },
+      {
+        "vorname": "Manuela",
+        "nachname": "Leupold",
+        "funktion": "Persönliche Referentin des Oberbürgermeisters",
+        "email": "manuela.leupold@stadt-riesa.de",
+        "quelle_url": "https://riesa.de/rathaus/buergerservice/aemter-und-ansprechpartner/persoenliche-referentinpresse-und-oeffentlichkeitsarbeit"
+      }
+    ]
+  },
+  {
+    "stadt": "Zeitz",
+    "domain": "zeitz.de",
+    "personen": [
+      {
+        "vorname": "Lars",
+        "nachname": "Werner",
+        "funktion": "Pressesprecher / Presse- und Öffentlichkeitsarbeit",
+        "email": "pressestelle@stadt-zeitz.de",
+        "quelle_url": "https://www.zeitz.de/Rathaus-und-Service/Verwaltung/Ansprechpersonen/index.php?object=tx,3429.1.1&ModID=9&FID=3429.10.1"
+      }
+    ]
+  },
+  {
+    "stadt": "Sömmerda",
+    "domain": "soemmerda.de",
+    "personen": [
+      {
+        "vorname": "Lena",
+        "nachname": "Kob",
+        "funktion": "Wirtschaftsförderung / Stadtmarketing (Bau- und Umweltamt, Abt. Wirtschaftsförderung)",
+        "email": "l.kob@stadtsoemmerda.de",
+        "quelle_url": "https://www.soemmerda.de/wirtschaft-gewerbe/wirtschaftsstandort-1/wirtschaftsfoerderung"
+      },
+      {
+        "vorname": "Ralf",
+        "nachname": "Hauboldt",
+        "funktion": "Bürgermeister der Stadt Sömmerda",
+        "email": "",
+        "quelle_url": "https://www.soemmerda.de/rathaus-service/buergerservice/fachbereich-und-ansprechpartner"
+      }
+    ]
+  },
+  {
+    "stadt": "Gevelsberg",
+    "domain": "gevelsberg.de",
+    "personen": [
+      {
+        "vorname": "Markus",
+        "nachname": "Marsurkewitz",
+        "funktion": "Wirtschaftsförderer / Leiter Büro für Wirtschaftsförderung und Stadtmarketing",
+        "email": "wirtschaftsfoerderung@stadtgevelsberg.de",
+        "quelle_url": "https://www.gevelsberg.de/index.php?object=tx,3061.5&ModID=7&FID=3061.2544.1"
+      },
+      {
+        "vorname": "Maik",
+        "nachname": "Schumacher",
+        "funktion": "Eventmanager im Büro für Wirtschaftsförderung und Stadtmarketing",
+        "email": "wirtschaftsfoerderung@stadtgevelsberg.de",
+        "quelle_url": "https://www.gevelsberg.de/index.php?object=tx,3061.5&ModID=7&FID=3061.2544.1"
+      }
+    ]
+  }
+]

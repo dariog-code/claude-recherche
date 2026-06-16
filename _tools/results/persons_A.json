@@ -1,0 +1,142 @@
+[
+  {
+    "stadt": "Wuppertal",
+    "domain": "wuppertal.de",
+    "personen": [
+      {
+        "vorname": "Eva",
+        "nachname": "Platz",
+        "funktion": "Vorständin der Wirtschaftsförderung Wuppertal AöR (100% Stadttochter)",
+        "email": "platz@wf-wuppertal.de",
+        "quelle_url": "https://www.wf-wuppertal.de/Kontakt/Kontakt.php"
+      },
+      {
+        "vorname": "Melanie",
+        "nachname": "Henke",
+        "funktion": "Presse- und Öffentlichkeitsarbeit, Wirtschaftsförderung Wuppertal",
+        "email": "henke@wf-wuppertal.de",
+        "quelle_url": "https://www.wf-wuppertal.de/Kontakt/Kontakt.php"
+      }
+    ]
+  },
+  {
+    "stadt": "Hamm",
+    "domain": "hamm.de",
+    "personen": [
+      {
+        "vorname": "Detlef",
+        "nachname": "Burrichter",
+        "funktion": "Referat Presse- und Öffentlichkeitsarbeit der Stadt Hamm",
+        "email": "detlef.burrichter@stadt.hamm.de",
+        "quelle_url": "https://serviceportal.hamm.de/suche/-/egov-bis-detail/einrichtung/1146/show"
+      },
+      {
+        "vorname": "Tobias",
+        "nachname": "Köbberling",
+        "funktion": "Referat Presse- und Öffentlichkeitsarbeit der Stadt Hamm",
+        "email": "koebberling@stadt.hamm.de",
+        "quelle_url": "https://serviceportal.hamm.de/suche/-/egov-bis-detail/einrichtung/1146/show"
+      }
+    ]
+  },
+  {
+    "stadt": "Hagen",
+    "domain": "hagen.de",
+    "personen": [
+      {
+        "vorname": "Christopher",
+        "nachname": "Schmitt",
+        "funktion": "Geschäftsleitung HAGEN.WIRTSCHAFTSENTWICKLUNG (100% Stadttochter)",
+        "email": "",
+        "quelle_url": "https://hagen-wirtschaft.de/"
+      },
+      {
+        "vorname": "Michael",
+        "nachname": "Kaub",
+        "funktion": "Leiter der Abteilung Presse- und Öffentlichkeitsarbeit & Bürgerkommunikation, Stadt Hagen",
+        "email": "pressestelle@stadt-hagen.de",
+        "quelle_url": "https://www.hagen.de/aus-dem-rathaus/presse-und-buergerdialog/"
+      }
+    ]
+  },
+  {
+    "stadt": "Limburg an der Lahn",
+    "domain": "limburg.de",
+    "personen": [
+      {
+        "vorname": "Hilmar",
+        "nachname": "von Schenck",
+        "funktion": "Leiter des Amtes für Stadtmarketing, Wirtschaftsförderung und Kommunikation",
+        "email": "hilmar.vonschenck@stadt.limburg.de",
+        "quelle_url": "https://www.limburg.de/index.php?ModID=7&FID=3252.534.1&object=tx%7C3252.534.1"
+      },
+      {
+        "vorname": "Lara",
+        "nachname": "Czarnetzki",
+        "funktion": "Citymanagerin, Amt für Stadtmarketing, Wirtschaftsförderung und Kommunikation",
+        "email": "lara.czarnetzki@stadt.limburg.de",
+        "quelle_url": "https://www.limburg.de/index.php?ModID=7&FID=3252.534.1&object=tx%7C3252.534.1"
+      }
+    ]
+  },
+  {
+    "stadt": "Nordhausen",
+    "domain": "nordhausen.de",
+    "personen": [
+      {
+        "vorname": "Marco",
+        "nachname": "Wohlenberg",
+        "funktion": "Ansprechpartner Sachgebiet Stadtmarketing, Tourismus und Veranstaltungen",
+        "email": "kulturplanung@nordhausen.de",
+        "quelle_url": "https://www.nordhausen.de/allgemein/instanz_lang.php?InstNr=510"
+      },
+      {
+        "vorname": "",
+        "nachname": "",
+        "funktion": "Wirtschaftsförderung Stadt Nordhausen (kein Name veröffentlicht, N.N.)",
+        "email": "wirtschaftsfoerderung@nordhausen.de",
+        "quelle_url": "https://www.nordhausen.de/allgemein/instanz_lang.php?InstNr=177"
+      }
+    ]
+  },
+  {
+    "stadt": "Arnstadt",
+    "domain": "arnstadt.de",
+    "personen": [
+      {
+        "vorname": "Jörg",
+        "nachname": "Neumann",
+        "funktion": "Wirtschaftsförderung (erster kommunaler Ansprechpartner für Unternehmen)",
+        "email": "joerg.neumann@stadt-arnstadt.de",
+        "quelle_url": "https://www.arnstadt.de/kontakt/wirtschaftsfoerderung"
+      },
+      {
+        "vorname": "André",
+        "nachname": "Kudernatsch",
+        "funktion": "Sachgebietsleiter Presse- und Öffentlichkeitsarbeit",
+        "email": "andre.kudernatsch@stadtverwaltung.arnstadt.de",
+        "quelle_url": "https://www.arnstadt.de/kontakt/oeffentlichkeitsarbeit-und-veranstaltungen"
+      }
+    ]
+  },
+  {
+    "stadt": "Datteln",
+    "domain": "datteln.de",
+    "personen": [
+      {
+        "vorname": "Cordula",
+        "nachname": "Brink",
+        "funktion": "Leiterin Wirtschaftsförderung",
+        "email": "wirtschaftsfoerderung@stadt-datteln.de",
+        "quelle_url": "https://www.datteln.de/wirtschaftsfoerderung"
+      },
+      {
+        "vorname": "Lukas",
+        "nachname": "Floßdorf",
+        "funktion": "Stadtmarketing & Tourismus",
+        "email": "Lukas.Flossdorf@stadt-datteln.de",
+        "quelle_url": "https://www.datteln.de/stadtmarketing"
+      }
+    ]
+  }
+]
