@@ -1,0 +1,82 @@
+[
+  {
+    "stadt": "Ahaus",
+    "domain": "ahaus.de",
+    "listungsseite": "https://ahaus.de/partner",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "ca. 6-13",
+    "evidenz": "Offizielle Domain ahaus.de. Seite 'Ahaus-Partner' nennt Firmen (Die Gartisten, Bauhof, FB Architekt, Steincenter Ahaus, Hilgert, Thiemann) und zeigt ca. 13 Partner-Logos. Ahaus-Partner zahlen ab 2.500 EUR/Jahr. Keine direkten dofollow-Hyperlinks zu Firmen-Websites, Logos/Namen unverlinkt.",
+    "region": "NRW"
+  },
+  {
+    "stadt": "Bergkamen",
+    "domain": "bergkamen.de",
+    "listungsseite": "https://www.bergkamen.de/kultur-tourismus-sport-events/veranstaltungen/grossveranstaltungen/hafenfest/sponsoren/",
+    "status": "FIRMEN-LINKS",
+    "verlinkung": "dofollow ja",
+    "firmen_ca": "ca. 30 (6 verlinkt)",
+    "evidenz": "Offizielle Domain bergkamen.de. Eigene Hafenfest-Sponsorenseite. 6 Hauptsponsoren mit dofollow-Links (rel=noreferrer noopener, kein nofollow): Sparkasse Bergkamen-Boenen, GSW Gemeinschaftsstadtwerke, Brauerei Veltins, B&G Getraenke Logistik, Poco, RS Technik AG. Zusaetzlich ca. 24 weitere namentlich genannte Firmen (Adam Kuehlerfabrik, Busemann, Diringer & Scheidel u.a.).",
+    "region": "NRW"
+  },
+  {
+    "stadt": "Datteln",
+    "domain": "datteln.de",
+    "listungsseite": "https://www.datteln.de/rathausfestimlicht2023",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "ca. 13",
+    "evidenz": "Offizielle Domain datteln.de. Seite zum Rathausfest im Licht 2023 nennt ca. 13 Firmen als Sponsoren: Radio Vest, GELSENWASSER, Viessmann, Westenergie, Wirtz Druck, Rheinzink, Aldi Nord, Dortmunder Volksbank, Sparkasse Vest Recklinghausen, Mohag-Gruppe, Saint-Gobain Weber, Debeka, Dr. Hoelscher & Frisch. Reine Textnennung, keine Links, keine Logos.",
+    "region": "NRW"
+  },
+  {
+    "stadt": "Emsdetten",
+    "domain": "emsdetten.de",
+    "listungsseite": "https://www.emsdetten.de/standort-innenstadt-wirtschaft/neuigkeiten/2025/emsdettener-wunschbaum-die-vorweihnachtliche-aktion-fuer-den-guten-zweck/",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "ca. 8",
+    "evidenz": "Offizielle Domain emsdetten.de. Seite zur vorweihnachtlichen Wunschbaum-Aktion nennt 8 teilnehmende Firmen/Partner: Schuhhaus Hoelscher, Spitzweg-Apotheke, Fahr-Rad Tippkoetter, Modehaus Muenning, Reisebuero Lueken-Schencking, Viva Fitness, Kinderwagen Finke, Haargenau Vennemann/Schaepermeier. Reine Textnennung, keine externen Links, keine Logos.",
+    "region": "NRW"
+  },
+  {
+    "stadt": "Meerbusch",
+    "domain": "meerbusch.de",
+    "listungsseite": "https://meerbusch.de/leben-in-meerbusch/sport-und-gesundheit/bewegungsparks",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "ca. 8",
+    "evidenz": "Offizielle Domain meerbusch.de. Bewegungsparks-Seite nennt im Abschnitt Planung/Finanzierung Firmen-Sponsoren: RWE Rheinland Westfalen Netz, Sparkasse Neuss, Volksbank Moenchengladbach, Stadtwerke Meerbusch, GaLaBau Dornbusch, ISS-Steuerung, Firma Peter Lenzen, Kleene Stroemper, Stadtwerke Service Meerbusch Willich. Reine Textnennung, keine externen Links, keine Logos.",
+    "region": "NRW"
+  },
+  {
+    "stadt": "Menden",
+    "domain": "menden.de",
+    "listungsseite": "https://www.menden.de/buergerservice-rathaus/buergerservice/finanzen/sponsoren-der-stadt-menden",
+    "status": "FIRMEN-LINKS",
+    "verlinkung": "dofollow ja",
+    "firmen_ca": "ca. 18-20",
+    "evidenz": "Offizielle Domain menden.de. Dedizierte Seite 'Sponsoren der Stadt Menden' (jaehrliche Veroeffentlichung Sponsoring privater Wirtschaft an Stadtverwaltung) mit ca. 18-20 Firmen, fast alle mit externem dofollow-Link (rel=noreferrer, kein nofollow): Credere Immobilien, DAUB Buchhandlung, HJS Emission Technology, Lobbe Umweltservice, Maerkische Bank, Mendener Bank, Krutmann, Niehaves/Westfalenbaeckerei, phono-forum, Sparkasse Maerkisches Sauerland, Stadtwerke Menden u.a. Vorbild-Pattern wie Nordhorn.",
+    "region": "NRW"
+  },
+  {
+    "stadt": "Meschede",
+    "domain": "meschede.de",
+    "listungsseite": "https://www.meschede.de/meschedeleuchtet",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "ca. 25",
+    "evidenz": "Offizielle Domain meschede.de. Seite 'Meschede leuchtet' listet ca. 25 Firmen als Unterstuetzer/Sponsoren: Brauerei Veltins, eiKo-Kramer, ITH, innogy SE, Blumen Horst, Bestattung Koenig, Moebel Knappstein, Malerbetrieb Tillmann, Sparkasse Mitten im Sauerland, Volksbank Sauerland, Jos. Busch, Werner Langer u.v.m. Reine Textnennung, keine externen Links, keine Logos.",
+    "region": "NRW"
+  },
+  {
+    "stadt": "Warendorf",
+    "domain": "warendorf.de",
+    "listungsseite": "https://www.warendorf.de/de/leben/vereine-und-ehrenamt/ehrenamtskarte-nrw/",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "ca. 20",
+    "evidenz": "Offizielle Domain warendorf.de. Ehrenamtskarte-NRW-Seite nennt ca. 20 lokale Firmen als Akzeptanz-/Kooperationspartner: Darpe, DEVK-Versicherung, Eiscafe Fontanella, Neukoetter Optik, Parfuemerie Pieper, Sparda-Bank West, Tanzschule Ingrid, Heimspiel-Magazin, Nachhilfe-Team.net u.a. Reine Textnennung, keine externen Links, keine Logos.",
+    "region": "NRW"
+  }
+]
