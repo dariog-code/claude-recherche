@@ -1,0 +1,140 @@
+[
+  {
+    "stadt": "Datteln",
+    "domain": "datteln.de",
+    "personen": [
+      {
+        "vorname": "Cordula",
+        "nachname": "Brink",
+        "funktion": "Leiterin Wirtschaftsförderung (SEG/Stadt Datteln)",
+        "email": "cordula.brink@stadt-datteln.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://seg-datteln.de/wirtschaftsfoerderung/"
+      },
+      {
+        "vorname": "Dennis",
+        "nachname": "Schulte",
+        "funktion": "Wirtschaftsförderung",
+        "email": "dennis.schulte@stadt-datteln.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.datteln.de/Standortstaerken"
+      },
+      {
+        "vorname": "Lukas",
+        "nachname": "Floßdorf",
+        "funktion": "Stadtmarketing & Tourismus",
+        "email": "Lukas.Flossdorf@stadt-datteln.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.datteln.de/stadtmarketing"
+      }
+    ]
+  },
+  {
+    "stadt": "Neu-Isenburg",
+    "domain": "neu-isenburg.de",
+    "personen": [
+      {
+        "vorname": "Andrea",
+        "nachname": "Quilling",
+        "funktion": "Fachbereichsleiterin Wirtschaftsförderung, Öffentlichkeitsarbeit, Marketing",
+        "email": "andrea.quilling@stadt-neu-isenburg.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.neu-isenburg.de/wirtschaft/kontakt___services/"
+      },
+      {
+        "vorname": "Josef",
+        "nachname": "Weidner",
+        "funktion": "Mitarbeiter Fachbereich Wirtschaftsförderung/Öffentlichkeitsarbeit",
+        "email": "josef.weidner@stadt-neu-isenburg.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.neu-isenburg.de/vv/personen/fb-13/weidner-josef"
+      }
+    ]
+  },
+  {
+    "stadt": "Husum",
+    "domain": "husum.org",
+    "personen": [
+      {
+        "vorname": "Simone",
+        "nachname": "Mommsen",
+        "funktion": "Öffentlichkeitsarbeit & Social Media (Stadtleben und Gesellschaft)",
+        "email": "presse@husum.de",
+        "email_typ": "funktion",
+        "quelle_url": "https://www.husum.org/Verwaltung-Politik/Verwaltung/Kontakte-im-Rathaus-/Simone-Mommsen.php"
+      }
+    ]
+  },
+  {
+    "stadt": "Herzogenaurach",
+    "domain": "herzogenaurach.de",
+    "personen": [
+      {
+        "vorname": "Judith",
+        "nachname": "Jochmann",
+        "funktion": "Amtsleiterin Amt für Stadtmarketing und Kultur",
+        "email": "jochmann@herzogenaurach.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.herzogenaurach.de/rathaus/aemter/amt-fuer-stadtmarketing-und-kultur"
+      },
+      {
+        "vorname": "Bettina",
+        "nachname": "Geier-Hildel",
+        "funktion": "Stadtmarketing",
+        "email": "geierhildel@herzogenaurach.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.herzogenaurach.de/rathaus/aemter/amt-fuer-stadtmarketing-und-kultur"
+      }
+    ]
+  },
+  {
+    "stadt": "Merseburg",
+    "domain": "merseburg.de",
+    "personen": [
+      {
+        "vorname": "Martin",
+        "nachname": "Wolter",
+        "funktion": "Kulturamtsleiter, Sachgebiet Stadtmarketing und Citymanagement",
+        "email": "kultur@merseburg.de",
+        "email_typ": "funktion",
+        "quelle_url": "https://www.merseburg.de/de/stadtmarketing.html"
+      },
+      {
+        "vorname": "Julia",
+        "nachname": "Bachmann",
+        "funktion": "Pressesprecherin, Presse- und Öffentlichkeitsarbeit",
+        "email": "pressestelle@merseburg.de",
+        "email_typ": "funktion",
+        "quelle_url": "https://www.merseburg.de/de/pressestelle.html"
+      }
+    ]
+  },
+  {
+    "stadt": "Saalfeld",
+    "domain": "saalfeld.de",
+    "personen": [
+      {
+        "vorname": "Martin",
+        "nachname": "Hauswald",
+        "funktion": "Leiter Kommunikation und Marketing / Pressereferent",
+        "email": "info@stadt-saalfeld.de",
+        "email_typ": "funktion",
+        "quelle_url": "https://www.saalfeld.de/buergerservice/stadt-buerger/detail.htm?newsid=166D4A297A5&index=1480"
+      }
+    ]
+  },
+  {
+    "stadt": "Heide",
+    "domain": "heide.de",
+    "personen": [
+      {
+        "vorname": "Christoph",
+        "nachname": "Hecht",
+        "funktion": "Presse- und Öffentlichkeitsarbeit (Fachbereich 1 / Zentrale Dienste)",
+        "email": "christoph.hecht@stadt-heide.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.heide.de/rathaus-buergerservice/medien-service.html"
+      }
+    ]
+  }
+]

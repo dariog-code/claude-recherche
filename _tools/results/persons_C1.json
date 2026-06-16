@@ -1,0 +1,140 @@
+[
+  {
+    "stadt": "Lübeck",
+    "domain": "luebeck.de",
+    "personen": [
+      {
+        "vorname": "Nicole",
+        "nachname": "Dorel",
+        "funktion": "Presse- und Öffentlichkeitsarbeit (Bereich Der Bürgermeister)",
+        "email": "presse@luebeck.de",
+        "email_typ": "funktion",
+        "quelle_url": "https://www.luebeck.de/de/buergerservice/leistungen/index.html?lid=10234906&zufi=1&bereich=0"
+      },
+      {
+        "vorname": "Diana",
+        "nachname": "Wenninger",
+        "funktion": "Pressesprecherin (Beispiel für persönliches Mailmuster vorname.nachname@luebeck.de)",
+        "email": "diana.wenninger@luebeck.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.luebeck.de/de/presse/index.html"
+      }
+    ]
+  },
+  {
+    "stadt": "Bremerhaven",
+    "domain": "bremerhaven.de",
+    "personen": [
+      {
+        "vorname": "Laura",
+        "nachname": "Bohlmann",
+        "funktion": "Leiterin Pressestelle / Pressesprecherin des Magistrats",
+        "email": "Laura.Bohlmann@magistrat.bremerhaven.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.bremerhaven.de/de/verwaltung-politik-sicherheit/buergerservice/adressen-oeffnungszeiten/pressestelle.22528.html"
+      },
+      {
+        "vorname": "Mark",
+        "nachname": "Schröder",
+        "funktion": "Stellvertretender Pressesprecher",
+        "email": "Mark.Schroeder@magistrat.bremerhaven.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.bremerhaven.de/de/verwaltung-politik-sicherheit/buergerservice/adressen-oeffnungszeiten/pressestelle.22528.html"
+      }
+    ]
+  },
+  {
+    "stadt": "Göttingen",
+    "domain": "goettingen.de",
+    "personen": [
+      {
+        "vorname": "Dominik",
+        "nachname": "Kimyon",
+        "funktion": "Leitung Öffentlichkeitsarbeit und Pressesprecher",
+        "email": "D.Kimyon@goettingen.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.goettingen.de/buergerservice/personen/d-kimyon-900000098-25480.html"
+      },
+      {
+        "vorname": "Ekaterina",
+        "nachname": "Ershova",
+        "funktion": "Referentin für Wissenschaft und Wirtschaft (Wirtschaftsförderung Stadt Göttingen)",
+        "email": "E.Ershova@goettingen.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.gwg-online.de/wir-ueber-uns/mitarbeiter--s411/Gruppe/Ansprechpartner*innen bei der Stadt Göttingen/gid/12/a2/group"
+      }
+    ]
+  },
+  {
+    "stadt": "Hagen",
+    "domain": "hagen.de",
+    "personen": [
+      {
+        "vorname": "Michael",
+        "nachname": "Kaub",
+        "funktion": "Leiter Abteilung Presse- und Öffentlichkeitsarbeit & Bürgerkommunikation",
+        "email": "michael.kaub@stadt-hagen.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.hagen.de/aus-dem-rathaus/presse-und-buergerdialog/"
+      },
+      {
+        "vorname": "Franziska",
+        "nachname": "Treude",
+        "funktion": "Pressesprecherin (persönliches Mailmuster vorname.nachname@stadt-hagen.de)",
+        "email": "franziska.treude@stadt-hagen.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.hagen.de/aus-dem-rathaus/presse-und-buergerdialog/"
+      }
+    ]
+  },
+  {
+    "stadt": "Langenfeld",
+    "domain": "langenfeld.de",
+    "personen": [
+      {
+        "vorname": "Laura",
+        "nachname": "Erner",
+        "funktion": "Mitarbeiterin Personal und Organisation (persönliche Mail veröffentlicht; Stadt nutzt Muster vorname.nachname@langenfeld.de)",
+        "email": "laura.erner@langenfeld.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://service.langenfeld.de/detail/-/vr-bis-detail/mitarbeiter/804737/show"
+      },
+      {
+        "vorname": "",
+        "nachname": "Zimmermann",
+        "funktion": "Citymanagement (Referat 540 Wirtschaftsförderung, Citymanagement und Liegenschaften); auf der Stadtseite nur Kontaktformular, keine persönliche Mail veröffentlicht",
+        "email": "info@langenfeld.de",
+        "email_typ": "funktion",
+        "quelle_url": "https://service.langenfeld.de/detail/-/vr-bis-detail/dienstleistung/6140/show"
+      }
+    ]
+  },
+  {
+    "stadt": "Radebeul",
+    "domain": "radebeul.de",
+    "personen": [
+      {
+        "vorname": "Ute",
+        "nachname": "Leder",
+        "funktion": "Pressesprecherin / Presse- und Öffentlichkeitsarbeit (Bereich Kommunikation, Stadtmarketing und Tourismus)",
+        "email": "presse@radebeul.de",
+        "email_typ": "funktion",
+        "quelle_url": "https://www.radebeul.de/en/Town-hall/City-administration/Offices-and-opening-hours/Guide-to-authorities/Communications-City-Marketing-and-Tourism-Department/Press-and-public-relations-officer"
+      }
+    ]
+  },
+  {
+    "stadt": "Nordhausen",
+    "domain": "nordhausen.de",
+    "personen": [
+      {
+        "vorname": "Marco",
+        "nachname": "Wohlenberg",
+        "funktion": "Sachgebietsleiter Stadtmarketing, Tourismus und Veranstaltungen / Stadtinformation",
+        "email": "stadtinfo@nordhausen.de",
+        "email_typ": "funktion",
+        "quelle_url": "https://www.nordhausen.de/rathaus/lebenslagen_lang.php?LebensNr=8140"
+      }
+    ]
+  }
+]
