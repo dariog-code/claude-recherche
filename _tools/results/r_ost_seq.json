@@ -1,0 +1,62 @@
+[
+  {
+    "stadt": "Radebeul",
+    "domain": "radebeul.de",
+    "listungsseite": "https://www.radebeul.de/karlmay/en/Partners-Sponsors",
+    "status": "FIRMEN-LINKS",
+    "verlinkung": "dofollow ja",
+    "firmen_ca": "ca. 15 (davon ~12 echte Firmen)",
+    "evidenz": "Offizielle Stadtdomain radebeul.de (Unterpfad /karlmay/ = Karl May Festtage der Stadt). Seite 'Partner und Sponsoren' listet ~19 Eintraege, alle als dofollow-Links (kein rel=nofollow). Echte Firmen u.a.: Freiberger Brauhaus (freiberger-pils.de), Oppacher Mineralquellen (oppacher.de), Stadtwerke Elbtal, Sparkasse Meissen, Karl-May-Verlag (karl-may.de), Hasse Transport (hasse-transport.de), DWSI Sicherheit, Loessnitztalschaenke, Vadossi (vadossi.de), Hof Mahlitzsch. Klar >6 dofollow-Firmenlinks.",
+    "region": "Ost"
+  },
+  {
+    "stadt": "Freital",
+    "domain": "freital.de",
+    "listungsseite": "https://www.freital.de/Kultur-Tourismus/Feste-Veranstaltungen/Freital-sucht-den-Schlagerstar-2025/Die-Sponsoren/",
+    "status": "FIRMEN-LINKS",
+    "verlinkung": "dofollow ja",
+    "firmen_ca": "ca. 11",
+    "evidenz": "Offizielle Stadtdomain freital.de (Grosse Kreisstadt Freital). Eigene Seite 'Die Sponsoren' zur Veranstaltung 'Freital sucht den Schlagerstar'. 13 Eintraege, alle als 'Externer Link' (dofollow, kein rel=nofollow), davon ~11 echte Firmen: Emil Frey Sachsengarage, expert Pirna Freital, worx Group GmbH, YBBOR-Direkt, Freitaler Stadtwerke, Biohof Kluegel, Holz-Ideen Uwe Ulbricht, Hains Freizeitzentrum u.a. Klar >6 dofollow-Firmenlinks.",
+    "region": "Ost"
+  },
+  {
+    "stadt": "Wernigerode",
+    "domain": "wernigerode.de",
+    "listungsseite": "https://www.wernigerode.de/Stadtleben/Kultur-und-Freizeit/Neue-Sterne/Partners/",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "ca. 11",
+    "evidenz": "Offizielle Stadtdomain wernigerode.de. Seite 'Wir danken unseren Sponsoren und Foerderern' (Kulturreihe Neue Sterne). 15 Eintraege als reine Textnennung (keine Hyperlinks). Echte Firmen: Hasseroeder Brauerei, Harzer Volksbank, Glasmanufaktur Harzkristall, Harzdruckerei, Autohaus Wille, Harzer Mineralquelle, Lotto Toto Sachsen-Anhalt GmbH, Gebaeude- und Wohnungsbaugesellschaft Wernigerode mbH u.a. >=4 Firmen genannt, jedoch unverlinkt -> FIRMEN-LOGOS/Nennung.",
+    "region": "Ost"
+  },
+  {
+    "stadt": "Merseburg",
+    "domain": "merseburg.de",
+    "listungsseite": "https://schlossfestspiele.merseburg.de/de/infos.html",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "ca. 9",
+    "evidenz": "Offizielle Subdomain schlossfestspiele.merseburg.de (Merseburger Schlossfestspiele der Stadt). Seite zeigt ~12 Sponsoren-Logos, keine Hyperlinks. Echte Firmen u.a.: Autohaus Rudolph, Rothkegel Baustoffhandel, SPIE IMO, Sparkasse Saalekreis, Stadtwerke Merseburg, Rockland, Midewa, GBW. >=4 Firmen-Logos, unverlinkt -> FIRMEN-LOGOS. (Zusaetzlich existiert auf merseburg.de eine Seite 'Sponsoren des 50. Merseburger Schlossfestes' mit u.a. ECE-Projektmanagement GmbH, Inhalt aber nicht maschinenlesbar abrufbar.)",
+    "region": "Ost"
+  },
+  {
+    "stadt": "Nordhausen",
+    "domain": "nordhausen.de",
+    "listungsseite": "https://www.nordhausen.de/",
+    "status": "FIRMEN-LINKS",
+    "verlinkung": "dofollow ja",
+    "firmen_ca": "8",
+    "evidenz": "Offizielle Stadtdomain nordhausen.de. Im seitenweiten Footer 'Diese Seiten entstanden mit freundlicher Unterstuetzung folgender Unternehmen' sind 8 Unternehmen (GmbHs) mit externen dofollow-Links gelistet: Badehaus Nordhausen GmbH (badehaus-nordhausen.de), Energieversorgung Nordhausen GmbH (energie-nordhausen.de), Staedtische Wohnungsbaugesellschaft Nordhausen mbH (swg-nordhausen.de), Stadtwerke Nordhausen (stadtwerke-nordhausen.de), Suedharzwerke Nordhausen Entsorgungsgesellschaft mbH, Verkehrsbetriebe Nordhausen GmbH, BBZ Nordhausen gGmbH, Wasserverband Nordhausen. 8 dofollow-Firmenlinks (>6). Hinweis: ueberwiegend kommunale GmbHs.",
+    "region": "Ost"
+  },
+  {
+    "stadt": "Mühlhausen",
+    "domain": "muehlhausen.de",
+    "listungsseite": "https://freiheit2025.muehlhausen.de/partner-sponsoren/",
+    "status": "FIRMEN-LINKS",
+    "verlinkung": "dofollow ja",
+    "firmen_ca": "ca. 9",
+    "evidenz": "Offizielle Subdomain freiheit2025.muehlhausen.de (Stadt-Jubilaeumsprojekt Bauernkrieg 2025). Seite 'Partner & Sponsoren' mit Sponsoren-Block: ~9-10 echte Firmen, alle dofollow verlinkt: Stadtwerke Muehlhausen, Sparkasse Unstrut-Hainich, REWE Lichtenberg, ALY Geruestbau (aly-geruestbau.de), Trend Werbung (trend-werbung.de), ThermoFlux (thermoflux.info), Pixo (pixo.de), Brauhaus zum Loewen, Radhalle. Klar >6 dofollow-Firmenlinks.",
+    "region": "Ost"
+  }
+]

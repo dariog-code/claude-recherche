@@ -1,0 +1,72 @@
+[
+  {
+    "stadt": "Emden",
+    "domain": "emden.de",
+    "listungsseite": "https://www.emden.de/rathaus/verwaltung/fb-300-stadtentwicklung-und-wirtschaftsfoerderung/fd-362-umwelt/klimaschutz-in-emden/stadtradeln",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "11",
+    "evidenz": "Offizielle Stadtdomain emden.de. STADTRADELN-Seite nennt unter 'Wir bedanken uns herzlich bei unseren Partnern' u.a. Stadtwerke Emden, Multi Emden, Sparkasse Emden, Volkswagen, COSTA Meeresspezialitaeten, Friesentherme, AG Ems, cambio CarSharing, Fokken & Mueller, Fahrradwelt Docter & Sohn, WestfalenBahn. Reine Textnennung, keine dofollow-Links.",
+    "region": "Nord"
+  },
+  {
+    "stadt": "Gifhorn",
+    "domain": "stadt-gifhorn.de",
+    "listungsseite": "https://www.stadt-gifhorn.de/freizeit-tourismus/veranstaltungen/gifhorner-altstadtfest",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "8-9",
+    "evidenz": "Offizielle Stadtdomain stadt-gifhorn.de. Altstadtfest-Seite nennt als Buehnen-Praesentatoren/Unterstuetzer u.a. Stadtwerke Gifhorn, Privatbrauerei Wittingen, Hol'ab! Getraenkemaerkte, Volksbank BraWo, Gilde Brauerei, Culinari, Pizzaria Piccola Italia, Fa. Weber. Nur Textnennung, keine dofollow-Links.",
+    "region": "Nord"
+  },
+  {
+    "stadt": "Wolfenbüttel",
+    "domain": "wolfenbuettel.de",
+    "listungsseite": "https://wolfenbuettel.de/index.php?FID=3413.27560.1&ModID=7&object=tx%7C3413.27560.1",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "23",
+    "evidenz": "Offizielle Stadtdomain wolfenbuettel.de. Seite zum Stadtempfang 2025 ('Freunde und Foerderer') nennt zahlreiche Foerderer/Sponsoren-Firmen, u.a. Autohaus Weller Gruppe, Pan Acoustics, Autohaus Gebr. Bormann, Apex Steuerberatung, Braunschweigische Landessparkasse, NBank, Ficosa, Stadtwerke Wolfenbuettel, Filmpalast Wolfenbuettel, Edeka Center Brueggendick, Weibler Confiserie, Radio 38, MKN u.a. 23+ Firmen namentlich; ueberwiegend reine Nennung (nur 2 dofollow-Links, davon Hochschule/Museum).",
+    "region": "Nord"
+  },
+  {
+    "stadt": "Itzehoe",
+    "domain": "itzehoe.de",
+    "listungsseite": "https://www.itzehoe.de/nachrichten/artikel/stadtradeln-2022-sieger-geehrt-916",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "5",
+    "evidenz": "Offizielle Stadtdomain itzehoe.de. STADTRADELN-Artikel dankt unter 'die diesjaehrigen Sponsoren': Lamberty - Fahrraeder und mehr, Stadtwerke Itzehoe, himmel & erde, Schleswig-Holstein Netz AG, Steinbeis Papier GmbH. Reine Textnennung, keine dofollow-Links.",
+    "region": "Nord"
+  },
+  {
+    "stadt": "Elmshorn",
+    "domain": "elmshorn.de",
+    "listungsseite": "https://www.elmshorn.de/Kulturportal/Kulturdenkmale/Denkmalliste/10-Elmshorner-Musiknacht-am-29-05-2026.php",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "5+",
+    "evidenz": "Offizielle Stadtdomain elmshorn.de. Seite zur Elmshorner Musiknacht nennt als Unterstuetzer/Sponsoren: Elbmarschen Apotheke, Kibek, Sparkasse Elmshorn, Provinzial (Schutzengel Fock/Kreutz/Boldt, Moeller & Stahnke OHG), STERNPARTNER BURMESTER; zusaetzlich zahlreiche teilnehmende Geschaefte. Sponsorenfirmen ohne dofollow-Link (nur Kuenstler-Websites verlinkt).",
+    "region": "Nord"
+  },
+  {
+    "stadt": "Husum",
+    "domain": "husum.org",
+    "listungsseite": "https://www.husum.org/Verwaltung-Politik/Ver%C3%B6ffentlichungen/Pressemitteilungen/40-Jahre-Husumer-Hafentage.php",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "4",
+    "evidenz": "Offizielle Stadtdomain husum.org (Stadtverwaltung Husum). Pressemitteilung '40 Jahre Husumer Hafentage' nennt als Sponsoren: Stadtwerke Husum, Emil Frey Kuestengarage, VR Bank Westkueste (Titel-/Buehnensponsoren) sowie Nord-Ostsee Sparkasse (Kinderland). Reine Textnennung, keine dofollow-Links.",
+    "region": "Nord"
+  },
+  {
+    "stadt": "Leer (Ostfriesland)",
+    "domain": "leer.de",
+    "listungsseite": "https://leer.de/Politik-Verwaltung/Verwaltung/Aktuelle-Mitteilungen/Pressemitteilungen/Stadtradeln-Leer-will-wieder-aufs-Treppchen-.php",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "6",
+    "evidenz": "Offizielle Stadtdomain leer.de. STADTRADELN-Pressemitteilung nennt als Preisstifter/Sponsoren: Multi, Orgadata, Spass mit Sport, Sparkasse Leer-Wittmund, Ostfriesische Volksbank, AS-Steuerberatungsgesellschaft. Reine Textnennung, keine dofollow-Links.",
+    "region": "Nord"
+  }
+]
