@@ -1,0 +1,62 @@
+[
+  {
+    "stadt": "Bensheim",
+    "domain": "bensheim.de",
+    "listungsseite": "https://bensheim.de/ueber-200-kinder-bei-den-ferienspielen-dank-an-die-sponsoren-fuer-die-grosszuegige-unterstuetzung/",
+    "status": "PARTNERBEREICH",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "3",
+    "evidenz": "Offizielle Stadtdomain bensheim.de. Sponsoren der Ferienspiele namentlich genannt: Sanner Forum, HAWIG Maschinenfabrik GmbH, Lions Club Bergstrasse. Keine Links, keine Logos, reine Textnennung (Dank). Plus Einzelspender (Privatpersonen). Zaehlt als PARTNERBEREICH (1-5 Firmen genannt).",
+    "region": "HE"
+  },
+  {
+    "stadt": "Hofheim am Taunus",
+    "domain": "hofheim.de",
+    "listungsseite": "https://www.hofheim.de/wirtschaft/unternehmerabend/",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "13",
+    "evidenz": "Offizielle Stadtdomain hofheim.de. Seite zum Unternehmerabend nennt >=13 Gastgeber-/Partnerfirmen ueber die Jahre: POLAR Cutting GmbH, IKEA, electronica event technologies GmbH, Porsche Zentrum Hofheim, GLOBUS Baumarkt, POLAR Mohr, Marmor Stroehmann, BMW-Autohaus Euler u.a. Alle nur namentlich, keine dofollow-Links, keine Logos. >=4 Firmennamen -> FIRMEN-LOGOS (nur Nennung).",
+    "region": "HE"
+  },
+  {
+    "stadt": "Limburg an der Lahn",
+    "domain": "limburg.de",
+    "listungsseite": "https://limburg.de/index.php?FID=3252.34306.1&ModID=7&object=tx%2C3251.5",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "9",
+    "evidenz": "Offizielle Stadtdomain limburg.de. Pressemeldung 'Sponsoren unterstuetzen den Sportpark' nennt 9 Firmen: HEUS-Betonwerke, Bauunternehmung Albert Weil, MB Fund Advisory, ABID Seniorenimmobilien, feuerwerk-immobilien GmbH (WERKStadt), EVL, MeierGuss, Schaefer Dein Baecker, MNT (155.000 Euro). Nur namentlich, keine dofollow-Links, keine Logos. >=4 Firmennamen -> FIRMEN-LOGOS (nur Nennung).",
+    "region": "HE"
+  },
+  {
+    "stadt": "Neu-Isenburg",
+    "domain": "neu-isenburg.de",
+    "listungsseite": "https://www.neu-isenburg.de/pressemodul/pressemitteilungen/2023/7/stadtradeln-2023-gewinnerinnen-und-gewinner-werden-ausgezeichnet",
+    "status": "PARTNERBEREICH",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "3",
+    "evidenz": "Offizielle Stadtdomain neu-isenburg.de. Stadtradeln-Preisstifter/Sponsoren namentlich genannt: Fahrrad Holzmann, Weltladen Neu-Isenburg, Stadtwerke Neu-Isenburg GmbH (kommunal). Ca. 3 private Firmen, nur Textnennung, keine Links, keine Logos. Zaehlt als PARTNERBEREICH (1-5 Firmen).",
+    "region": "HE"
+  },
+  {
+    "stadt": "Bad Dürkheim",
+    "domain": "bad-duerkheim.de",
+    "listungsseite": "https://www.bad-duerkheim.de/kultur-tourismus/veranstaltungen-feste/limburg-sommer/partner-des-limburg-sommers/",
+    "status": "PARTNERBEREICH",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "5",
+    "evidenz": "Offizielle Stadtdomain bad-duerkheim.de. Eigene Unterseite 'Partner des Limburg Sommers' (Open-Air-Festival). Genannte Partner/Sponsoren: Sparkasse Rhein-Haardt, Klosterschaenke Konrad2, VielPfalz Magazin, Stadtwerke Bad Duerkheim, Pro Tech (ca. 5). Seiteninhalt JS-geladen, im Fetch nicht voll renderbar; Firmennennung via Suchindex bestaetigt. dofollow/Logos nicht eindeutig verifizierbar -> konservativ als nur Nennung. Zaehlt als PARTNERBEREICH.",
+    "region": "RLP"
+  },
+  {
+    "stadt": "Bingen am Rhein",
+    "domain": "bingen.de",
+    "listungsseite": "https://www.bingen.de/stadt/news/alle-pressemitteilungen/d-das-bingen-swingt-lineup-2025-702964217",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "7",
+    "evidenz": "Offizielle Stadtdomain bingen.de. Pressemeldung 'Bingen Swingt LineUp 2025' nennt 7 Buehnenpartner/Sponsoren: Baron von Bingen Getraenkevertriebsgesellschaft mbH, Lotto Rheinland-Pfalz GmbH, Rhein-Nahe Nahverkehrsverbund GmbH, Zollamt Bingen, Volksbank Mainz-Darmstadt, Sparkasse Rhein-Nahe, Radio RPR.1. Nur namentlich (Danksagung), keine dofollow-Links, keine Logos. >=4 Firmennamen -> FIRMEN-LOGOS (nur Nennung).",
+    "region": "RLP"
+  }
+]
