@@ -1,8 +1,12 @@
 # Mail-Vorlage Städte-Sponsoring (Thunderbird Mail Merge)
 
 > Platzhalter in doppelten geschweiften Klammern entsprechen den Spalten in `mailmerge_108.csv`.
-> Im Thunderbird-Mail-Merge-Add-on: **An:** `{{Email}}` · **Betreff** und **Text** unten einfügen.
+> Im Thunderbird-Mail-Merge-Add-on:
+> **An:** `{{Email}}` · **CC:** `{{Email_CC}}` (zweite Person, wo vorhanden) · **Betreff** und **Text** unten einfügen.
 > **Signatur NICHT einfügen** – sie ist bereits in Thunderbird hinterlegt.
+>
+> Hinweis CC: 99 der 108 Zeilen haben eine zweite Kontaktperson in `{{Email_CC}}`.
+> Ist die Spalte leer, lässt Thunderbird das CC-Feld einfach frei.
 
 ---
 
