@@ -1,0 +1,32 @@
+[
+  {
+    "stadt": "Roth",
+    "domain": "stadt-roth.de",
+    "listungsseite": "https://www.stadt-roth.de/kultur-tourismus/feste-highlights/triathlon",
+    "status": "FIRMEN-LINKS",
+    "verlinkung": "dofollow ja",
+    "firmen_ca": "7",
+    "evidenz": "Offizielle Kommunal-Domain stadt-roth.de. Triathlon-Seite (Challenge Roth) verlinkt ~7 Firmen dofollow: Loewenkeller GmbH (loewenkeller.com), Vitolico (vitolico.com), Food Taxi (foodtaxionline.com), UVEX SPORTS (uvex-sports.com), BAYERN 3 Band (bayern3.de), Babypumas (Instagram), DJ Tonic (Facebook). Zusaetzlich nennt die offizielle Seite 'Wandkalender 2026' die Sponsoren Edeka Fischer, Obi Roth, REWE Engelhardt, vitolico, Hofmuehl Brauerei, Bayerische Kabelwerke AG (nur genannt). Keine Tourismus-/Eventfremddomain.",
+    "region": "BY"
+  },
+  {
+    "stadt": "Herzogenaurach",
+    "domain": "herzogenaurach.de",
+    "listungsseite": "https://www.herzogenaurach.de/leben/herzopass",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "8",
+    "evidenz": "Offizielle Kommunal-Domain herzogenaurach.de. herzoPASS-Seite listet als Partner/Akzeptanzstellen mehrere echte Firmen, u.a. adidas AG (Outlet Store), s.Oliver Store, Moebel Fischer, Print Line, W & W Optik, Apotheke am Markt, Konzeption+Text (Silke Goerner), Kreislauf-Kaufhaus. >=4 echte Firmen namentlich genannt (unverlinkt); ergaenzende Teilnehmerliste-PDF auf der Domain. Vereine/Behoerden zusaetzlich vorhanden, aber Firmenanteil erfuellt FIRMEN-LOGOS.",
+    "region": "BY"
+  },
+  {
+    "stadt": "Cham",
+    "domain": "cham.de",
+    "listungsseite": "https://www.cham.de/kultur-freizeit/mikar-carsharing",
+    "status": "FIRMEN-LOGOS",
+    "verlinkung": "nofollow/nur Nennung",
+    "firmen_ca": "33",
+    "evidenz": "Offizielle Kommunal-Domain cham.de (Stadt Cham). Seite 'mikar carsharing' fuehrt unter 'Offizieller Partner und Sponsor des Carsharing-Fahrzeuges' rund 33 lokale Firmen als Sponsoren auf, u.a. ALPHA Verteilertechnik GmbH, Elektro Koestler GmbH, Johann Allescher GmbH, Landfrisch Fleischmarkt GmbH, Obermeier Entsorgungs GmbH & Co. KG, STEA Stahl- und Metallbau GmbH, Weindl Bau GmbH, Zimmerei R. Muehlbauer GbR. Alle nur als Name genannt (keine Hyperlinks). Weit ueber Schwelle >=4 Firmen.",
+    "region": "BY"
+  }
+]
