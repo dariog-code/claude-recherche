@@ -1,0 +1,98 @@
+[
+  {
+    "stadt": "Hamburg",
+    "domain": "hamburg.de",
+    "sponsorenseite": "https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-inneres-und-sport/presseservice/pressemeldungen/hamburger-sportgala-2025-1020014",
+    "evidenz": "Offizielle Stadtseite zur Hamburger Sportgala nennt namentlich die Sponsoren ECE, Stroeer, Sportfive, Golf Lounge und Hamburg Airport.",
+    "einwohner_ca": 1900000,
+    "typ": "Behoerde fuer Inneres und Sport / Hamburger Sportgala"
+  },
+  {
+    "stadt": "Dresden",
+    "domain": "dresden.de",
+    "sponsorenseite": "https://www.dresden.de/de/leben/sport-und-freizeit/sport/leistungssport/ehrungen-und-preise-im-dresdner-sport.php",
+    "evidenz": "Offizielle Stadtseite zu Ehrungen/Preisen im Dresdner Sport nennt die Ostsaechsische Sparkasse Dresden bzw. deren Dresdner Stiftung Jugend & Sport als Foerderer/Stifter des Nachwuchsfoerderpreises.",
+    "einwohner_ca": 565000,
+    "typ": "Sportamt/Leistungssport - Ehrungen und Preise (Sportlergala)"
+  },
+  {
+    "stadt": "Frankfurt am Main",
+    "domain": "frankfurt.de",
+    "sponsorenseite": "https://www.sportlerehrung-frankfurt.de/partner/",
+    "evidenz": "Vom Sportamt der Stadt Frankfurt betriebene Sportlerehrung/Sportgala-Seite listet namentlich die Partner Mainova AG, Hassia/Rosbacher, Binding-Brauerei, Frankfurter Neue Presse, Lindner Hotel u.a.",
+    "einwohner_ca": 770000,
+    "typ": "Sportamt Frankfurt / Sportlerehrung & Sportgala"
+  },
+  {
+    "stadt": "Cottbus",
+    "domain": "cottbus.de",
+    "sponsorenseite": "https://cottbus.de/allgemein/32-sportgala-der-stadt-cottbus-chosebuz/",
+    "evidenz": "Offizielle Stadtseite zur Sportgala der Stadt Cottbus nennt die Sparkasse Spree-Neisse als finanziellen Sponsor und Gastgeber (neben Deutscher Olympischer Gesellschaft und Stadtsportbund).",
+    "einwohner_ca": 99000,
+    "typ": "Sportamt/Sportgala der Stadt"
+  },
+  {
+    "stadt": "Bonn",
+    "domain": "bonn.de",
+    "sponsorenseite": "https://www.bonn.de/pressemitteilungen/juni/sportgala-stadt-bonn-ehrt-sportler-innen-fuer-ihre-erfolge-im-jahr-2024.php",
+    "evidenz": "Offizielle Stadtseite zur Sportgala nennt Deutsche Telekom (Kooperationspartner des Sport- und Baederamts), Sparkasse Koeln-Bonn / Stiftung Sport sowie die Sparkassen-Finanzgruppe.",
+    "einwohner_ca": 335000,
+    "typ": "Sport- und Baederamt / Sportgala"
+  },
+  {
+    "stadt": "Moenchengladbach",
+    "domain": "moenchengladbach.de",
+    "sponsorenseite": "https://www.moenchengladbach.de/de/leben-in-mg/sport/sportlerehrung",
+    "evidenz": "Offizielle Stadtseite zur Sportlerehrung nennt die Stadtsparkasse Moenchengladbach als finanziellen Foerderer der Veranstaltung.",
+    "einwohner_ca": 261000,
+    "typ": "Fachbereich Schule und Sport / Sportlerehrung"
+  },
+  {
+    "stadt": "Pforzheim",
+    "domain": "pforzheim.de",
+    "sponsorenseite": "https://www.pforzheim.de/stadt/aktuelles/pressemeldungen/s1/article/detail/News/sportlerehrung-2025.html",
+    "evidenz": "Offizielle Stadtseite zur Sportlerehrung nennt die Sparkasse Pforzheim Calw als Kooperationspartner/Sponsor der Veranstaltung.",
+    "einwohner_ca": 127000,
+    "typ": "Sportamt/Sportlerehrung"
+  },
+  {
+    "stadt": "Essen",
+    "domain": "essen.de",
+    "sponsorenseite": "https://www.essen.de/meldungen/pressemeldung_1552898.de.html",
+    "evidenz": "Offizielle Stadtseite zur Essener Sportgala dankt namentlich den Sponsoren Sparkasse Essen, Allbau GmbH und Stadtwerke Essen AG.",
+    "einwohner_ca": 580000,
+    "typ": "Sportamt / Essener Sportgala"
+  },
+  {
+    "stadt": "Gotha",
+    "domain": "gotha.de",
+    "sponsorenseite": "https://www.gotha.de/de/startseite-pressemitteilungen/sportlerehrung-2025-der-stadt-gotha-und-stadtwerke-sportstiftung-gotha.html",
+    "evidenz": "Offizielle Stadtseite zur Sportlerehrung der Stadt Gotha nennt die Stadtwerke Gotha Sportstiftung als Stifter/Titelsponsor der Preise.",
+    "einwohner_ca": 44000,
+    "typ": "Stadt Gotha / Stadtwerke Sportstiftung - Sportlerehrung"
+  },
+  {
+    "stadt": "Hof",
+    "domain": "hof.de",
+    "sponsorenseite": "https://www.hof.de/en/news-1/record-at-43rd-sports-awards-ceremony",
+    "evidenz": "Offizielle Stadtseite zur Sportlerehrung der Stadt Hof nennt die Sparkasse Hochfranken (und den Sportverband Hof) als Unterstuetzer/Sponsoren.",
+    "einwohner_ca": 46000,
+    "typ": "Stadt Hof / Sportlerehrung"
+  },
+  {
+    "stadt": "Gera",
+    "domain": "gera.de",
+    "sponsorenseite": "https://www.gera.de/meldung/sportehrungen-2023",
+    "evidenz": "Offizielle Stadtseite zu den Sportehrungen der Stadt Gera nennt namentlich Sponsoren wie Sparkasse Gera-Greiz, OTWA Wasser und Abwasser GmbH, Sportradar GmbH, Heym GmbH, BLR Lager- und Handelshaus GmbH u.a.",
+    "einwohner_ca": 93000,
+    "typ": "Stadt Gera / Sportehrungen"
+  },
+  {
+    "stadt": "Schwerte",
+    "domain": "schwerte.de",
+    "sponsorenseite": "https://www.schwerte.de/politik-verwaltung-mitmachstadt/verwaltung/nachrichten-presseinfos/detailansicht/die-54-sportlerehrung-der-stadt-schwerte-ein-ehrenvoller-abend",
+    "evidenz": "Offizielle Stadtseite zur Sportlerehrung der Stadt Schwerte nennt Stadtwerke Schwerte, Sparkasse und GWG als Sponsoren/Partner.",
+    "einwohner_ca": 46000,
+    "typ": "Stadt Schwerte / Sportlerehrung"
+  }
+]
