@@ -1,0 +1,114 @@
+Aalen
+Ahaus
+Altenburg
+Apolda
+Arnstadt
+Backnang
+Bad Dürkheim
+Bad Kissingen
+Bad Oldesloe
+Bad Segeberg
+Beckum
+Bensheim
+Bergkamen
+Bingen am Rhein
+Bitterfeld-Wolfen
+Braunschweig
+Bremerhaven
+Cham
+Cloppenburg
+Coesfeld
+Crimmitschau
+Datteln
+Deggendorf
+Delbrück
+Dortmund
+Döbeln
+Düren
+Elmshorn
+Emden
+Emsdetten
+Erfurt
+Freital
+Georgsmarienhütte
+Gevelsberg
+Gifhorn
+Glauchau
+Groß-Gerau
+Göttingen
+Güstrow
+Gütersloh
+Hagen
+Hamm
+Heide
+Hemer
+Herdecke
+Herten
+Herzogenaurach
+Hildesheim
+Hofheim am Taunus
+Holzminden
+Husum
+Ingolstadt
+Itzehoe
+Jena
+Kamen
+Kamp-Lintfort
+Kitzingen
+Langenfeld
+Leer (Ostfriesland)
+Limburg an der Lahn
+Lingen
+Ludwigsburg
+Lübeck
+Magdeburg
+Mainz
+Meerbusch
+Menden
+Merseburg
+Meschede
+Mühlhausen
+Neu-Isenburg
+Neuwied
+Nienburg/Weser
+Nordhausen
+Nordhorn
+Offenbach am Main
+Osterode am Harz
+Paderborn
+Radebeul
+Ravensburg
+Reichenbach
+Rheda-Wiedenbrück
+Rhede
+Riesa
+Rostock
+Roth
+Rudolstadt
+Saalfeld
+Saarbrücken
+Saarlouis
+Schkeuditz
+Schwerin
+Schwäbisch Hall
+Schönebeck
+Seevetal
+Selm
+Siegen
+Sondershausen
+Stendal
+Sömmerda
+Troisdorf
+Varel
+Vechta
+Warendorf
+Weißenfels
+Wernigerode
+Wesseling
+Wetzlar
+Wolfenbüttel
+Wunstorf
+Wuppertal
+Zeitz
+Zittau
+Zwickau
