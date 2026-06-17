@@ -1,0 +1,140 @@
+[
+  {
+    "stadt": "Ahlen",
+    "domain": "ahlen.de",
+    "personen": [
+      {
+        "vorname": "Matthias",
+        "nachname": "Panick",
+        "funktion": "Prokurist Wirtschaftsförderung (WFG Ahlen)",
+        "email": "panickm@stadt.ahlen.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.wfg-ahlen.de/wir-ueber-uns/die-gesellschaft/das-team/"
+      },
+      {
+        "vorname": "Carlo",
+        "nachname": "Pinnschmidt",
+        "funktion": "Projektleiter Stadtmarketing (WFG Ahlen)",
+        "email": "pinnschmidtc@stadt.ahlen.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.wfg-ahlen.de/wir-ueber-uns/die-gesellschaft/das-team/"
+      }
+    ]
+  },
+  {
+    "stadt": "Bad Segeberg",
+    "domain": "bad-segeberg.de",
+    "personen": [
+      {
+        "vorname": "Pia Marie",
+        "nachname": "Rosenau",
+        "funktion": "Teamleitung Tourist-Information / Stadtmarketing",
+        "email": "piamarie.rosenau@badsegeberg.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.bad-segeberg.de/rathaus-politik/digitale-stadtverwaltung/ansprechpartner"
+      },
+      {
+        "vorname": "Ulrike",
+        "nachname": "Peters-Strunk",
+        "funktion": "Assistentin im Büro des Bürgermeisters",
+        "email": "ulrike.peters-strunk@badsegeberg.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.bad-segeberg.de/rathaus-politik/politik/buergermeister"
+      }
+    ]
+  },
+  {
+    "stadt": "Steinfurt",
+    "domain": "steinfurt.de",
+    "personen": [
+      {
+        "vorname": "Philipp",
+        "nachname": "Brüning",
+        "funktion": "Wirtschaftsförderer (Teamleitung Wirtschaft & Kultur)",
+        "email": "bruening@stadt-steinfurt.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.steinfurt.de/Dienstleistungen/Wirtschaftsfoerderung.html"
+      },
+      {
+        "vorname": "Hanno",
+        "nachname": "Wiesmann",
+        "funktion": "Wirtschaftsförderer",
+        "email": "hanno.wiesmann@stadt-steinfurt.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.steinfurt.de/Dienstleistungen/Wirtschaftsfoerderung.html"
+      }
+    ]
+  },
+  {
+    "stadt": "Schkeuditz",
+    "domain": "schkeuditz.de",
+    "personen": [
+      {
+        "vorname": "Ronald",
+        "nachname": "Krause",
+        "funktion": "Pressesprecher / Presse- und Öffentlichkeitsarbeit, Kultur, Städtepartnerschaften",
+        "email": "ronald.krause@schkeuditz.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.schkeuditz.de/buergerservice/verwaltung/pressesprecher-presse-und-oeffentlichkeitsarbeit-kultur-staedtepartnerschaften-900000036-27780.html"
+      },
+      {
+        "vorname": "Matthias",
+        "nachname": "Sebald",
+        "funktion": "Wirtschaftsförderer (Stabsstelle 61)",
+        "email": "wirtschaftsfoerderung@schkeuditz.de",
+        "email_typ": "funktion",
+        "quelle_url": "https://www.schkeuditz.de/buergerservice/personen/matthias-sebald-900000020-27780.html"
+      }
+    ]
+  },
+  {
+    "stadt": "Selm",
+    "domain": "selm.de",
+    "personen": [
+      {
+        "vorname": "David",
+        "nachname": "Ruschenbaum",
+        "funktion": "Stabsstelle Presse und Stadtmarketing (Stadtmarketing)",
+        "email": "d.ruschenbaum@stadtselm.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.selm.de/portal.html?ansicht=einrichtung&eintrag=5"
+      },
+      {
+        "vorname": "Malte",
+        "nachname": "Woesmann",
+        "funktion": "Stabsstelle Presse und Stadtmarketing (Presse/Öffentlichkeitsarbeit/Social Media)",
+        "email": "m.woesmann@stadtselm.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.selm.de/portal.html?ansicht=einrichtung&eintrag=5"
+      }
+    ]
+  },
+  {
+    "stadt": "Rathenow",
+    "domain": "rathenow.de",
+    "personen": [
+      {
+        "vorname": "",
+        "nachname": "Kießling",
+        "funktion": "Pressesprecherin / Persönliche Referentin des Bürgermeisters",
+        "email": "pressestelle@stadt-rathenow.de",
+        "email_typ": "funktion",
+        "quelle_url": "https://www.rathenow.de/verwaltung-politik/presse/pressestelle/"
+      }
+    ]
+  },
+  {
+    "stadt": "Neustrelitz",
+    "domain": "neustrelitz.de",
+    "personen": [
+      {
+        "vorname": "Petra",
+        "nachname": "Ludewig",
+        "funktion": "Pressereferentin / Pressestelle (inhaltlich verantwortlich)",
+        "email": "presse@neustrelitz.de",
+        "email_typ": "funktion",
+        "quelle_url": "https://www.neustrelitz.de/de/aemter_und_dezernate/9/pressestelle-der-stadt-neustrelitz"
+      }
+    ]
+  }
+]
