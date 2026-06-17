@@ -1,0 +1,662 @@
+[
+ {
+  "Stadt": "Oldenburg",
+  "Domain": "oldenburg.de",
+  "Sponsorenseite": "https://www.oldenburg.de/startseite/leben-umwelt/verkehr/radverkehr/stadtradeln/das-war-stadtradeln-2018/lokale-partner-und-unterstuetzer.html",
+  "Evidenz": "Umfangreiche Liste lokaler Partner/Unterstützer, u.a. ADAC, ADFC Oldenburg, BARMER, CEWE, EWE, Fahrradzentrum Oldenburg, Landessparkasse zu Oldenburg, SuperBioMarkt, Thalia.",
+  "Einwohner": 175000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Hanau",
+  "Domain": "hanau.de",
+  "Sponsorenseite": "https://www.hanau.de/stadtentwicklung/energie_klima/nahmobilitaet/index.html",
+  "Evidenz": "Stadtwerke Hanau und Sparkasse Hanau werden ausdruecklich als Hauptsponsoren des STADTRADELN genannt.",
+  "Einwohner": 100000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Regensburg",
+  "Domain": "regensburg.de",
+  "Sponsorenseite": "https://www.regensburg.de/leben/verkehr-u-mobilitaet/fahrrad/stadtradeln",
+  "Evidenz": "Sponsoren der Preise namentlich gelistet: Feine Raeder, SBK, SSV Jahn Regensburg, Sparkasse Regensburg, DonauDonkey, das.Stadtwerk, Ortlieb, Donaustern.",
+  "Einwohner": 156000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Koblenz",
+  "Domain": "koblenz.de",
+  "Sponsorenseite": "https://www.koblenz.de/umwelt-und-planung/mobilitaet/radfahren-in-koblenz/stadtradeln-2025/",
+  "Evidenz": "Lange Sponsorenliste, u.a. Canyon Bicycles, Ca Go, ERGON, Seilbahn Koblenz, Forum Mittelrhein, Stadttheater Koblenz, Baeckerei Hoefer, Lotto Rheinland-Pfalz Stiftung, VCD Mittelrhein.",
+  "Einwohner": 114000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Mannheim",
+  "Domain": "mannheim.de",
+  "Sponsorenseite": "https://www.mannheim.de/de/nachrichten/stadtradeln-2025-hat-begonnen",
+  "Evidenz": "Lokale Partner namentlich genannt: ADFC Mannheim, Free Walking Tour Mannheim, Reiss-Engelhorn-Museen, Verkehrsverbund Rhein-Neckar, Kreativwerkstatt Kronmueller, Basement Bikes, Radsport Altig, Zweirad-Center Stadler.",
+  "Einwohner": 315000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Salzgitter",
+  "Domain": "salzgitter.de",
+  "Sponsorenseite": "https://www.salzgitter.de/pressemeldungen/2025/siegerehrung-stadtradeln-2025.php",
+  "Evidenz": "Sponsoren namentlich genannt: Radstudio Salzgitter und Volksbank BraWo (E-Bike-Gewinnspiel) sowie BKK Salzgitter und BKK Public (Schulradeln).",
+  "Einwohner": 104000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Mülheim an der Ruhr",
+  "Domain": "muelheim-ruhr.de",
+  "Sponsorenseite": "https://www1.muelheim-ruhr.de/sport/nacht-der-sieger/partner/3462",
+  "Evidenz": "Offizielle Stadt-Domain listet Haupt- und weitere Sponsoren/Partner mit Firmennamen und Logos (u.a. medl GmbH, Mülheimer Wohnungsbau, Sparkasse Mülheim, WDL-Gruppe, RWW).",
+  "Einwohner": 170000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Kaiserslautern",
+  "Domain": "kaiserslautern.de",
+  "Sponsorenseite": "https://www.kaiserslautern.de/buerger_rathaus_politik/medienportal/pressemitteilungen/073816/index.html.de",
+  "Evidenz": "Offizielle Stadt-Domain nennt Sponsoren/Partner des Altstadtfests namentlich (Karlsbergbrauerei, SWK, Damm Solar, Antenne Kaiserslautern, RPR1, SIAK).",
+  "Einwohner": 100000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Oberhausen",
+  "Domain": "oberhausen.de",
+  "Sponsorenseite": "https://www.oberhausen.de/de/index/leben-in-oberhausen/news/2023/10_oktober/das_cityfest_wird_bunt.php",
+  "Evidenz": "Offizielle Stadt-Domain nennt Sponsoren des Cityfests namentlich (Energieversorgung Oberhausen/EVO, RWW, Stadtsparkasse Oberhausen, König-Pilsener-Brauerei).",
+  "Einwohner": 210000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Fürth",
+  "Domain": "fuerth.de",
+  "Sponsorenseite": "http://www.fuerth.de/metropolmarathon/service/sponsoren-und-foerderer.aspx",
+  "Evidenz": "Eigenes Metropolmarathon-Portal auf der offiziellen Domain führt eine Sponsoren-und-Förderer-Seite mit Sparkassen Fürth/Nürnberg als Titelsponsor sowie weiteren Partnern.",
+  "Einwohner": 129000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Hamburg",
+  "Domain": "hamburg.de",
+  "Sponsorenseite": "https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-inneres-und-sport/presseservice/pressemeldungen/hamburger-sportgala-2025-1020014",
+  "Evidenz": "Offizielle Stadtseite zur Hamburger Sportgala nennt namentlich die Sponsoren ECE, Stroeer, Sportfive, Golf Lounge und Hamburg Airport.",
+  "Einwohner": 1900000,
+  "Typ": "Behoerde fuer Inneres und Sport / Hamburger Sportgala",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Dresden",
+  "Domain": "dresden.de",
+  "Sponsorenseite": "https://www.dresden.de/de/leben/sport-und-freizeit/sport/leistungssport/ehrungen-und-preise-im-dresdner-sport.php",
+  "Evidenz": "Offizielle Stadtseite zu Ehrungen/Preisen im Dresdner Sport nennt die Ostsaechsische Sparkasse Dresden bzw. deren Dresdner Stiftung Jugend & Sport als Foerderer/Stifter des Nachwuchsfoerderpreises.",
+  "Einwohner": 565000,
+  "Typ": "Sportamt/Leistungssport - Ehrungen und Preise (Sportlergala)",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Frankfurt am Main",
+  "Domain": "frankfurt.de",
+  "Sponsorenseite": "https://www.sportlerehrung-frankfurt.de/partner/",
+  "Evidenz": "Vom Sportamt der Stadt Frankfurt betriebene Sportlerehrung/Sportgala-Seite listet namentlich die Partner Mainova AG, Hassia/Rosbacher, Binding-Brauerei, Frankfurter Neue Presse, Lindner Hotel u.a.",
+  "Einwohner": 770000,
+  "Typ": "Sportamt Frankfurt / Sportlerehrung & Sportgala",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Bonn",
+  "Domain": "bonn.de",
+  "Sponsorenseite": "https://www.bonn.de/pressemitteilungen/juni/sportgala-stadt-bonn-ehrt-sportler-innen-fuer-ihre-erfolge-im-jahr-2024.php",
+  "Evidenz": "Offizielle Stadtseite zur Sportgala nennt Deutsche Telekom (Kooperationspartner des Sport- und Baederamts), Sparkasse Koeln-Bonn / Stiftung Sport sowie die Sparkassen-Finanzgruppe.",
+  "Einwohner": 335000,
+  "Typ": "Sport- und Baederamt / Sportgala",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Moenchengladbach",
+  "Domain": "moenchengladbach.de",
+  "Sponsorenseite": "https://www.moenchengladbach.de/de/leben-in-mg/sport/sportlerehrung",
+  "Evidenz": "Offizielle Stadtseite zur Sportlerehrung nennt die Stadtsparkasse Moenchengladbach als finanziellen Foerderer der Veranstaltung.",
+  "Einwohner": 261000,
+  "Typ": "Fachbereich Schule und Sport / Sportlerehrung",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Pforzheim",
+  "Domain": "pforzheim.de",
+  "Sponsorenseite": "https://www.pforzheim.de/stadt/aktuelles/pressemeldungen/s1/article/detail/News/sportlerehrung-2025.html",
+  "Evidenz": "Offizielle Stadtseite zur Sportlerehrung nennt die Sparkasse Pforzheim Calw als Kooperationspartner/Sponsor der Veranstaltung.",
+  "Einwohner": 127000,
+  "Typ": "Sportamt/Sportlerehrung",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Essen",
+  "Domain": "essen.de",
+  "Sponsorenseite": "https://www.essen.de/meldungen/pressemeldung_1552898.de.html",
+  "Evidenz": "Offizielle Stadtseite zur Essener Sportgala dankt namentlich den Sponsoren Sparkasse Essen, Allbau GmbH und Stadtwerke Essen AG.",
+  "Einwohner": 580000,
+  "Typ": "Sportamt / Essener Sportgala",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Nürnberg",
+  "Domain": "nuernberg.de",
+  "Sponsorenseite": "https://www.nuernberg.de/internet/sportservice_nbg/sportdialoge.html",
+  "Evidenz": "Nürnberger Sportdialoge: Partner/Sponsoren namentlich (VR Bank Nürnberg, Polytan, Sport-Thieme, u.a.) + Projektpreis was bewegen",
+  "Einwohner": 520000,
+  "Typ": "Sportservice/Sportdialoge",
+  "DR_bekannt": null,
+  "DR_est": 60
+ },
+ {
+  "Stadt": "Plauen",
+  "Domain": "plauen.de",
+  "Sponsorenseite": "https://www.plauen.de/stadtradeln",
+  "Evidenz": "Genannt werden u.a. Little John Bikes, Stadtwerke Strom und Erdgas Plauen, Bad Brambacher Mineralquellen und Sternquell-Brauerei als Sponsoren des STADTRADELN.",
+  "Einwohner": 64000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Neustadt an der Weinstraße",
+  "Domain": "neustadt.eu",
+  "Sponsorenseite": "https://www.neustadt.eu/stadtradeln",
+  "Evidenz": "Eigene Sponsoren-/Ehrenamt-Logoabschnitte je Jahrgang, u.a. Sparkasse Rhein-Haardt, Stadtwerke Neustadt, VCD, ADFC, NABU, Marienhaus Klinikum Hetzelstift, Fahrrad Trimpe.",
+  "Einwohner": 53000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Bad Kreuznach",
+  "Domain": "bad-kreuznach.de",
+  "Sponsorenseite": "https://www.bad-kreuznach.de/politik-und-verwaltung/archiv-pressemitteilungen/jahresarchiv-2021/juni-2021/stadtradeln-bad-kreuznach-auftakt-veranstaltung-am-26-juni-am-mobil-und-infopunkt/",
+  "Evidenz": "Namentlich genannte Sponsoren/Unterstützer: OK move, Vinella, Gewobau Bad Kreuznach, Kreuznacher Stadtwerke, Business-Bike und FUTUREHaus.",
+  "Einwohner": 51000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Speyer",
+  "Domain": "speyer.de",
+  "Sponsorenseite": "https://www.speyer.de/de/rathaus/medieninformationen/archiv-2024/auftakt-stadtradeln-2024/",
+  "Evidenz": "Sponsorenliste 2024: ADFC Speyer, Neptun Energy, Ahorn Camp, Stadtsparkasse Vorderpfalz, Edeka Stiegler, Palatina GeoCon, Stadtwerke, inSPEYERed, Hotel am Wartturm, Engel & Voelkers, Postgalerie, VR Bank.",
+  "Einwohner": 51000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Neumuenster",
+  "Domain": "neumuenster.de",
+  "Sponsorenseite": "https://www.neumuenster.de/verkehr-umwelt/mobilitaet-verkehr/radverkehr/stadtradeln/",
+  "Evidenz": "Namentlich genannte Sponsoren/Partner: Sparkasse Suedholstein, MegaBike, RadEcke, Fahrradboerse Horter und ADFC Neumuenster.",
+  "Einwohner": 80000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Bayreuth",
+  "Domain": "bayreuth.de",
+  "Sponsorenseite": "https://www.bayreuth.de/bayreuth-radelt-fuer-ein-besseres-klima/",
+  "Evidenz": "Sachpreis-Sponsoren namentlich gelistet: Hagebaumarkt Bayreuth, RadBar, Minigolf Bayreuth, DAV-Kletterzentrum, Buchhandlung im Kircheneck, Senor Taco, Intersport Giessuebel, Historisches Museum, Novello.",
+  "Einwohner": 74000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Bad Salzuflen",
+  "Domain": "stadt-bad-salzuflen.de",
+  "Sponsorenseite": "https://www.stadt-bad-salzuflen.de/stadt-und-rathaus/veroeffentlichungen/stadtradeln-2024-war-ueberwaeltigender-erfolg",
+  "Evidenz": "Sponsorenpartner namentlich genannt: Marks RadKulTour, 2-Rad Downhill und die Stadtwerke Bad Salzuflen.",
+  "Einwohner": 54000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Goslar",
+  "Domain": "goslar.de",
+  "Sponsorenseite": "https://www.goslar.de/fileadmin/media-goslar/erlebnis/veranstaltungen/2025/altstadtfest/faltblatt_altstadtfest_2025_web.pdf",
+  "Evidenz": "Das offizielle Altstadtfest-Faltblatt auf goslar.de listet zahlreiche Sponsoren namentlich auf, darunter Hauptsponsor Sparkasse Hildesheim Goslar Peine sowie Harz Energie, EURAWASSER und Autohaus Rosier.",
+  "Einwohner": 50000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Greifswald",
+  "Domain": "greifswald.de",
+  "Sponsorenseite": "https://www.greifswald.de/de/urlaub-kultur/veranstaltungen/kulturelle-hoehepunkte/stadtfest/",
+  "Evidenz": "Die Stadtfest-Seite auf greifswald.de dankt namentlich Unternehmen und Institutionen wie Sparkasse Vorpommern, Stadtwerke Greifswald, WVG und der Peter-Warschow-Sammelstiftung.",
+  "Einwohner": 60000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Bocholt",
+  "Domain": "bocholt.de",
+  "Sponsorenseite": "https://www.bocholt.de/veranstaltungskalender/bocholter-weihnachtsmarkt-2026",
+  "Evidenz": "Die Veranstaltungsseiten auf bocholt.de (Weihnachtsmarkt und Stadtfest) nennen 'Mit freundlicher Unterstuetzung von' Stadtsparkasse Bocholt, Bocholter Energie- und Wasserversorgung GmbH und Volksbank Bocholt eG.",
+  "Einwohner": 71000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Wesel",
+  "Domain": "wesel.de",
+  "Sponsorenseite": "https://www.wesel.de/rathaus-online/aktuelles/weseler-winter-2025-eisbahn-adventmarkt-und-huettenzauber-bringen-festliche-stimmung-die-stadt",
+  "Evidenz": "Die Seite zum Weseler Winter auf wesel.de nennt Stadtwerke Wesel und Nispa namentlich als Sponsoren von 'Wesel on Ice'.",
+  "Einwohner": 60000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Weimar",
+  "Domain": "weimar.de",
+  "Sponsorenseite": "https://stadt.weimar.de/de/aktuelle-meldungen/weimar-sucht-die-zwiebelmarktkoenigin-2023.html",
+  "Evidenz": "Auf stadt.weimar.de werden im Zusammenhang mit dem Zwiebelmarkt Sponsoren namentlich genannt, u.a. Stadtwerke Weimar GmbH, Thueringer Netkom GmbH, Weimarer Wohnstaette GmbH und Dorint Hotel.",
+  "Einwohner": 65000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Bamberg",
+  "Domain": "bamberg.de",
+  "Sponsorenseite": "http://museum.bamberg.de/startseite/partner.html",
+  "Evidenz": "Offizielle Seite der Museen der Stadt Bamberg listet Partner/Förderer namentlich (Historischer Verein Bamberg, Peter und Irene Ludwig Stiftung, Kunstverein Bamberg, VR-Bank).",
+  "Einwohner": 77000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Aschaffenburg",
+  "Domain": "aschaffenburg.de",
+  "Sponsorenseite": "https://www.museen-aschaffenburg.de/Top-Navigation/Ueber-uns/Foerderer-und-Partner/Partner/DE_index_1428.html",
+  "Evidenz": "Offizielle Seite der Museen der Stadt Aschaffenburg (Logo Kulturstadt Aschaffenburg) listet über 40 Förderer/Partner namentlich.",
+  "Einwohner": 71000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Hürth",
+  "Domain": "huerth.de",
+  "Sponsorenseite": "https://www.huerth.de/pressearchiv-2024/2024-05-08-Stadtfest.php",
+  "Evidenz": "Offizielle Stadt-Domain nennt die Stadtfest-Sponsoren namentlich (Brunata, Chemiepark Knapsack, Kreissparkasse Köln, NetCologne, RWE, voestalpine AG, Westenergie u.a.).",
+  "Einwohner": 60000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Castrop-Rauxel",
+  "Domain": "castrop-rauxel.de",
+  "Sponsorenseite": "https://www.castrop-rauxel.de/freibadfest",
+  "Evidenz": "Offizielle Stadt-Domain dankt namentlich den Sponsoren des Festes (Stadtwerke Castrop-Rauxel, Gelsenwasser AG, Sparkasse Vest Recklinghausen, Westenergie).",
+  "Einwohner": 73000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Gera",
+  "Domain": "gera.de",
+  "Sponsorenseite": "https://www.gera.de/meldung/34-geraer-hoehlerfest-3-tage-2-naechte-1-ereignis",
+  "Evidenz": "Offizielle Stadt-Domain nennt die Sponsoren des Geraer Höhlerfests namentlich (Köstritzer Schwarzbierbrauerei, Sparkasse Gera-Greiz, Autoplanet, Veolia, Distelkam u.a.).",
+  "Einwohner": 92000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Schwäbisch Gmünd",
+  "Domain": "schwaebisch-gmuend.de",
+  "Sponsorenseite": "https://www.schwaebisch-gmuend.de/f%C3%B6rderer-sponsoren.html",
+  "Evidenz": "Offizielle Stadt-Domain führt eine 'Förderer + Sponsoren'-Seite; Stadtfest-/Veranstaltungssponsoren werden namentlich genannt (u.a. Weleda AG, OBI, Stadtwerke, VGW).",
+  "Einwohner": 62000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Ahlen",
+  "Domain": "ahlen.de",
+  "Sponsorenseite": "https://www.ahlen.de/ansicht/37-ahlener-stadtfest-vom-28-bis-30-juni-auf-dem-marktplatz",
+  "Evidenz": "Offizielle Stadt-Domain nennt die Stadtfest-Sponsoren namentlich (Reflex Winkelmann, Sparkasse Münsterland Ost, Volksbank Ahlen eG, DOW, Stadtwerke Ahlen GmbH).",
+  "Einwohner": 52000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Hattingen",
+  "Domain": "hattingen.de",
+  "Sponsorenseite": "https://www.hattingen.de/stadt_hattingen/Bildung%20und%20Kultur/Stadtbibliothek/Partner,%20Sponsoren/Sponsoren/",
+  "Evidenz": "Sponsoren-Seite der Stadtbibliothek auf der offiziellen Domain nennt Sparkasse Hattingen, Volksbank Hattingen, Mayersche Buchhandlung, Duden-Institut u.a.",
+  "Einwohner": 54000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Minden",
+  "Domain": "minden.de",
+  "Sponsorenseite": "https://www.minden.de/aktuelles/pressemeldungen/weltkindertag-eine-stadt-fuer-alle-findet-auch-2026-statt/",
+  "Evidenz": "Offizielle Pressemeldung zum Familienfest 'Eine Stadt für alle' nennt die Finanzierungspartner Melitta, Follmann, Sparkasse Minden-Lübbecke, Volksbank in OWL, Mindener Tageblatt.",
+  "Einwohner": 83000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Stralsund",
+  "Domain": "stralsund.de",
+  "Sponsorenseite": "https://www.stralsund.de/shared/Nachrichtenportal/Archiv/2023/10/15.-Sparkassen-Ruegenbruecken-Marathon-und-DAK-Lauf-und-Walking-Day",
+  "Evidenz": "Offizielle Stadtseite zum Sparkassen-Rügenbrücken-Marathon nennt Sponsoren/Partner Sparkasse Vorpommern, DAK, Sportbund Hansestadt Stralsund namentlich.",
+  "Einwohner": 59000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Dinslaken",
+  "Domain": "dinslaken.de",
+  "Sponsorenseite": "https://www.dinslaken.de/wirtschaft-freizeit/veranstaltungen/stadtjubilaeum/unser-stadtjubilaeum/unsere-sponsoren-zum",
+  "Evidenz": "Eigene Sponsorenseite zum Stadtjubiläum auf der offiziellen Domain nennt Neutor Galerie, Niederrheinische Sparkasse RheinLippe, Stadtwerke Dinslaken, Volksbank Rhein-Lippe, Wohnbau Dinslaken.",
+  "Einwohner": 68000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Viersen",
+  "Domain": "viersen.de",
+  "Sponsorenseite": "https://www.viersen.de/unsere-stadt/veranstaltungen/maerkte/suechtelner-vielfalt",
+  "Evidenz": "Offizielle Stadtseite zum Stadtfest 'Süchtelner Vielfalt' nennt zahlreiche Sponsoren namentlich (Volksbank Viersen, Sparkasse Krefeld, NEW, Rewe Markt Viersen u.a.).",
+  "Einwohner": 77000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Cottbus",
+  "Domain": "cottbus.de",
+  "Sponsorenseite": "https://cottbus.de/allgemein/32-sportgala-der-stadt-cottbus-chosebuz/",
+  "Evidenz": "Offizielle Stadtseite zur Sportgala der Stadt Cottbus nennt die Sparkasse Spree-Neisse als finanziellen Sponsor und Gastgeber (neben Deutscher Olympischer Gesellschaft und Stadtsportbund).",
+  "Einwohner": 99000,
+  "Typ": "Sportamt/Sportgala der Stadt",
+  "DR_bekannt": null,
+  "DR_est": 52
+ },
+ {
+  "Stadt": "Crimmitschau",
+  "Domain": "crimmitschau.de",
+  "Sponsorenseite": "",
+  "Evidenz": "DR 49 (Ahrefs-Cache), Sponsoren-/Listungsseite aus Vorrecherche",
+  "Einwohner": "",
+  "Typ": "Cache",
+  "DR_bekannt": 49,
+  "DR_est": 49
+ },
+ {
+  "Stadt": "Itzehoe",
+  "Domain": "itzehoe.de",
+  "Sponsorenseite": "",
+  "Evidenz": "DR 49 (Ahrefs-Cache), Sponsoren-/Listungsseite aus Vorrecherche",
+  "Einwohner": "",
+  "Typ": "Cache",
+  "DR_bekannt": 49,
+  "DR_est": 49
+ },
+ {
+  "Stadt": "Bad Segeberg",
+  "Domain": "bad-segeberg.de",
+  "Sponsorenseite": "",
+  "Evidenz": "DR 48 (Ahrefs-Cache), Sponsoren-/Listungsseite aus Vorrecherche",
+  "Einwohner": "",
+  "Typ": "Cache",
+  "DR_bekannt": 48,
+  "DR_est": 48
+ },
+ {
+  "Stadt": "Steinfurt",
+  "Domain": "steinfurt.de",
+  "Sponsorenseite": "https://www.steinfurt.de/Pressemitteilungen/STADTRADELN-2025-Gewinner.html",
+  "Evidenz": "Genannt: Kreissparkasse Steinfurt, Buergerwindpark Hollich Sellen, Moeller Chemie, Arning Bau und Stadtwerke Steinfurt als Preisstifter/Sponsoren.",
+  "Einwohner": 34000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 46
+ },
+ {
+  "Stadt": "Tuttlingen",
+  "Domain": "tuttlingen.de",
+  "Sponsorenseite": "https://www.tuttlingen.de/de/Die-Stadt/Stadtentwicklung/Radverkehr/Stadtradeln",
+  "Evidenz": "Dank an die Sponsoren mit namentlicher Nennung: B. Braun, Nerz, Kreissparkasse (KSK) und Hirsch.",
+  "Einwohner": 36000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 46
+ },
+ {
+  "Stadt": "Pirna",
+  "Domain": "pirna.de",
+  "Sponsorenseite": "https://www.pirna.de/stadtinfo/presse/presseinformationen/presse-artikel/pirna-schafft-neuen-rekord-beim-stadtradeln-die-stadt-setzt-ein-zeichen-fuer-nachhaltige-mobilitaet/",
+  "Evidenz": "Die Stadt dankt den aktiven Sponsoren Zweirad Gollmann, Volksbank Pirna und den Stadtwerken Pirna (Goldbarren als Sonderpreise).",
+  "Einwohner": 39000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 46
+ },
+ {
+  "Stadt": "Dreieich",
+  "Domain": "dreieich.de",
+  "Sponsorenseite": "https://www.dreieich.de/rathaus-service/presse-medien/pressemitteilungen/stadtfest-2024-rund-80-beteiligte-staedtische-verwaltung-erneut-mit-stand-dabei/",
+  "Evidenz": "Die Pressemitteilung der Stadt Dreieich nennt als Stadtfest-Sponsoren die Stadtwerke und den Dreieich Nordpark sowie den Kooperationspartner Sprendlinger Gewerbeverein.",
+  "Einwohner": 42000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 46
+ },
+ {
+  "Stadt": "Voelklingen",
+  "Domain": "voelklingen.de",
+  "Sponsorenseite": "https://www.voelklingen.de/kultur-sport-freizeit/veranstaltungskalender/detail/voelklinger-stadtfest-2025",
+  "Evidenz": "Die Seite zum Voelklinger Stadtfest auf voelklingen.de nennt als Hauptsponsoren die Sparkasse Saarbruecken, die Allgemeine Baugenossenschaft 1904 eG und die Karlsberg Brauerei.",
+  "Einwohner": 38000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 46
+ },
+ {
+  "Stadt": "Frankenthal",
+  "Domain": "frankenthal.de",
+  "Sponsorenseite": "https://www.frankenthal.de/strohhutfest/de/das-fest/50-strohhutfest/",
+  "Evidenz": "Auf frankenthal.de/strohhutfest werden Haupt-, Co-Sponsoren und Partner des Strohhutfests namentlich gelistet (u.a. KSB als Hauptsponsor, Sparkasse Rhein-Haardt, Stadtwerke Frankenthal).",
+  "Einwohner": 48000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 46
+ },
+ {
+  "Stadt": "Gotha",
+  "Domain": "gotha.de",
+  "Sponsorenseite": "https://www.gotha.de/de/datei/download/id/28071,53/rathauskurier_04_26.pdf.pdf",
+  "Evidenz": "Der offizielle Rathauskurier auf gotha.de nennt fuer das Gothardusfest die Kreissparkasse Gotha und die Gothaer Stadtwerke ENERGIE GmbH namentlich als Sponsoren/Partner.",
+  "Einwohner": 45000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 46
+ },
+ {
+  "Stadt": "Erkelenz",
+  "Domain": "erkelenz.de",
+  "Sponsorenseite": "https://www.erkelenz.de/stadt-erkelenz/aktuelle-nachrichten/700-jahre-stadtrechte-erkelenz-die-feierlichkeiten-starten/",
+  "Evidenz": "Offizielle Stadt-Domain nennt Partner/Förderer der Jubiläumsfeierlichkeiten namentlich (Kreissparkasse Heinsberg, Volksbank Erkelenz, WestVerkehr GmbH, NEW Energie).",
+  "Einwohner": 45000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 46
+ },
+ {
+  "Stadt": "Schwandorf",
+  "Domain": "schwandorf.de",
+  "Sponsorenseite": "https://www.schwandorf.de/index.php?object=tx,3655.6&ModID=7&FID=3655.2604.1",
+  "Evidenz": "Offizielle Stadtseite zur Sportgala nennt zahlreiche Sponsoren namentlich (Sparkasse Schwandorf, AOK Bayern, McDonald's, Nabaltec, Globus u.v.m.).",
+  "Einwohner": 29000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 46
+ },
+ {
+  "Stadt": "Ettlingen",
+  "Domain": "ettlingen.de",
+  "Sponsorenseite": "https://www.ettlingen.de/swe+halbmarathon",
+  "Evidenz": "Offizielle Stadtseite zum SWE-Halbmarathon nennt Sponsoren wie Stadtwerke Ettlingen, Volksbank Ettlingen, Sparkasse Karlsruhe, Hoepfren, Sebamed namentlich.",
+  "Einwohner": 40000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 46
+ },
+ {
+  "Stadt": "Landau in der Pfalz",
+  "Domain": "landau.de",
+  "Sponsorenseite": "https://www.landau.de/Verwaltung-Politik/Pressemitteilungen/Happy-Birthday-Landau-Festwochenende-zum-Stadtgeburtstag-war-ein-voller-Erfolg-mit-rund-40-000-Besucherinnen-und-Besuchern-Es-wird-weitergefeiert-.php?object=tx,2644.5&ModID=7&FID=2644.16017.1&NavID=2644.13.1",
+  "Evidenz": "Offizielle Pressemitteilung zum Stadtgeburtstag nennt Sponsoren (EnergieSüdwest, Sparkasse Südpfalz, PARK & BELLHEIMER, WEPTECH u.a.) und Medienpartner namentlich.",
+  "Einwohner": 47000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 46
+ },
+ {
+  "Stadt": "Hof",
+  "Domain": "hof.de",
+  "Sponsorenseite": "https://www.hof.de/en/news-1/record-at-43rd-sports-awards-ceremony",
+  "Evidenz": "Offizielle Stadtseite zur Sportlerehrung der Stadt Hof nennt die Sparkasse Hochfranken (und den Sportverband Hof) als Unterstuetzer/Sponsoren.",
+  "Einwohner": 46000,
+  "Typ": "Stadt Hof / Sportlerehrung",
+  "DR_bekannt": null,
+  "DR_est": 46
+ },
+ {
+  "Stadt": "Schwerte",
+  "Domain": "schwerte.de",
+  "Sponsorenseite": "https://www.schwerte.de/politik-verwaltung-mitmachstadt/verwaltung/nachrichten-presseinfos/detailansicht/die-54-sportlerehrung-der-stadt-schwerte-ein-ehrenvoller-abend",
+  "Evidenz": "Offizielle Stadtseite zur Sportlerehrung der Stadt Schwerte nennt Stadtwerke Schwerte, Sparkasse und GWG als Sponsoren/Partner.",
+  "Einwohner": 46000,
+  "Typ": "Stadt Schwerte / Sportlerehrung",
+  "DR_bekannt": null,
+  "DR_est": 46
+ },
+ {
+  "Stadt": "Groß-Gerau",
+  "Domain": "gross-gerau.de",
+  "Sponsorenseite": "",
+  "Evidenz": "DR 46 (Ahrefs-Cache), Sponsoren-/Listungsseite aus Vorrecherche",
+  "Einwohner": "",
+  "Typ": "Cache",
+  "DR_bekannt": 46,
+  "DR_est": 46
+ },
+ {
+  "Stadt": "Schkeuditz",
+  "Domain": "schkeuditz.de",
+  "Sponsorenseite": "",
+  "Evidenz": "DR 45 (Ahrefs-Cache), Sponsoren-/Listungsseite aus Vorrecherche",
+  "Einwohner": "",
+  "Typ": "Cache",
+  "DR_bekannt": 45,
+  "DR_est": 45
+ },
+ {
+  "Stadt": "Selm",
+  "Domain": "selm.de",
+  "Sponsorenseite": "",
+  "Evidenz": "DR 43 (Ahrefs-Cache), Sponsoren-/Listungsseite aus Vorrecherche",
+  "Einwohner": "",
+  "Typ": "Cache",
+  "DR_bekannt": 43,
+  "DR_est": 43
+ },
+ {
+  "Stadt": "Germersheim",
+  "Domain": "germersheim.eu",
+  "Sponsorenseite": "https://www.germersheim.eu/kultur-tourismus/feste-maerkte/stadtjubilaeum/",
+  "Evidenz": "Die Stadtjubilaeums-Seite auf germersheim.eu nennt unter 'Unsere Unterstuetzer' Hauptsponsoren (u.a. Mercedes-Benz AG, Sparkasse Suedpfalz), Sponsoren und Jubilaeumspartner namentlich.",
+  "Einwohner": 21000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 42
+ },
+ {
+  "Stadt": "Lutherstadt Eisleben",
+  "Domain": "eisleben.eu",
+  "Sponsorenseite": "https://www.eisleben.eu/eisleben_website/CMSContent2014.nsf/content/Eislebenpost.html?Open=&postid=MKNE-BDGKF9&lang=",
+  "Evidenz": "Das Stadtportal eisleben.eu nennt als Hauptsponsoren des Lutherstadtfests die Wohnungsbaugesellschaft Lutherstadt Eisleben mbH, die Stadtwerke Lutherstadt Eisleben GmbH und die Sparkasse Mansfeld-Suedharz.",
+  "Einwohner": 23000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 42
+ },
+ {
+  "Stadt": "Rathenow",
+  "Domain": "rathenow.de",
+  "Sponsorenseite": "https://www.rathenow.de/kultur-tourismus/kultur-erleben/rathenower-stadtfest-2025/rathenower-stadtfest-2025/sponsoren-und-unterstuetzer-des-stadtfestes-2024/",
+  "Evidenz": "Die offizielle Stadtseite rathenow.de hat eine eigene Seite 'Sponsoren und Unterstuetzer des Stadtfestes' mit den Logos von rund 20 Partnern.",
+  "Einwohner": 24000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 42
+ },
+ {
+  "Stadt": "Neustrelitz",
+  "Domain": "neustrelitz.de",
+  "Sponsorenseite": "https://www.neustrelitz.de/de/pressearchiv/artikel/3168/neustrelitz-feiert-das-strelitzienfest",
+  "Evidenz": "Offizielle Stadt-Domain dankt namentlich den Sponsoren des Strelitzienfests (Stadtwerke Neustrelitz GmbH, Neustrelitzer Wohnungsgesellschaft mbH, Remondis, Sparkasse Mecklenburg-Strelitz).",
+  "Einwohner": 20000,
+  "Typ": "",
+  "DR_bekannt": null,
+  "DR_est": 42
+ }
+]
