@@ -38,6 +38,13 @@ Städte) und dient als **dauerhafte Master-Dokumentation**. Wir arbeiten in
 | Welle | Datum Erstkontakt | Anzahl | Inhalt | Status |
 |-------|-------------------|--------|--------|--------|
 | **1** | 2026-06-17 | **108** | Städte DR ≥ 50 mit Sponsoren-/Partnerseite; je 1–2 Ansprechpartner (To+CC) | Erstkontakt versendet |
+| **2** | (geplant) | **66** | Neue Städte DR ≥ 40 mit Sponsoren-/Partnerseite (inkl. Sportamt/Sportgala-Typ); je 1–2 Ansprechpartner (To+CC). Datei: `../mailmerge_wave2.csv` | vorbereitet, noch nicht versendet |
+
+### Notizen Welle 2
+- 66 neue Städte (dedupliziert gegen Welle 1), Quelle: 5 Recherche-Agenten (StadtRadeln, Stadtfeste, Stadtmarketing-Partner, Sport-/Kultur-Events, **Sportamt/Sportdialoge** — Vorbild nuernberg.de) + 6 aus DR-Cache.
+- Kontakte: 66/66 mit namentlicher Person, 63 persönliche To-Adressen, 61 mit CC.
+- 56 verifiziert zustellbar (28 valid + 28 accept_all), 10 „Status unklar" (offiziell veröffentlicht, Server ohne Verifikationsantwort).
+- **DR über Stadtgröße geschätzt** (Ahrefs-Key war nicht verfügbar) — bei Bedarf mit Key exakt nachziehen.
 
 ### Notizen Welle 1
 - Quelle/Auswahl: `staedte_GESAMT_dr50.csv` (Domains mit veröffentlichter Sponsorenseite).

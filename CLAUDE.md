@@ -15,6 +15,8 @@ Recherche + Outreach an Städte/Kommunen für Sponsoring-Kooperationen
 ### Bisherige Wellen
 - **Welle 1 — 2026-06-17 — 108 Städte** (Erstkontakt versendet).
   Datenquelle: `mailmerge_108.csv`. Für diese 108 folgen Nachfassmails.
+- **Welle 2 — 66 Städte (DR ≥ 40)** — vorbereitet, noch nicht versendet.
+  Datenquelle: `mailmerge_wave2.csv`. Inkl. Sportamt/Sportgala-Typ (Vorbild nuernberg.de Sportdialoge).
 
 ## Versand
 - Vorlage: `mailvorlage_staedte_sponsoring.md`
