@@ -1,0 +1,162 @@
+[
+  {
+    "stadt": "Oldenburg",
+    "domain": "oldenburg.de",
+    "personen": [
+      {
+        "vorname": "Giuseppina",
+        "nachname": "Giordano",
+        "funktion": "Fachdienstleiterin Standortmarketing, Amt für Wirtschaftsförderung",
+        "email": "giuseppina.giordano@stadt-oldenburg.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.oldenburg.de/startseite/wirtschaft/wirtschaftsfoerderung/wir-ueber-uns/unser-team.html"
+      },
+      {
+        "vorname": "Ralph",
+        "nachname": "Wilken",
+        "funktion": "Amtsleiter Wirtschaftsförderung",
+        "email": "wirtschaftsfoerderung@stadt-oldenburg.de",
+        "email_typ": "funktion",
+        "quelle_url": "https://www.oldenburg.de/startseite/wirtschaft/wirtschaftsfoerderung/wir-ueber-uns/unser-team.html"
+      }
+    ]
+  },
+  {
+    "stadt": "Koblenz",
+    "domain": "koblenz.de",
+    "personen": [
+      {
+        "vorname": "Stefan",
+        "nachname": "Weiler",
+        "funktion": "Amtsleiter Wirtschaftsförderung & Geschäftsführer der WFG Koblenz mbH (Dr.)",
+        "email": "stefan.weiler@stadt.koblenz.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.koblenz.de/wirtschaft/wirtschaftsfoerderung/ansprechpartner/"
+      },
+      {
+        "vorname": "Mario",
+        "nachname": "Neuneier",
+        "funktion": "Stellvertretender Amtsleiter Wirtschaftsförderung",
+        "email": "mario.neuneier@stadt.koblenz.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.koblenz.de/wirtschaft/wirtschaftsfoerderung/ansprechpartner/"
+      }
+    ]
+  },
+  {
+    "stadt": "Salzgitter",
+    "domain": "salzgitter.de",
+    "personen": [
+      {
+        "vorname": "Björn",
+        "nachname": "Gläser",
+        "funktion": "Prokurist, Wirtschafts- und Innovationsförderung Salzgitter GmbH (WIS), kommunale Wirtschaftsförderung der Stadt Salzgitter (Dr.)",
+        "email": "bjoern.glaeser@wis-salzgitter.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.wis-salzgitter.de/wis/team/"
+      },
+      {
+        "vorname": "Andrea",
+        "nachname": "Weidlich",
+        "funktion": "Öffentlichkeitsarbeit & Unternehmensservice (WIS Salzgitter)",
+        "email": "andrea.weidlich@wis-salzgitter.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.wis-salzgitter.de/wis/team/"
+      }
+    ]
+  },
+  {
+    "stadt": "Frankfurt am Main",
+    "domain": "frankfurt.de",
+    "personen": [
+      {
+        "vorname": "Sandra",
+        "nachname": "Müller",
+        "funktion": "Leiterin Marketing, Messen & Events, Wirtschaftsförderung Frankfurt GmbH (städtische Wirtschaftsförderung)",
+        "email": "sandra.mueller@frankfurt-business.net",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.frankfurt-business.net/ueber-uns/ansprechpartner/"
+      },
+      {
+        "vorname": "Anna",
+        "nachname": "Stepanenko",
+        "funktion": "Projektleiterin Kompetenzzentrum Europa/MENA/Türkei/Lateinamerika, Wirtschaftsförderung Frankfurt GmbH (Dr.)",
+        "email": "anna.stepanenko@frankfurt-business.net",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.frankfurt-business.net/ueber-uns/ansprechpartner/"
+      }
+    ]
+  },
+  {
+    "stadt": "Speyer",
+    "domain": "speyer.de",
+    "personen": [
+      {
+        "vorname": "Mario",
+        "nachname": "Daum",
+        "funktion": "Leiter der Abt. Wirtschaftsförderung, Stadtmarketing und Veranstaltungen",
+        "email": "mario.daum@stadt-speyer.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.speyer.de/de/buergerservice/mitarbeiter/RLP:employee:15602/daum-mario/"
+      }
+    ]
+  },
+  {
+    "stadt": "Bayreuth",
+    "domain": "bayreuth.de",
+    "personen": [
+      {
+        "vorname": "Fredy",
+        "nachname": "Schmidt",
+        "funktion": "Leiter der Wirtschaftsförderung",
+        "email": "fredy.schmidt@stadt.bayreuth.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.bayreuth.de/wirtschaft-forschung/service/ansprechpartner/"
+      },
+      {
+        "vorname": "Bernhard",
+        "nachname": "Sippel",
+        "funktion": "Stellv. Leiter der Wirtschaftsförderung",
+        "email": "bernhard.sippel@stadt.bayreuth.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.bayreuth.de/wirtschaft-forschung/service/ansprechpartner/"
+      }
+    ]
+  },
+  {
+    "stadt": "Bad Salzuflen",
+    "domain": "stadt-bad-salzuflen.de",
+    "personen": [
+      {
+        "vorname": "Frank",
+        "nachname": "Heinkel",
+        "funktion": "Wirtschaftsförderer (Stab Wirtschaftsförderung), Stadt Bad Salzuflen",
+        "email": "wirtschaftsfoerderung@bad-salzuflen.de",
+        "email_typ": "funktion",
+        "quelle_url": "https://www.stadt-bad-salzuflen.de/wirtschaft-und-mobilitaet/wirtschaftsstandort/wirtschaftsfoerderung"
+      }
+    ]
+  },
+  {
+    "stadt": "Bamberg",
+    "domain": "bamberg.de",
+    "personen": [
+      {
+        "vorname": "Ruth",
+        "nachname": "Vollmar",
+        "funktion": "Amtsleitung Amt für Wirtschaft / Wirtschaftsförderung Stadt Bamberg",
+        "email": "ruth.vollmar@stadt.bamberg.de",
+        "email_typ": "persoenlich",
+        "quelle_url": "https://www.stadt.bamberg.de/Wirtschaft/Team-Wirtschaftsf%C3%B6rderung/"
+      },
+      {
+        "vorname": "Simone",
+        "nachname": "Ludwig-Konggann",
+        "funktion": "Stellvertretende Amtsleiterin Wirtschaftsförderung Stadt Bamberg",
+        "email": "wifoe@stadt.bamberg.de",
+        "email_typ": "funktion",
+        "quelle_url": "https://www.stadt.bamberg.de/Wirtschaft/Team-Wirtschaftsf%C3%B6rderung/"
+      }
+    ]
+  }
+]
