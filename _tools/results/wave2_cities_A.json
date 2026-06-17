@@ -1,0 +1,114 @@
+[
+  {
+    "stadt": "Plauen",
+    "domain": "plauen.de",
+    "sponsorenseite": "https://www.plauen.de/stadtradeln",
+    "evidenz": "Genannt werden u.a. Little John Bikes, Stadtwerke Strom und Erdgas Plauen, Bad Brambacher Mineralquellen und Sternquell-Brauerei als Sponsoren des STADTRADELN.",
+    "einwohner_ca": 64000
+  },
+  {
+    "stadt": "Neustadt an der Weinstraße",
+    "domain": "neustadt.eu",
+    "sponsorenseite": "https://www.neustadt.eu/stadtradeln",
+    "evidenz": "Eigene Sponsoren-/Ehrenamt-Logoabschnitte je Jahrgang, u.a. Sparkasse Rhein-Haardt, Stadtwerke Neustadt, VCD, ADFC, NABU, Marienhaus Klinikum Hetzelstift, Fahrrad Trimpe.",
+    "einwohner_ca": 53000
+  },
+  {
+    "stadt": "Oldenburg",
+    "domain": "oldenburg.de",
+    "sponsorenseite": "https://www.oldenburg.de/startseite/leben-umwelt/verkehr/radverkehr/stadtradeln/das-war-stadtradeln-2018/lokale-partner-und-unterstuetzer.html",
+    "evidenz": "Umfangreiche Liste lokaler Partner/Unterstützer, u.a. ADAC, ADFC Oldenburg, BARMER, CEWE, EWE, Fahrradzentrum Oldenburg, Landessparkasse zu Oldenburg, SuperBioMarkt, Thalia.",
+    "einwohner_ca": 175000
+  },
+  {
+    "stadt": "Bad Kreuznach",
+    "domain": "bad-kreuznach.de",
+    "sponsorenseite": "https://www.bad-kreuznach.de/politik-und-verwaltung/archiv-pressemitteilungen/jahresarchiv-2021/juni-2021/stadtradeln-bad-kreuznach-auftakt-veranstaltung-am-26-juni-am-mobil-und-infopunkt/",
+    "evidenz": "Namentlich genannte Sponsoren/Unterstützer: OK move, Vinella, Gewobau Bad Kreuznach, Kreuznacher Stadtwerke, Business-Bike und FUTUREHaus.",
+    "einwohner_ca": 51000
+  },
+  {
+    "stadt": "Steinfurt",
+    "domain": "steinfurt.de",
+    "sponsorenseite": "https://www.steinfurt.de/Pressemitteilungen/STADTRADELN-2025-Gewinner.html",
+    "evidenz": "Genannt: Kreissparkasse Steinfurt, Buergerwindpark Hollich Sellen, Moeller Chemie, Arning Bau und Stadtwerke Steinfurt als Preisstifter/Sponsoren.",
+    "einwohner_ca": 34000
+  },
+  {
+    "stadt": "Hanau",
+    "domain": "hanau.de",
+    "sponsorenseite": "https://www.hanau.de/stadtentwicklung/energie_klima/nahmobilitaet/index.html",
+    "evidenz": "Stadtwerke Hanau und Sparkasse Hanau werden ausdruecklich als Hauptsponsoren des STADTRADELN genannt.",
+    "einwohner_ca": 100000
+  },
+  {
+    "stadt": "Regensburg",
+    "domain": "regensburg.de",
+    "sponsorenseite": "https://www.regensburg.de/leben/verkehr-u-mobilitaet/fahrrad/stadtradeln",
+    "evidenz": "Sponsoren der Preise namentlich gelistet: Feine Raeder, SBK, SSV Jahn Regensburg, Sparkasse Regensburg, DonauDonkey, das.Stadtwerk, Ortlieb, Donaustern.",
+    "einwohner_ca": 156000
+  },
+  {
+    "stadt": "Speyer",
+    "domain": "speyer.de",
+    "sponsorenseite": "https://www.speyer.de/de/rathaus/medieninformationen/archiv-2024/auftakt-stadtradeln-2024/",
+    "evidenz": "Sponsorenliste 2024: ADFC Speyer, Neptun Energy, Ahorn Camp, Stadtsparkasse Vorderpfalz, Edeka Stiegler, Palatina GeoCon, Stadtwerke, inSPEYERed, Hotel am Wartturm, Engel & Voelkers, Postgalerie, VR Bank.",
+    "einwohner_ca": 51000
+  },
+  {
+    "stadt": "Tuttlingen",
+    "domain": "tuttlingen.de",
+    "sponsorenseite": "https://www.tuttlingen.de/de/Die-Stadt/Stadtentwicklung/Radverkehr/Stadtradeln",
+    "evidenz": "Dank an die Sponsoren mit namentlicher Nennung: B. Braun, Nerz, Kreissparkasse (KSK) und Hirsch.",
+    "einwohner_ca": 36000
+  },
+  {
+    "stadt": "Neumuenster",
+    "domain": "neumuenster.de",
+    "sponsorenseite": "https://www.neumuenster.de/verkehr-umwelt/mobilitaet-verkehr/radverkehr/stadtradeln/",
+    "evidenz": "Namentlich genannte Sponsoren/Partner: Sparkasse Suedholstein, MegaBike, RadEcke, Fahrradboerse Horter und ADFC Neumuenster.",
+    "einwohner_ca": 80000
+  },
+  {
+    "stadt": "Bayreuth",
+    "domain": "bayreuth.de",
+    "sponsorenseite": "https://www.bayreuth.de/bayreuth-radelt-fuer-ein-besseres-klima/",
+    "evidenz": "Sachpreis-Sponsoren namentlich gelistet: Hagebaumarkt Bayreuth, RadBar, Minigolf Bayreuth, DAV-Kletterzentrum, Buchhandlung im Kircheneck, Senor Taco, Intersport Giessuebel, Historisches Museum, Novello.",
+    "einwohner_ca": 74000
+  },
+  {
+    "stadt": "Koblenz",
+    "domain": "koblenz.de",
+    "sponsorenseite": "https://www.koblenz.de/umwelt-und-planung/mobilitaet/radfahren-in-koblenz/stadtradeln-2025/",
+    "evidenz": "Lange Sponsorenliste, u.a. Canyon Bicycles, Ca Go, ERGON, Seilbahn Koblenz, Forum Mittelrhein, Stadttheater Koblenz, Baeckerei Hoefer, Lotto Rheinland-Pfalz Stiftung, VCD Mittelrhein.",
+    "einwohner_ca": 114000
+  },
+  {
+    "stadt": "Mannheim",
+    "domain": "mannheim.de",
+    "sponsorenseite": "https://www.mannheim.de/de/nachrichten/stadtradeln-2025-hat-begonnen",
+    "evidenz": "Lokale Partner namentlich genannt: ADFC Mannheim, Free Walking Tour Mannheim, Reiss-Engelhorn-Museen, Verkehrsverbund Rhein-Neckar, Kreativwerkstatt Kronmueller, Basement Bikes, Radsport Altig, Zweirad-Center Stadler.",
+    "einwohner_ca": 315000
+  },
+  {
+    "stadt": "Salzgitter",
+    "domain": "salzgitter.de",
+    "sponsorenseite": "https://www.salzgitter.de/pressemeldungen/2025/siegerehrung-stadtradeln-2025.php",
+    "evidenz": "Sponsoren namentlich genannt: Radstudio Salzgitter und Volksbank BraWo (E-Bike-Gewinnspiel) sowie BKK Salzgitter und BKK Public (Schulradeln).",
+    "einwohner_ca": 104000
+  },
+  {
+    "stadt": "Bad Salzuflen",
+    "domain": "stadt-bad-salzuflen.de",
+    "sponsorenseite": "https://www.stadt-bad-salzuflen.de/stadt-und-rathaus/veroeffentlichungen/stadtradeln-2024-war-ueberwaeltigender-erfolg",
+    "evidenz": "Sponsorenpartner namentlich genannt: Marks RadKulTour, 2-Rad Downhill und die Stadtwerke Bad Salzuflen.",
+    "einwohner_ca": 54000
+  },
+  {
+    "stadt": "Pirna",
+    "domain": "pirna.de",
+    "sponsorenseite": "https://www.pirna.de/stadtinfo/presse/presseinformationen/presse-artikel/pirna-schafft-neuen-rekord-beim-stadtradeln-die-stadt-setzt-ein-zeichen-fuer-nachhaltige-mobilitaet/",
+    "evidenz": "Die Stadt dankt den aktiven Sponsoren Zweirad Gollmann, Volksbank Pirna und den Stadtwerken Pirna (Goldbarren als Sonderpreise).",
+    "einwohner_ca": 39000
+  }
+]
