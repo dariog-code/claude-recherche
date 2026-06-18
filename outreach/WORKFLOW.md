@@ -44,7 +44,7 @@ Städte) und dient als **dauerhafte Master-Dokumentation**. Wir arbeiten in
 - 66 neue Städte (dedupliziert gegen Welle 1), Quelle: 5 Recherche-Agenten (StadtRadeln, Stadtfeste, Stadtmarketing-Partner, Sport-/Kultur-Events, **Sportamt/Sportdialoge** — Vorbild nuernberg.de) + 6 aus DR-Cache.
 - Kontakte: 66/66 mit namentlicher Person, 63 persönliche To-Adressen, 61 mit CC.
 - 56 verifiziert zustellbar (28 valid + 28 accept_all), 10 „Status unklar" (offiziell veröffentlicht, Server ohne Verifikationsantwort).
-- **DR über Stadtgröße geschätzt** (Ahrefs-Key war nicht verfügbar) — bei Bedarf mit Key exakt nachziehen.
+- **DR per Ahrefs exakt verifiziert: alle 66 ≥ 40** (Spitze: Hamburg 89, Nürnberg 83, Dresden 82, Frankfurt 81).
 
 ### Notizen Welle 1
 - Quelle/Auswahl: `staedte_GESAMT_dr50.csv` (Domains mit veröffentlichter Sponsorenseite).
