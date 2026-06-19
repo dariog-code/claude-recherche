@@ -40,6 +40,7 @@ Städte) und dient als **dauerhafte Master-Dokumentation**. Wir arbeiten in
 | Datum | Welle | Stadt | Person | Ergebnis | Nächste Aktion |
 |-------|-------|-------|--------|----------|----------------|
 | 2026-06-17 | 1 | Herzogenaurach | Judith Jochmann | Interesse (positiv) | **Telefontermin vereinbaren** |
+| 2026-06-17 | 1 | Weißenfels | Katja Henze (CC) | Interesse | Konditionen/Material senden |
 
 ## Wellen-Log
 
