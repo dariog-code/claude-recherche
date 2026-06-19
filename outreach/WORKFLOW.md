@@ -41,6 +41,7 @@ Städte) und dient als **dauerhafte Master-Dokumentation**. Wir arbeiten in
 |-------|-------|-------|--------|----------|----------------|
 | 2026-06-17 | 1 | Herzogenaurach | Judith Jochmann | Interesse (positiv) | **Telefontermin vereinbaren** |
 | 2026-06-17 | 1 | Weißenfels | Katja Henze (CC) | Interesse | Konditionen/Material senden |
+| 2026-06-17 | 1 | Glauchau | Michael Hecht | Absage (nur regionale Unternehmen) | — nicht nachfassen |
 
 ## Wellen-Log
 
