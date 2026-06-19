@@ -29,9 +29,17 @@ Städte) und dient als **dauerhafte Master-Dokumentation**. Wir arbeiten in
 
 ## Status-Werte (Konvention)
 
-- `Erstkontakt_Status` / `Nachfass*_Status`: `versendet`, `bounce`, `—`
+- `Erstkontakt_Status` / `Nachfass*_Status`: `versendet`, `vorbereitet (nicht versendet)`, `bounce`, `—`
+- `Antwort_Datum`: Datum der Rückmeldung (YYYY-MM-DD)
+- `Antwort`: kurze Notiz zur Rückmeldung (Originalton/Kern)
 - `Ergebnis`: `offen`, `Interesse`, `Zusage`, `Absage`, `kein Programm`, `eingetragen`
-- `Antwort`: kurze Notiz / Datum der Rückmeldung
+- `Naechste_Aktion`: konkreter nächster Schritt (z. B. „Telefontermin vereinbaren", „Logo/Material senden")
+
+## Rückmeldungen (Log)
+
+| Datum | Welle | Stadt | Person | Ergebnis | Nächste Aktion |
+|-------|-------|-------|--------|----------|----------------|
+| 2026-06-17 | 1 | Herzogenaurach | Judith Jochmann | Interesse (positiv) | **Telefontermin vereinbaren** |
 
 ## Wellen-Log
 
