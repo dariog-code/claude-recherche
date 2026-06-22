@@ -44,9 +44,9 @@ Förderengagement an {{Hochschule}} – Aufnahme in Ihren Förderer-/Partnerkrei
 wir sind auf {{Hochschule}} aufmerksam geworden – insbesondere auf die Seite, auf
 der Sie Ihre Förderer und Partner vorstellen ({{Listungsseite}}).
 
-Wir unterstützen gezielt Hochschulen und ihre Projekte – etwa Förderprogramme,
-das Deutschlandstipendium, Career-/Transfer-Formate oder einzelne Veranstaltungen –
-und würden uns gern bei {{Hochschule}} als Förderer engagieren.
+Wir unterstützen gezielt Hochschulen – etwa über Projektförderungen, allgemeine
+Unterstützung auf Fachbereichsebene oder als Förderer in Ihrem Partnerbereich –
+und würden uns gern bei {{Hochschule}} engagieren.
 
 Im Gegenzug freuen wir uns – wie Ihre übrigen Förderer und Partner – über eine
 kurze Nennung mit Logo und Verlinkung auf Ihrer Förderer-/Partnerseite.
@@ -89,5 +89,6 @@ eine Aufnahme in genau dieser Form sehr freuen.
 ## Hinweise zur Personalisierung
 - `{{Anrede}}` ist je Zeile vorbefüllt – persönlich, wo ein Ansprechpartner bekannt ist.
 - `{{Hochschule}}` + `{{Listungsseite}}` machen die Mail konkret und nachweisbar relevant.
-- Bei Deutschlandstipendium-Seiten ist das Förder-Angebot besonders niedrigschwellig
-  (definierte Stipendienbeträge) – das erhöht die Antwortquote.
+- Konkretes Förderangebot (Projektförderung, Unterstützung auf Fachbereichsebene,
+  Förderer im Partnerbereich) erhöht die Antwortquote – Deutschlandstipendium bewusst
+  nicht als Aufhänger verwenden.
