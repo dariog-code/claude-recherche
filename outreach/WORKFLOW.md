@@ -42,7 +42,7 @@ Städte) und dient als **dauerhafte Master-Dokumentation**. Wir arbeiten in
 | 2026-06-17 | 1 | Herzogenaurach | Judith Jochmann | Interesse (positiv) | **Telefontermin vereinbaren** |
 | 2026-06-17 | 1 | Weißenfels | Katja Henze (CC) | Interesse | Konditionen/Material senden |
 | 2026-06-17 | 1 | Glauchau | Michael Hecht | Absage (nur regionale Unternehmen) | — nicht nachfassen |
-| 2026-06-17 | 1 | Aalen | Karin Haisch | Interesse (Austausch gewünscht) | Termin abstimmen |
+| 2026-06-17 | 1 | Aalen | Karin Haisch / Angela Neufischer | Interesse | **Telefontermin vereinbaren** |
 | 2026-06-17 | 1 | Wesseling | S. Burum | Interesse (Telefonat) | Telefontermin vereinbaren |
 | 2026-06-17 | 1 | Sömmerda | Lena Kob | Rückfrage (Klärung nötig) | Rücksprache führen |
 | 2026-06-17 | 1 | Rudolstadt | T. Melior | Interesse (Sponsoren-Infos, Subdomain) | Konditionen + Verlinkung prüfen |
