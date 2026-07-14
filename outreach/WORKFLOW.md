@@ -47,7 +47,7 @@ Städte) und dient als **dauerhafte Master-Dokumentation**. Wir arbeiten in
 | 2026-06-17 | 1 | Sömmerda | Lena Kob | Rückfrage (Klärung nötig) | Rücksprache führen |
 | 2026-06-17 | 1 | Rudolstadt | T. Melior | Interesse (Sponsoren-Infos, Subdomain) | Konditionen + Verlinkung prüfen |
 | 2026-06-17 | 1 | Arnstadt | Carsten Römhildt | Interesse | Konditionen abstimmen |
-| 2026-06-17 | 1 | Freital | kultur@freital.de | Interesse | Konditionen abstimmen |
+| 2026-07-14 | 1 | Freital | kultur@freital.de | **ZUSAGE (1 Jahr)** | Logo/Verlinkung platzieren |
 | 2026-07-14 | 1 | Kamen | Birgit Klotzbach | Interesse (Telefonat gehalten) | Ergebnis festhalten |
 
 ## Wellen-Log
