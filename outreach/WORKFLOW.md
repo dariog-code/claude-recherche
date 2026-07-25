@@ -27,6 +27,24 @@ Städte) und dient als **dauerhafte Master-Dokumentation**. Wir arbeiten in
 4. **Nächste Welle:** neue Städte recherchieren und als **Welle 2, 3, …**
    ergänzen — gleiches Schema.
 
+## Offene Aufgaben — nächste Session (Stand 2026-07-14)
+
+1. **Welle 3 – Personenlücken gezielt nachrecherchieren** (namentliche, zustellbare
+   Person statt Funktionspostfach; Web-Recherche wie bei Welle-1-Lücken, WebSearch-
+   Budget ist in frischer Session wieder voll). Betroffen:
+   Marburg (pressestelle@), Kiel (presse@kieler-woche.de), Bergisch Gladbach (info@),
+   Greven (pressestelle@), **St. Ingbert (PRÜFEN)**, **Stade (PRÜFEN)**.
+   → gefundene persönliche Adresse per Hunter verifizieren, in `mailmerge_wave3.csv`
+   und `mailmerge_staedte_block2.csv` + Master ersetzen.
+2. **Welle 4 – neue Städte nachlegen** nach bewährtem Prinzip (Sponsoren-/Partner-/
+   Kooperationsseiten auf offizieller Stadt-Domain: StadtRadeln, Stadtfeste,
+   Stadtmarketing-Partner, Sportamt/Sportgala). DR ≥ 40 via Ahrefs, To+CC via Hunter,
+   gegen `_tools/exclude_staedte.txt` (= Master) ausschließen. 60er-chunked ausspielen.
+   Schon vorgemerkte Tier-2-Leads: Amberg, Ibbenbüren, Peine, Werne, Kempten,
+   Gladbeck, Bottrop, Sindelfingen. Bei zu wenig Volumen: Kriterien um Event-/
+   Tourismus-/City-Marketing-Domains erweitern (laut Pilot sehr ergiebig, hohe DR).
+3. **Nachfass-2 Welle 1** fällig ab ~28.07. (für weiterhin nicht antwortende Städte).
+
 ## Versandlimit (WICHTIG)
 
 - **Mailchimp: max. 60 Mails pro Stunde.** An diese Grenze halten.
