@@ -1,0 +1,107 @@
+[
+  {
+    "stadt": "Memmingen",
+    "domain": "memmingen.de",
+    "sponsorenseite": "https://www.memmingen.de/aktuell-presse/nachrichten-und-termine/pressemeldungen/singlenews-presse/news/detail/News/216-sportlerinnen-und-sportler-ausgezeichnet.html",
+    "evidenz": "Offizielle Stadtseite (Rubrik 'Sponsoren der Sportlerehrung') nennt namentlich: Sparkasse Memmingen-Lindau-Mindelheim, Sport Reischmann, Memminger Zeitung, SpectraLight, AOK Memmingen. Per WebFetch bestaetigt.",
+    "einwohner_ca": 45000
+  },
+  {
+    "stadt": "Lörrach",
+    "domain": "loerrach.de",
+    "sponsorenseite": "https://www.loerrach.de/de/Loerrach-Erleben/Sport/Sportveranstaltungen/Sportlerehrung/Sportlerehrung-2026",
+    "evidenz": "Offizielle Stadtseite zur Sportlerehrung nennt namentlich: Sparkasse Lörrach-Rheinfelden (Stifterin Mannschaftspreis), Sporthaus Sportmüller, Decathlon-Store Lörrach; zusätzlich Pfunderstiftung/Gisy-Stiftung. Per WebFetch bestaetigt.",
+    "einwohner_ca": 50000
+  },
+  {
+    "stadt": "Kiel",
+    "domain": "kieler-woche.de",
+    "sponsorenseite": "https://www.kieler-woche.de/de/partner_innen/index.php",
+    "evidenz": "Offizielle Domain des von der Landeshauptstadt Kiel veranstalteten Stadtfests (Kieler Woche). Partner/Sponsoren-Seite listet namentlich u.a. REWE, Deutsche Fernsehlotterie, WELLER, AIDA, FördeSparkasse, Sebamed, Accenture, Heineken, North Sails. Per WebFetch bestaetigt.",
+    "einwohner_ca": 247000
+  },
+  {
+    "stadt": "Überlingen",
+    "domain": "ueberlingen.de",
+    "sponsorenseite": "https://www.ueberlingen.de/sportlerehrung-2025-in-ueberlingen-ein-fest-des-sports-und-der-anerkennung",
+    "evidenz": "Offizielle Stadtseite listet ~19 Sponsoren namentlich (u.a. Bodensee-Therme, Volksbank Überlingen, Sparkasse Bodensee, Sporthaus Schmidt, McDonalds, HUK Coburg). Per WebFetch bestaetigt. HINWEIS: Einwohner ~22.700, knapp unter der 25k-Grenze.",
+    "einwohner_ca": 22700
+  },
+  {
+    "stadt": "Leonberg",
+    "domain": "leonberg.de",
+    "sponsorenseite": "https://www.leonberg.de/Kultur-Sport-Tourismus/Sport-und-Freizeit/Sportangebot/Sportlerehrung/",
+    "evidenz": "Offizielle Stadtseite: 'gemeinsame öffentliche Veranstaltung der Stadt Leonberg und der Kreissparkasse Böblingen als Sponsor'; KSK Böblingen stiftet Sonderpreis. Per WebFetch bestaetigt.",
+    "einwohner_ca": 49000
+  },
+  {
+    "stadt": "Greven",
+    "domain": "greven.net",
+    "sponsorenseite": "https://www.greven.net/erleben_besuchen/sport/artikelseiten/sportlerehrung.php",
+    "evidenz": "Offizielle Stadtdomain (Stadt Greven). Seite: 'Die Sportlerehrung der Stadt Greven wird unterstützt von der Kreissparkasse Steinfurt' (mit Logo). Per WebFetch bestaetigt.",
+    "einwohner_ca": 37000
+  },
+  {
+    "stadt": "Stade",
+    "domain": "stadt-stade.info",
+    "sponsorenseite": "https://www.stadt-stade.info/portal/pressemitteilungen/herausragende-sportlerinnen-und-sportler-wurden-geehrt-900004360-20390.html",
+    "evidenz": "Offizielle Stadtdomain (Hansestadt Stade). Pressemitteilung nennt Sparkasse Stade-Altes Land (Vorstandsvorsitzender überreichte Urkunden/Präsente). Per WebFetch bestaetigt.",
+    "einwohner_ca": 48000
+  },
+  {
+    "stadt": "Recklinghausen",
+    "domain": "recklinghausen.de",
+    "sponsorenseite": "https://recklinghausen.de/Inhalte/Startseite/Rathaus_Politik/Pressestelle/Pressemitteilungen/index.asp?form=detail&db=513&id=31974",
+    "evidenz": "Offizielle Stadt-Pressemitteilung nennt Sparkasse Vest Recklinghausen als Unterstützer (Präsente + je 500 EUR an 13 Vereine). Per WebFetch bestaetigt.",
+    "einwohner_ca": 112000
+  },
+  {
+    "stadt": "St. Ingbert",
+    "domain": "st-ingbert.de",
+    "sponsorenseite": "https://www.st-ingbert.de/info-service/aktuelles/news-nachrichten/kat_sport/sportlerehrung-2025-tombolagewinner/",
+    "evidenz": "Offizielle Stadtseite zur Sportlerehrung/Tombola nennt Kreissparkasse Saarpfalz (KSK Saarpfalz) namentlich (Logo/Sponsor). Per WebFetch bestaetigt.",
+    "einwohner_ca": 36000
+  },
+  {
+    "stadt": "Wiehl",
+    "domain": "wiehl.de",
+    "sponsorenseite": "https://www.wiehl.de/aktuelles/bilderserien/9482-sportlerehrung-vielfalt-des-sports.html",
+    "evidenz": "Offizielle Stadtseite nennt Sparkasse Gummersbach (Scheck 3.500 EUR an den Stadtsportverband); zusätzlich stifteten 'Wiehler Betriebe' Gutscheine. Per WebFetch bestaetigt.",
+    "einwohner_ca": 25000
+  },
+  {
+    "stadt": "Soest",
+    "domain": "soest.de",
+    "sponsorenseite": "https://www.soest.de/familie-soziales/sport/sportlerehrung",
+    "evidenz": "Offizielle Stadtseite nennt Lions Club Soest Hellweg als Stifter des Ehrenpreises der Sportlerehrung. Per WebFetch bestaetigt.",
+    "einwohner_ca": 48000
+  },
+  {
+    "stadt": "Homburg",
+    "domain": "homburg.de",
+    "sponsorenseite": "https://www.homburg.de/rathaus/aktuelle-informationen/pressemitteilungen/mehr-als-330-erfolgreiche-sportlerinnen-und-sportler-geehrt/",
+    "evidenz": "Offizielle Stadt-Pressemitteilung nennt mehrere Sponsoren namentlich: Karlsberg Brauerei, Bank 1 Saar, Stadtwerke Homburg, Naturwaren Dr. Theiss GmbH. Per WebFetch bestaetigt.",
+    "einwohner_ca": 44000
+  },
+  {
+    "stadt": "Viernheim",
+    "domain": "viernheim.de",
+    "sponsorenseite": "https://www.viernheim.de/kultur-freizeit-sport/sport/sportlerehrungen.html",
+    "evidenz": "Offizielle Stadtseite dankt namentlich: Rhein-Neckar-Zentrum (Einkaufsgutscheine), Bäckerei Grimminger (Laugenbrezeln), Kinopolis Viernheim (Räumlichkeiten/Sektempfang). Per WebFetch bestaetigt.",
+    "einwohner_ca": 34000
+  },
+  {
+    "stadt": "Wiesloch",
+    "domain": "wiesloch.de",
+    "sponsorenseite": "https://www.wiesloch.de/sportlerehrung-2025",
+    "evidenz": "Offizielle Stadtseite nennt Sparkasse Heidelberg und Palatin als Sponsoren (Buffet); zusätzlich lokale Tombola-Sponsoren. Per WebFetch bestaetigt.",
+    "einwohner_ca": 26000
+  },
+  {
+    "stadt": "Heidelberg",
+    "domain": "heidelberg.de",
+    "sponsorenseite": "https://www.heidelberg.de/Stadtblatt/start/stadtblatt-artikel+in+der+uebersicht/13_05_2026+sportlerehrung+2025_+top-sport+made+in+heidelberg.html",
+    "evidenz": "Offizielles Stadtblatt (heidelberg.de): Sportlerehrung von Stadt, Sportkreis Heidelberg und Stadtwerke Heidelberg (Ehrung im Atrium der Stadtwerke); Stadtwerke Heidelberg als Partner/Sponsor namentlich. Per WebFetch bestaetigt.",
+    "einwohner_ca": 160000
+  }
+]
