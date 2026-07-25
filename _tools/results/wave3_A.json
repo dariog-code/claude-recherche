@@ -1,0 +1,72 @@
+[
+  {
+    "stadt": "Ulm",
+    "domain": "ulm.de",
+    "sponsorenseite": "https://www.ulm.de/leben-in-ulm/verkehr-und-mobilitaet/radverkehr/aktuelles-zum-radverkehr/stadtradeln-2026",
+    "evidenz": "Offizielle Stadtseite nennt als STADTRADELN-Sponsoren namentlich die Sparkasse Ulm und die AOK (WebFetch bestaetigt).",
+    "einwohner_ca": 128000
+  },
+  {
+    "stadt": "Freiburg",
+    "domain": "freiburg.de",
+    "sponsorenseite": "https://www.freiburg.de/pb/1701676.html",
+    "evidenz": "Offizielle STADTRADELN-Seite listet Sponsoren/Partner namentlich: Lucky Bike, Hot.Bike, Bikesportworld, Freiburger Verkehrs AG (VAG), Schauinslandbahn (WebFetch bestaetigt).",
+    "einwohner_ca": 236000
+  },
+  {
+    "stadt": "Lippstadt",
+    "domain": "lippstadt.de",
+    "sponsorenseite": "https://www.lippstadt.de/stadtraum/aktuelles/stadtradeln",
+    "evidenz": "Offizielle Stadtseite dankt namentlich den Sponsoren Sparkasse Hellweg-Lippe, Volksbank Beckum-Lippstadt und Loeckenhoff & Schulte GmbH (WebFetch bestaetigt).",
+    "einwohner_ca": 68000
+  },
+  {
+    "stadt": "Recklinghausen",
+    "domain": "recklinghausen.de",
+    "sponsorenseite": "https://recklinghausen.de/Inhalte/Startseite/Leben_Wohnen/_details.asp?form=detail&db=513&id=20820",
+    "evidenz": "Offizielle Stadtseite: 'Das Stadtradeln sponsern: Sparkasse Vest Recklinghausen, Volksbank Marl-Recklinghausen, AOK, IKK classic, Edelhelfer, Zweirad Kellerhoff und Meier, Zweirad Koeppl, Zweiraeder Kampmann' (WebFetch bestaetigt).",
+    "einwohner_ca": 110000
+  },
+  {
+    "stadt": "Krefeld",
+    "domain": "krefeld.de",
+    "sponsorenseite": "https://www.krefeld.de/node/3343",
+    "evidenz": "Offizielle Stadtseite dankt namentlich Sponsoren Zoo Krefeld, Beachclub Uerdingen, Fahrradhaendler e-Motion und ADFC (per Google-Snippet der krefeld.de-Seite; WebFetch durch Serverblock 403 verhindert).",
+    "einwohner_ca": 227000
+  },
+  {
+    "stadt": "Wolfsburg",
+    "domain": "wolfsburg.de",
+    "sponsorenseite": "https://www.wolfsburg.de/newsroom/2025/12/stadtradeln",
+    "evidenz": "Offizielle Newsroom-Seite nennt als Preis-Sponsoren namentlich Audi BKK und eBike Wolfsburg - Hotz und Heitmann GmbH (per Google-Snippet der wolfsburg.de-Seite; WebFetch durch Serverblock verhindert).",
+    "einwohner_ca": 125000
+  },
+  {
+    "stadt": "Iserlohn",
+    "domain": "iserlohn.de",
+    "sponsorenseite": "https://www.iserlohn.de/aktuelles/pressemitteilungen-der-stadt/einzelansicht/38905-stadt-iserlohn-zieht-erfolgreiche-bilanz-zum-stadtradeln-preisverleihung-findet-am-26-juni-auf-dem-marktplatz-statt",
+    "evidenz": "Offizielle Stadtseite dankt namentlich Sparkasse Iserlohn, MEGABIKE, SKS Germany und busch+mueller fuer Gewinnerpreise (per Google-Snippet der iserlohn.de-Seite; WebFetch durch Serverblock verhindert).",
+    "einwohner_ca": 92000
+  },
+  {
+    "stadt": "Norderstedt",
+    "domain": "norderstedt.de",
+    "sponsorenseite": "https://www.norderstedt.de/Aktuelles-und-Service/Aktuelles/Pressestelle-/Norderstedt-macht-wieder-mit-beim-Stadtradeln-Teams-sind-ab-sofort-aufgerufen-sich-anzumelden.php",
+    "evidenz": "Offizielle Stadtseite listet Partner/Sponsoren namentlich (Ortlieb, ABUS, TERN, WERTGARANTIE, Busch + Mueller, Schwalbe, WSM, Paul Lange & Co.) (WebFetch bestaetigt).",
+    "einwohner_ca": 81000
+  },
+  {
+    "stadt": "Kaltenkirchen",
+    "domain": "kaltenkirchen.de",
+    "sponsorenseite": "https://www.kaltenkirchen.de/de/aktuelles/meldungen/stadtradeln2024-preisverleihung.php",
+    "evidenz": "Offizielle Stadtseite: Sachpreise gesponsert von Mega Bike, PMS Bikes und HolstenTherme, Praesentkoerbe vom Bioladen Erdkorn (WebFetch bestaetigt). Hinweis: ca. 23.000 Einwohner, knapp unter Zielschwelle.",
+    "einwohner_ca": 23000
+  },
+  {
+    "stadt": "Dillenburg",
+    "domain": "dillenburg.de",
+    "sponsorenseite": "https://www.dillenburg.de/blog/tag/siegerehrung/",
+    "evidenz": "Offizielle Stadtseite (Oranienstadt Dillenburg): 'Gesponsert wurde die Aktion wieder von der Sparkasse Dillenburg' (WebFetch bestaetigt). Hinweis: ca. 24.000 Einwohner, knapp unter Zielschwelle.",
+    "einwohner_ca": 24000
+  }
+]
