@@ -1,83 +1,131 @@
 Aalen
 Ahaus
+Ahlen
 Altenburg
 Apolda
 Arnstadt
+Aschaffenburg
 Backnang
 Bad Dürkheim
 Bad Kissingen
+Bad Kreuznach
 Bad Oldesloe
+Bad Salzuflen
 Bad Segeberg
+Bamberg
+Bayreuth
 Beckum
 Bensheim
 Bergkamen
 Bingen am Rhein
 Bitterfeld-Wolfen
+Bocholt
+Bonn
 Braunschweig
 Bremerhaven
+Castrop-Rauxel
 Cham
 Cloppenburg
 Coesfeld
+Cottbus
 Crimmitschau
 Datteln
 Deggendorf
 Delbrück
+Dinslaken
 Dortmund
+Dreieich
+Dresden
 Döbeln
 Düren
 Elmshorn
 Emden
 Emsdetten
 Erfurt
+Erkelenz
+Essen
+Ettlingen
+Frankenthal
+Frankfurt am Main
 Freital
+Fürth
 Georgsmarienhütte
+Gera
+Germersheim
 Gevelsberg
 Gifhorn
 Glauchau
+Goslar
+Gotha
+Greifswald
 Groß-Gerau
 Göttingen
 Güstrow
 Gütersloh
 Hagen
+Hamburg
 Hamm
+Hanau
+Hattingen
 Heide
 Hemer
 Herdecke
 Herten
 Herzogenaurach
 Hildesheim
+Hof
 Hofheim am Taunus
 Holzminden
 Husum
+Hürth
 Ingolstadt
 Itzehoe
 Jena
+Kaiserslautern
 Kamen
 Kamp-Lintfort
 Kitzingen
+Koblenz
+Landau in der Pfalz
 Langenfeld
 Leer (Ostfriesland)
 Limburg an der Lahn
 Lingen
 Ludwigsburg
+Lutherstadt Eisleben
 Lübeck
 Magdeburg
 Mainz
+Mannheim
 Meerbusch
 Menden
 Merseburg
 Meschede
+Minden
+Moenchengladbach
 Mühlhausen
+Mülheim an der Ruhr
 Neu-Isenburg
+Neumuenster
+Neustadt an der Weinstraße
+Neustrelitz
 Neuwied
 Nienburg/Weser
 Nordhausen
 Nordhorn
+Nürnberg
+Oberhausen
 Offenbach am Main
+Oldenburg
 Osterode am Harz
 Paderborn
+Pforzheim
+Pirna
+Plauen
 Radebeul
+Rathenow
 Ravensburg
+Regensburg
 Reichenbach
 Rheda-Wiedenbrück
 Rhede
@@ -88,22 +136,34 @@ Rudolstadt
 Saalfeld
 Saarbrücken
 Saarlouis
+Salzgitter
 Schkeuditz
+Schwandorf
 Schwerin
+Schwerte
+Schwäbisch Gmünd
 Schwäbisch Hall
 Schönebeck
 Seevetal
 Selm
 Siegen
 Sondershausen
+Speyer
+Steinfurt
 Stendal
+Stralsund
 Sömmerda
 Troisdorf
+Tuttlingen
 Varel
 Vechta
+Viersen
+Voelklingen
 Warendorf
+Weimar
 Weißenfels
 Wernigerode
+Wesel
 Wesseling
 Wetzlar
 Wolfenbüttel
