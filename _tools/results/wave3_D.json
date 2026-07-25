@@ -1,0 +1,90 @@
+[
+  {
+    "status": "LINK VERIFIZIERT",
+    "stadt": "Achern",
+    "domain": "achern.de",
+    "sponsorenseite": "https://www.achern.de/de/Freizeit-Tourismus/Kultur-Veranstaltungen/Staedtische-Kulturveranstaltungen/Kultursponsoring",
+    "evidenz": "WebFetch 2026-07-25: Seite 'Kultursponsoring' innerhalb der Staedtischen Kulturveranstaltungen auf der offiziellen Stadt-Domain. Sponsoren namentlich: Hauptsponsor Elektrizitaetswerk Mittelbaden AG & Co. KG; weiter Sparkasse Offenburg/Ortenau, Volksbank eG - Die Gestalterbank, Fischer group, Familienbrauerei Bauhoefer, Das Hoerlaedle Sasbach/Oberkirch, HoerStudio Schrader GmbH, Buchhandlung Buechermehr, OSIANDER Achern. Offizieller Briefkopf 'Stadt Achern, Illenauer Allee 73'.",
+    "einwohner_ca": 26000
+  },
+  {
+    "status": "LINK VERIFIZIERT",
+    "stadt": "Weiden in der Oberpfalz",
+    "domain": "weiden.de",
+    "sponsorenseite": "https://www.weiden.de/kultur/freizeit/sommerserenaden",
+    "evidenz": "WebFetch 2026-07-25: Sommerserenaden der Stadt im Max-Reger-Park; je Konzert wird ein 'Pate'/Sponsor namentlich genannt. U.a. Volksbank Raiffeisenbank Nordoberpfalz eG, Kommunalunternehmen Stadtwerke Weiden, Gewinnsparverein der Sparda-Bank Ostbayern eG, Oberbank AG Filiale Weiden, HORN Glass Industries AG, BKK Faber-Castell & Partner, Sparkasse Noerdliche Oberpfalz, Apotheke im Vesten Haus, Gaertnerei Glossner, Restaurant Pallas Gyros. Offizielle Stadt-Domain.",
+    "einwohner_ca": 42000
+  },
+  {
+    "status": "LINK VERIFIZIERT",
+    "stadt": "Viernheim",
+    "domain": "viernheim.de",
+    "sponsorenseite": "https://www.viernheim.de/kultur-freizeit-sport/veranstaltungen/sommerbuehne-2026.html",
+    "evidenz": "WebFetch/Programm-Booklet-PDF 2026-07-25: Sommerbuehne der Stadt Viernheim, Abschnitt 'Mit freundlicher Unterstuetzung von' mit ~18 Firmen namentlich: Sparkasse Starkenburg, GO7 AG, Buergerstiftung Viernheim, Baugenossenschaft Viernheim eG, Erler & Woeppel Abwassertechnik, Edeka Zimmermann, Firma Suffel, Stadtwerke Viernheim GmbH, Rhein-Neckar-Zentrum, Firma Lieblang, Druckerei Brueckmann, Herrmann Gastro Gruppe u.a. Offizielle Stadt-Domain (viernheim.de), auch Booklet unter viernheim.de/fileadmin.",
+    "einwohner_ca": 34000
+  },
+  {
+    "status": "LINK VERIFIZIERT",
+    "stadt": "Straubing",
+    "domain": "straubing.de",
+    "sponsorenseite": "https://www.straubing.de/entdecken-erleben/veranstaltungen/festplatz-open-air/index.html",
+    "evidenz": "WebFetch 2026-07-25: Staedtische Veranstaltungen (Stadtplatz Open-Air, 'Schlaflos') mit Abschnitt 'Wir danken unseren Sponsoren:' inkl. Logos+Links: Stadtwerke Straubing, Modehaus Hafner, Bestattungen/TrauerHilfe DENK, Auto Bierschneider, Hotel Theresientor, Staedtische Wohnungsbau GmbH, Werbegemeinschaft Straubing, Hochschule Landshut. Weitere Events (Herzogstadtlauf, Buergerfest) analog. Offizielle Stadt-Domain.",
+    "einwohner_ca": 48000
+  },
+  {
+    "status": "LINK VERIFIZIERT",
+    "stadt": "Bergisch Gladbach",
+    "domain": "bergischgladbach.de",
+    "sponsorenseite": "https://www.bergischgladbach.de/stadt-und-kulturfest-2025.aspx",
+    "evidenz": "WebFetch 2026-07-25: Seite zum Stadt- und Kulturfest / Bergisch Gladbacher StadtLauf auf offizieller Stadt-Domain. Sponsoren namentlich: BELKAW (auch Sozialsponsoring), Kreissparkasse Koeln, VR Bank Bergisch Gladbach-Leverkusen, KRUEGER GROUP; weitere Unterstuetzer (Buergerhaus Bergischer Loewe GmbH, DRK).",
+    "einwohner_ca": 112000
+  },
+  {
+    "status": "LINK VERIFIZIERT",
+    "stadt": "Dachau",
+    "domain": "dachau.de",
+    "sponsorenseite": "https://www.dachau.de/dachauer-musiksommer/",
+    "evidenz": "WebFetch 2026-07-25: Dachauer Musiksommer (staedtische Konzertreihe) auf offizieller Stadt-Domain; Partner/Foerderer namentlich mit Logos: Sparkasse Dachau, Stadtwerke Dachau sowie Bezirk Oberbayern, Bayerischer Rundfunk, Landkreis Dachau. (Kommerzielle Sponsoren v.a. Sparkasse + Stadtwerke.)",
+    "einwohner_ca": 48000
+  },
+  {
+    "status": "LINK VERIFIZIERT",
+    "stadt": "Schwabach",
+    "domain": "schwabach.de",
+    "sponsorenseite": "https://www.schwabach.de/de/kulturportal-musikschule/ueber-uns-musikschule/sponsoren.html",
+    "evidenz": "WebFetch 2026-07-25: Seite 'Unsere Sponsoren' der staedtischen Adolph-von-Henselt-Musikschule (Konzerte) auf offizieller Stadt-Domain, Logos namentlich: Stadtwerke Schwabach, Gewobau Schwabach, Kommunalbit, Stadtverkehr Schwabach, Foerderverein der Musikschule, Gewerbeverein gvsc, Metropolregion Nuernberg. Hinweis: ueberwiegend kommunale Gesellschaften/Vereine statt klassischer Firmensponsoren.",
+    "einwohner_ca": 41000
+  },
+  {
+    "status": "PRUEFEN (Namen nur als Bild/Logoleiste)",
+    "stadt": "Amberg",
+    "domain": "amberg.de",
+    "sponsorenseite": "https://amberg.de/sommerfestival",
+    "evidenz": "WebFetch 2026-07-25: Amberger Sommerfestival auf offizieller Stadt-Domain mit Sponsoren-Grafik ('Sommerfestival_Sponsoren'); Sponsoren als Logoleiste (im Fliesstext nicht extrahierbar). Fuer das staedtische Open-Air 'Sommer in der Stadt' via Social Media bestaetigte Sponsoren u.a. Volvo Amberg, VR Bank Amberg-Sulzbach, Godelmann, Luedecke GmbH. Namen auf der Stadt-Seite noch zu verifizieren.",
+    "einwohner_ca": 42000
+  },
+  {
+    "status": "PRUEFEN (Namen nur als Bild/Logoleiste)",
+    "stadt": "Buxtehude",
+    "domain": "buxtehude.de",
+    "sponsorenseite": "https://www.buxtehude.de/portal/seiten/hanse-ahoi-2025-900001033-20351.html",
+    "evidenz": "WebFetch 2026-07-25: Staedtische Veranstaltung HANSE AHOI auf offizieller Stadt-Domain; Text 'Wir danken unseren Sponsoren fuer die Unterstuetzung' + 'Sponsorenleiste Hanse Ahoi' (Logos). Firmennamen nur als Bild, nicht im Text extrahierbar. Stadt betreibt zudem Sponsoring-Seite (/portal/seiten/sponsoring-...).",
+    "einwohner_ca": 40000
+  },
+  {
+    "status": "PRUEFEN (Namen nur im Programm-PDF)",
+    "stadt": "Bad Homburg vor der Hoehe",
+    "domain": "bad-homburg.de",
+    "sponsorenseite": "https://www.bad-homburg.de/events/Bad_Homburger_Sommer/",
+    "evidenz": "WebFetch 2026-07-25: 'Bad Homburger Sommer' (staedtische Kulturreihe), Programm-PDF auf offizieller Stadt-Domain mit Partner-/Sponsorenteil. PDF nur binaer/kein Textlayer -> Firmennamen nicht extrahierbar; Sponsorenauflistung auf offizieller Domain vorhanden, Namen noch zu bestaetigen.",
+    "einwohner_ca": 55000
+  },
+  {
+    "status": "PRUEFEN (Namen nur im Programm-PDF)",
+    "stadt": "Schorndorf",
+    "domain": "schorndorf.de",
+    "sponsorenseite": "https://www.schorndorf.de/de/stadt-buerger/aktuelles/veranstaltungen",
+    "evidenz": "WebFetch 2026-07-25: Staedtische 'Sommermeile'; Programm/Flyer-PDF auf offizieller Stadt-Domain (ceasy/resource) mit Formulierung 'Wir bedanken uns herzlichst bei unseren Sponsoren'. PDF ohne Textlayer -> Firmennamen nicht extrahierbar; Sponsorenauflistung auf offizieller Domain belegt, Namen noch zu bestaetigen.",
+    "einwohner_ca": 40000
+  }
+]
