@@ -27,6 +27,12 @@ Städte) und dient als **dauerhafte Master-Dokumentation**. Wir arbeiten in
 4. **Nächste Welle:** neue Städte recherchieren und als **Welle 2, 3, …**
    ergänzen — gleiches Schema.
 
+## Versandlimit (WICHTIG)
+
+- **Mailchimp: max. 60 Mails pro Stunde.** An diese Grenze halten.
+- Listen > 60 in **60er-Blöcke pro Stunde** aufteilen; Restlisten entsprechend chunken.
+- Bei Thunderbird-Direktversand ~30 Sek. Pause; das Mailchimp-Limit hat Vorrang.
+
 ## Status-Werte (Konvention)
 
 - `Erstkontakt_Status` / `Nachfass*_Status`: `versendet`, `vorbereitet (nicht versendet)`, `bounce`, `—`

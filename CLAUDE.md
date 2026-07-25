@@ -24,6 +24,10 @@ Recherche + Outreach an Städte/Kommunen für Sponsoring-Kooperationen
   `{{Email_CC}}`, `{{Stadt}}`, `{{Anrede}}`, `{{Sponsorenseite}}` …).
   Anleitung: `ANLEITUNG_Thunderbird_Mailmerge.md`. Versand erfolgt manuell durch
   den Nutzer (kein Mailversand aus dieser Umgebung).
+- **Versandlimit (WICHTIG): Bei Versand über Mailchimp max. 60 Mails/Stunde.**
+  Größere Listen in Blöcke à ≤ 60 pro Stunde aufteilen; bei Datei-/Batch-Erstellung
+  entsprechend chunken (z. B. 60er-Pakete). Bei Thunderbird-Direktversand gilt die
+  ~30-Sek.-Pause; das Mailchimp-Limit ist die härtere Grenze und hat Vorrang.
 
 ## Kontakt-Recherche
 - E-Mail-Verifikation via Hunter.io (Cache: `_tools/hunter_cache.json`, ohne Key).
