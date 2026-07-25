@@ -1,0 +1,30 @@
+[
+  {
+    "stadt": "Straubing",
+    "domain": "straubing.de",
+    "sponsorenseite": "https://www.straubing.de/entdecken-erleben/veranstaltungen/buergerfest/index.html",
+    "evidenz": "(WebFetch 2026-07-25) Offizielle Stadt-Domain. Auf der Buergerfest-Seite Abschnitt 'Herzlichen Dank an unsere Unterstuetzer' mit 16 namentlich genannten Sponsoren/Partnern inkl. Logos: Sparkasse Niederbayern-Mitte, Stadtwerke Straubing GmbH, Autohaus Griesbeck, Ludwig Hafner GmbH (Modehaus Hafner), friendWorks GmbH, Moll Automatisierung GmbH, Antolin Straubing GmbH, TUM Campus Straubing, VR-Bank Ostbayern Mitte eG, Zech GmbH, Hotel Theresientor, SER Straubinger Stadtentwaesserung, NIEDERBAYERN TV, Werbegemeinschaft Straubing e.V., Parken & Management GmbH, Staedtische Wohnungsbau GmbH. Staerkster Treffer.",
+    "einwohner_ca": 49000
+  },
+  {
+    "stadt": "Marburg",
+    "domain": "marburg.de",
+    "sponsorenseite": "https://www.marburg.de/weihnachten",
+    "evidenz": "(WebFetch 2026-07-25) Offizielle Stadt-Domain (Universitaetsstadt Marburg). Seite 'Weihnachtsstadt Marburg' nennt die Partner*innen des Stadtmarketing namentlich: Stadtwerke Marburg, Sparkasse Marburg-Biedenkopf, Flashlight (Technikpartner) (neben der Universitaetsstadt Marburg selbst). Rein textliche Auflistung.",
+    "einwohner_ca": 77000
+  },
+  {
+    "stadt": "Freiberg",
+    "domain": "freiberg.de",
+    "sponsorenseite": "https://www.freiberg.de/kultur-und-tourismus/veranstaltungen/bergstadtfest-freiberg",
+    "evidenz": "(WebFetch 2026-07-25) Offizielle Stadt-Domain (Silberstadt Freiberg). Bergstadtfest-Seite zeigt Sponsoren- und Medienpartner-Logowand als Bilder (Dateien bsf_Sponsoren_2026.jpg, bfs_Medienpartner_2026.jpg). Firmennamen als Logos auf offizieller Domain; Klartextnamen nur in den Grafiken (nicht im Fliesstext).",
+    "einwohner_ca": 40000
+  },
+  {
+    "stadt": "Landshut",
+    "domain": "landshut.de",
+    "sponsorenseite": "https://landshut.de/news/kultur/die-altstadt-wird-wieder-zur-spektakel-buehne",
+    "evidenz": "(WebFetch 2026-07-25) Offizielle Stadt-Domain. Zur Veranstaltung 'Spektakel Landshut' namentlich genannt: BMW (Titelsponsor 'BMW Spektakel Gala'), Messe Landshut (Veranstalterin/Unterstuetzerin), Stadtwerke Landshut ('Stadtwerke-Buehne am Laendtor'). Nur wenige namentliche Sponsoren (schwaecherer Treffer).",
+    "einwohner_ca": 73000
+  }
+]
