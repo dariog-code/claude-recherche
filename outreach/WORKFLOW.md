@@ -62,6 +62,7 @@ Städte) und dient als **dauerhafte Master-Dokumentation**. Wir arbeiten in
 |-------|-------------------|--------|--------|--------|
 | **1** | 2026-06-17 | **108** | Städte DR ≥ 50 mit Sponsoren-/Partnerseite; je 1–2 Ansprechpartner (To+CC) | Erstkontakt versendet |
 | **2** | (geplant) | **66** | Neue Städte DR ≥ 40 mit Sponsoren-/Partnerseite (inkl. Sportamt/Sportgala-Typ); je 1–2 Ansprechpartner (To+CC). Datei: `../mailmerge_wave2.csv` | vorbereitet, noch nicht versendet |
+| **3** | (geplant) | **37** | Weitere Städte DR ≥ 42 (Freiburg, Kiel, Krefeld, Heidelberg, Ulm, Wolfsburg …). Datei: `../mailmerge_wave3.csv` | vorbereitet, noch nicht versendet |
 
 ### Notizen Welle 2
 - 66 neue Städte (dedupliziert gegen Welle 1), Quelle: 5 Recherche-Agenten (StadtRadeln, Stadtfeste, Stadtmarketing-Partner, Sport-/Kultur-Events, **Sportamt/Sportdialoge** — Vorbild nuernberg.de) + 6 aus DR-Cache.
