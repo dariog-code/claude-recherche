@@ -69,4 +69,4 @@ Städte) und dient als **dauerhafte Master-Dokumentation**. Wir arbeiten in
 - 7 Adressen „Status unklar" (offiziell veröffentlicht, technisch nicht hart
   verifizierbar): Göttingen, Langenfeld, Radebeul, Husum, Saalfeld, Cham, Sömmerda
   → auf Bounces achten.
-- **Nachfass-1 versendet: 2026-07-14** an 98 offene Städte (Reagierende ausgeschlossen). Nachfass-2 ggf. ab ~28.07.
+- **Nachfass-1 KOMPLETT versendet: 2026-07-14** an alle 98 offenen Städte (Teilversand 61 + 37; Reagierende ausgeschlossen). Nachfass-2 ggf. ab ~28.07.
