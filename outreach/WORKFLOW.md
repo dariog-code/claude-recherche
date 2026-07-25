@@ -45,6 +45,11 @@ Städte) und dient als **dauerhafte Master-Dokumentation**. Wir arbeiten in
    Tourismus-/City-Marketing-Domains erweitern (laut Pilot sehr ergiebig, hohe DR).
 3. **Nachfass-2 Welle 1** fällig ab ~28.07. (für weiterhin nicht antwortende Städte).
 
+
+## QA-Regel (IMMER prüfen)
+
+- **Jede Stadt MUSS eine echte offizielle Sponsoren-/Kooperationsseite haben** (Spalte `Sponsorenseite` nie leer). Vor jedem Versand kontrollieren; Städte ohne echte Seite auf offizieller Domain aus dem Versand nehmen (nicht mit leerer `()`-Klammer senden). Ziel: 100 % Abdeckung.
+
 ## Versandlimit (WICHTIG)
 
 - **Mailchimp: max. 60 Mails pro Stunde.** An diese Grenze halten.
