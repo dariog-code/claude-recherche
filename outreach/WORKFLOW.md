@@ -46,6 +46,16 @@ Städte) und dient als **dauerhafte Master-Dokumentation**. Wir arbeiten in
 3. **Nachfass-2 Welle 1** fällig ab ~28.07. (für weiterhin nicht antwortende Städte).
 
 
+## Leitstand-Artifact (IMMER aktuell halten)
+
+- Rechte-Panel-Übersicht (Status + Mail-Merge-Ablauf): **https://claude.ai/code/artifact/b020bfad-75b7-4e0c-ad2c-6e68a8d26fdb**
+- Quelle: `scratchpad/uebersicht.html`. **Bei jeder Aktion** (Versand markiert, neue Rückmeldung, neue Welle, Nachfass) aktualisieren und unter **derselben URL** neu publizieren (`url`-Param, damit der Link stabil bleibt).
+- Inhalt: „Heute"-Versandplan (Blöcke), KPIs, Wellen-Status, Rückmeldungen, Mail-Merge-Ablauf.
+
+## Regel: Dateien immer ausspielen
+
+- Jede gelieferte Liste/Vorlage **immer als Datei** an den Nutzer senden (nicht nur beschreiben).
+
 ## QA-Regel (IMMER prüfen)
 
 - **Jede Stadt MUSS eine echte offizielle Sponsoren-/Kooperationsseite haben** (Spalte `Sponsorenseite` nie leer). Vor jedem Versand kontrollieren; Städte ohne echte Seite auf offizieller Domain aus dem Versand nehmen (nicht mit leerer `()`-Klammer senden). Ziel: 100 % Abdeckung.
