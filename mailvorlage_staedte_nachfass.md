@@ -32,7 +32,7 @@ Wir würden {{Stadt}} gern als Sponsor unterstützen und im Gegenzug – wie Ihr
 
 Können Sie mir kurz sagen, welche Möglichkeiten es bei Ihnen gibt und wer der richtige Ansprechpartner ist? Diese Anfrage ist ernst gemeint! Es geht um 1.000,00 Euro pro Kunde für Events oder Anschaffungen eurer Wahl. Für Ideen von eurer Seite bin ich sehr offen.
 
-Die Stadt Freital hat unter „Kooperationspartner" jetzt zwei unserer Kunden aufgelistet. Wir würden uns freuen, wenn das auch bei euch möglich ist.
+Die Stadt Freital hat unter „Kooperationspartner" jetzt zwei unserer Kunden aufgelistet (https://www.freital.de/Kultur-Tourismus/Feste-Veranstaltungen/Freital-sucht-den-Schlagerstar-2025/Die-Sponsoren/). Wir würden uns freuen, wenn das auch bei euch möglich ist.
 
 Prüfen Sie die Echtheit gern über mein LinkedIn-Profil: linkedin.com/in/mario-strack-head-of-content-outreach
 
