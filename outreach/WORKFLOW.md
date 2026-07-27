@@ -56,6 +56,13 @@ Städte) und dient als **dauerhafte Master-Dokumentation**. Wir arbeiten in
 
 - Jede gelieferte Liste/Vorlage **immer als Datei** an den Nutzer senden (nicht nur beschreiben).
 
+
+## Aktive Mailvorlage
+
+- **Immer diese aktuelle Version nehmen:** `../mailvorlage_staedte_nachfass.md`
+  (enthält 1.000-€-Angebot, Freital-Referenz **mit freital.de-Link** zur Kooperationspartner-Seite, LinkedIn-Profil).
+- Absätze als durchgehende Zeilen (kein Hard-Wrap); im HTML-Modus verfassen.
+
 ## QA-Regel (IMMER prüfen)
 
 - **Jede Stadt MUSS eine echte offizielle Sponsoren-/Kooperationsseite haben** (Spalte `Sponsorenseite` nie leer). Vor jedem Versand kontrollieren; Städte ohne echte Seite auf offizieller Domain aus dem Versand nehmen (nicht mit leerer `()`-Klammer senden). Ziel: 100 % Abdeckung.
