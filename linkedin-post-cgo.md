@@ -1,11 +1,15 @@
-Es gibt Neuigkeiten in der Geschäftsführung bei #eology
+Neuigkeiten aus der Geschäftsführung bei #eology 🚀
 
-Ich freue mich sehr, ab sofort als CGO – Chief Growth Officer – Verantwortung für unser Wachstum zu übernehmen: von der Weiterentwicklung unserer Kundenbeziehungen über Marketing bis hin zu Sales.
+Ab sofort bin ich CGO – Chief Growth Officer.
 
-Nach über 12 Jahren als Head of Content Outreach kenne ich eology, unsere Kunden und den Markt aus dem Effeff. Genau diese Erfahrung möchte ich jetzt gezielt einsetzen, um bestehende Partnerschaften weiter auszubauen, neue Kunden für uns zu gewinnen und die Themen Marketing und Sales enger miteinander zu verzahnen.
+Klingt nach Buzzword, ist aber ziemlich einfach erklärt: Marketing und Sales arbeiten in vielen Firmen aneinander vorbei. Genau da setze ich an – und ziehe Kundenkontakt, Marketing und Sales auf ein gemeinsames Ziel: Wachstum.
 
-In meiner neuen Rolle arbeite ich eng mit meinen langjährigen Kollegen Christian Stephan (CEO) und Fabian Drescher (CFO) zusammen – ein Team, das sich über viele Jahre gemeinsam entwickelt hat und das ich für unseren nächsten Wachstumsschritt sehr schätze.
+Nach über 12 Jahren als Head of Content Outreach kenne ich eology, unsere Kunden und den Markt in- und auswendig. Diese Erfahrung fließt jetzt in eine Rolle, die genau das zusammenbringt, was zusammengehört: bestehende Kundenbeziehungen ausbauen, neue Partner gewinnen und Marketing & Sales endlich als ein Team denken.
 
-Ein großes Dankeschön an Daniel und Axel für die langjährige, vertrauensvolle Zusammenarbeit und für das Übergeben der Verantwortung an ein neues Team aus drei langjährigen Führungskräften.
+Ich freue mich riesig, das gemeinsam mit meinen langjährigen Kollegen Christian Stephan (CEO) und Fabian Drescher (CFO) anzugehen – drei Führungskräfte, die eology seit vielen Jahren mitprägen und jetzt gemeinsam den nächsten Schritt gehen.
 
-Ich freue mich auf die Aufgabe, auf viele Gespräche mit Kundinnen und Kunden – und darauf, gemeinsam mit dem gesamten eology-Team den nächsten Wachstumskurs zu gestalten.
+Ein großes Danke an Daniel und Axel für das Vertrauen und die vielen gemeinsamen Jahre – und dafür, den Staffelstab an ein Team weiterzugeben, das brennt.
+
+Jetzt heißt es: Ärmel hoch, viele Gespräche führen und Wachstum bauen. Ich freue mich drauf – gerne auch mit dir. 💬
+
+#Growth #Marketing #Sales #eology
