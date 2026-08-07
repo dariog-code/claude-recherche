@@ -1,15 +1,9 @@
-Neuigkeiten aus der Geschäftsführung bei #eology 🚀
+Es gibt Neuigkeiten in der Geschäftsführung bei #eology.
 
-Ab sofort bin ich CGO – Chief Growth Officer.
+Ich übernehme ab sofort die Rolle als CGO – Chief Growth Officer. Verantwortlich bin ich für die Themen Kundenkontakt, Marketing und Sales – also für alles, was das Wachstum der Agentur vorantreibt. Ziel ist, diese Bereiche noch enger zu verzahnen und Marketing und Sales konsequent auf gemeinsame Ziele auszurichten.
 
-Klingt nach Buzzword, ist aber ziemlich einfach erklärt: Marketing und Sales arbeiten in vielen Firmen aneinander vorbei. Genau da setze ich an – und ziehe Kundenkontakt, Marketing und Sales auf ein gemeinsames Ziel: Wachstum.
+Nach über 12 Jahren als Head of Content Outreach bringe ich viel Erfahrung aus der täglichen Arbeit mit unseren Kunden und dem Markt mit. Genau diese Nähe möchte ich in der neuen Rolle nutzen, um bestehende Partnerschaften weiter auszubauen und neue Kunden für eology zu gewinnen.
 
-Nach über 12 Jahren als Head of Content Outreach kenne ich eology, unsere Kunden und den Markt in- und auswendig. Diese Erfahrung fließt jetzt in eine Rolle, die genau das zusammenbringt, was zusammengehört: bestehende Kundenbeziehungen ausbauen, neue Partner gewinnen und Marketing & Sales endlich als ein Team denken.
+In der Geschäftsführung arbeite ich künftig eng mit meinen langjährigen Kollegen Christian Stephan (CEO) und Fabian Drescher (CFO) zusammen. Gleichzeitig freue ich mich sehr, dass Daniel und Axel eology weiterhin erhalten bleiben und uns mit ihrer Erfahrung zur Seite stehen. Damit sind wir künftig ein Team aus fünf Personen, das die Agentur gemeinsam weiterentwickelt und ausbaut.
 
-Ich freue mich riesig, das gemeinsam mit meinen langjährigen Kollegen Christian Stephan (CEO) und Fabian Drescher (CFO) anzugehen – drei Führungskräfte, die eology seit vielen Jahren mitprägen und jetzt gemeinsam den nächsten Schritt gehen.
-
-Ein großes Danke an Daniel und Axel für das Vertrauen und die vielen gemeinsamen Jahre – und dafür, den Staffelstab an ein Team weiterzugeben, das brennt.
-
-Jetzt heißt es: Ärmel hoch, viele Gespräche führen und Wachstum bauen. Ich freue mich drauf – gerne auch mit dir. 💬
-
-#Growth #Marketing #Sales #eology
+Ich freue mich auf die neue Aufgabe, auf den intensiven Austausch mit unseren Kundinnen und Kunden und darauf, die nächsten Wachstumsschritte gemeinsam mit dem gesamten eology-Team zu gestalten.
