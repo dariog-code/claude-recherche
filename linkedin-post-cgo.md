@@ -1,6 +1,6 @@
 Es gibt Neuigkeiten in der Geschäftsführung bei #eology.
 
-Ich freue mich auf eine neue Rolle und neue Aufgaben als CGO – Chief Growth Officer. In dieser Funktion verantworte ich künftig die Themen Kundenbeziehungen, Marketing und Sales – also alle Bereiche, die auf das Wachstum der Agentur einzahlen. Ziel ist, diese Bereiche noch stärker miteinander zu verzahnen und Marketing und Sales endlich als ein Team zu denken.
+Ich freue mich auf eine neue Rolle und neue Aufgaben als CGO – Chief Growth Officer. In dieser Funktion verantworte ich künftig die Themen Customer Relationship, Marketing und Sales – also alle Bereiche, die auf das Wachstum der Agentur einzahlen. Ziel ist, diese Bereiche noch stärker miteinander zu verzahnen und Marketing und Sales endlich als ein Team zu denken.
 
 Nach über 12 Jahren als Head of Content Outreach bringe ich viel Erfahrung aus der täglichen Arbeit mit unseren Kunden und dem Markt mit. Genau diese Nähe möchte ich in der neuen Rolle nutzen, um bestehende Partnerschaften weiter auszubauen und neue Kunden für eology zu gewinnen.
 
