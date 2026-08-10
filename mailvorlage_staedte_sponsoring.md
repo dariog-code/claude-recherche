@@ -1,24 +1,22 @@
-# Mail-Vorlage Städte-Sponsoring (Thunderbird Mail Merge)
+# Erstkontakt-Mailvorlage Städte-Sponsoring (Thunderbird Mail Merge)
 
-> Platzhalter in doppelten geschweiften Klammern entsprechen den Spalten in `mailmerge_108.csv`.
-> Im Thunderbird-Mail-Merge-Add-on:
-> **An:** `{{Email}}` · **CC:** `{{Email_CC}}` (zweite Person, wo vorhanden) · **Betreff** und **Text** unten einfügen.
-> **Signatur NICHT einfügen** – sie ist bereits in Thunderbird hinterlegt.
+> NEUE Anfrage (Erstkontakt) für Städte, die wir noch NICHT angeschrieben haben.
+> Gleicher Stil wie die Nachfass: 1.000-€-Angebot, Freital-Referenz mit Link,
+> LinkedIn-Verifizierung — aber OHNE „vor einigen Tagen hatte ich geschrieben".
 >
-> Hinweis CC: 99 der 108 Zeilen haben eine zweite Kontaktperson in `{{Email_CC}}`.
-> Ist die Spalte leer, lässt Thunderbird das CC-Feld einfach frei.
+> Formatierung: jeder Absatz als EINE durchgehende Zeile (kein Zeilenumbruch im
+> Satz), Absätze durch EINE Leerzeile getrennt. Im Verfassen-Fenster HTML-Modus
+> (Optionen → Format → „Nur HTML"), dann bricht Thunderbird sauber um und der
+> Link ist klickbar.
+>
+> **An:** `{{Email}}` · **CC:** `{{Email_CC}}` · Signatur aus Thunderbird.
 
 ---
 
 ## Betreff
 
 ```
-Sponsoring-Kooperation mit {{Stadt}} – wir möchten Sie unterstützen
-```
-
-*(Alternative Betreffzeile:)*
-```
-{{Stadt}}: Anfrage zur Partnerschaft auf Ihrer Sponsorenseite
+Sponsoring-Kooperation mit {{Stadt}}
 ```
 
 ---
@@ -28,33 +26,26 @@ Sponsoring-Kooperation mit {{Stadt}} – wir möchten Sie unterstützen
 ```
 {{Anrede}}
 
-wir sind auf {{Stadt}} aufmerksam geworden – insbesondere auf die Seite, auf der
-Sie Ihre Sponsoren und Partner vorstellen ({{Sponsorenseite}}).
+wir sind auf {{Stadt}} aufmerksam geworden – insbesondere auf Ihre Sponsoren-/Partnerseite ({{Sponsorenseite}}).
 
-Genau hier möchten wir anknüpfen: Wir unterstützen regelmäßig Städte, Gemeinden
-und ihre Veranstaltungen, Vereine und Projekte als Sponsor. Dabei geht es uns um
-eine partnerschaftliche, regionale Zusammenarbeit – sei es bei Stadtfesten,
-Sport- und Kulturveranstaltungen, ehrenamtlichen Initiativen oder Aktionen wie
-dem Stadtradeln.
+Wir würden {{Stadt}} gern als Sponsor unterstützen und im Gegenzug – wie Ihre übrigen Partner – mit einem kurzen Eintrag (Name und Logo, idealerweise mit Verlinkung) auf Ihrer Sponsoren-/Partnerseite genannt werden.
 
-Wir würden {{Stadt}} gern als Sponsor unterstützen und freuen uns, wenn wir im
-Gegenzug – wie Ihre übrigen Partner – mit einem kurzen Eintrag (Name und Logo,
-idealerweise mit Verlinkung) auf Ihrer Sponsoren-/Partnerseite genannt werden.
+Können Sie mir kurz sagen, welche Möglichkeiten es bei Ihnen gibt und wer der richtige Ansprechpartner ist? Diese Anfrage ist ernst gemeint! Es geht um 1.000,00 Euro pro Kunde für Events oder Anschaffungen eurer Wahl. Für Ideen von eurer Seite bin ich sehr offen.
 
-Können Sie mir sagen, welche Sponsoring-Möglichkeiten es bei Ihnen aktuell gibt
-und wer dafür der richtige Ansprechpartner ist? Über eine kurze Rückmeldung
-freue ich mich sehr.
+Die Stadt Freital hat unter „Kooperationspartner" jetzt zwei unserer Kunden aufgelistet (https://www.freital.de/Kultur-Tourismus/Feste-Veranstaltungen/Freital-sucht-den-Schlagerstar-2025/Die-Sponsoren/). Wir würden uns freuen, wenn das auch bei euch möglich ist.
+
+Prüfen Sie die Echtheit gern über mein LinkedIn-Profil: linkedin.com/in/mario-strack-head-of-content-outreach
 
 Herzliche Grüße
+Mario Strack
 ```
 
 ---
 
-## Hinweise zur Personalisierung
+## Platzhalter
+`{{Anrede}}`, `{{Stadt}}`, `{{Sponsorenseite}}`, `{{Email}}`, `{{Email_CC}}`.
 
-- **`{{Anrede}}`**: ist je Zeile vorbefüllt – persönlich („Sehr geehrte Frau …")
-  wo ein Ansprechpartner bekannt ist, sonst „Sehr geehrte Damen und Herren,".
-- **`{{Stadt}}`** und **`{{Sponsorenseite}}`**: aus der CSV, machen die Mail
-  konkret und nachweisbar relevant (kein Massen-Eindruck).
-- Optional kannst du einen Satz zur konkreten Sponsoring-Leistung ergänzen
-  (Betrag, Sachpreis, Aktion) – das erhöht die Antwortquote deutlich.
+## Hinweise
+- Für die letzte offene Welle: Datenquelle `mailmerge_welle_final.csv` (41 Städte).
+- Mailchimp: max. 60 Mails/Stunde. Pause im Mail-Merge-Add-on kann kurz stehen (3–5 Sek.).
+- Nachfass-Version (für später) steht in `mailvorlage_staedte_nachfass.md`.
