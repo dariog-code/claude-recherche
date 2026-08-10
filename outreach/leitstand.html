@@ -1,0 +1,219 @@
+<title>Städte-Sponsoring — Leitstand</title>
+<style>
+  :root{
+    --bg:#eaeef2; --surface:#ffffff; --surface-2:#f4f7f9; --ink:#17212b; --muted:#5c6a77;
+    --border:#d6dde4; --accent:#1f6f8b; --accent-ink:#ffffff;
+    --good:#1c8f5a; --good-bg:#e2f2ea; --warn:#a9720f; --warn-bg:#f6ecd7; --bad:#c2404d; --bad-bg:#f7e2e4;
+    --info:#2a6db0; --info-bg:#e3eefa;
+    --shadow:0 1px 2px rgba(20,30,40,.06),0 6px 20px rgba(20,30,40,.05);
+    --mono:ui-monospace,"SFMono-Regular",Menlo,Consolas,monospace;
+    --sans:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){ --bg:#0e141a; --surface:#161f28; --surface-2:#1b2732; --ink:#e7edf2; --muted:#93a1ad;
+      --border:#263441; --accent:#4bb3c9; --accent-ink:#08131a;
+      --good:#43c489; --good-bg:#13291f; --warn:#e0a63a; --warn-bg:#2c2312; --bad:#e2717c; --bad-bg:#2e181b;
+      --info:#6aa7e6; --info-bg:#132133;
+      --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.35);}
+  }
+  :root[data-theme="dark"]{ --bg:#0e141a; --surface:#161f28; --surface-2:#1b2732; --ink:#e7edf2; --muted:#93a1ad;
+    --border:#263441; --accent:#4bb3c9; --accent-ink:#08131a; --good:#43c489; --good-bg:#13291f; --warn:#e0a63a;
+    --warn-bg:#2c2312; --bad:#e2717c; --bad-bg:#2e181b; --info:#6aa7e6; --info-bg:#132133;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.35);}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.5;font-size:15px;-webkit-font-smoothing:antialiased;}
+  .wrap{max-width:760px;margin:0 auto;padding:20px 16px 48px;display:flex;flex-direction:column;gap:16px;}
+  header.top{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 14px;border-bottom:2px solid var(--ink);padding-bottom:12px;}
+  header.top h1{font-size:22px;margin:0;font-weight:700;letter-spacing:-.01em;}
+  header.top .date{font-family:var(--mono);color:var(--muted);font-size:13px;margin-left:auto;}
+  .chip{display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:600;padding:3px 9px;border-radius:999px;border:1px solid var(--border);background:var(--surface-2);}
+  .chip.limit{color:var(--warn);border-color:color-mix(in srgb,var(--warn) 40%,var(--border));background:var(--warn-bg);}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:12px;box-shadow:var(--shadow);padding:16px;}
+  .card > h2{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 12px;font-weight:700;}
+  .today{background:linear-gradient(180deg,var(--surface),var(--surface-2));border-color:color-mix(in srgb,var(--accent) 30%,var(--border));}
+  .today .head{display:flex;align-items:center;gap:10px;margin-bottom:12px;}
+  .today .head .tag{background:var(--accent);color:var(--accent-ink);font-weight:700;font-size:12px;letter-spacing:.04em;padding:3px 10px;border-radius:6px;}
+  .today .head h2{margin:0;font-size:16px;letter-spacing:0;text-transform:none;color:var(--ink);}
+  .blocks{display:grid;grid-template-columns:1fr 1fr;gap:12px;}
+  .block{border:1px solid var(--border);border-radius:10px;padding:12px;background:var(--surface);display:flex;flex-direction:column;gap:6px;}
+  .block .n{font-family:var(--mono);font-size:30px;font-weight:700;line-height:1;font-variant-numeric:tabular-nums;}
+  .block .lbl{font-weight:700;font-size:14px;}
+  .block .sub{color:var(--muted);font-size:12.5px;}
+  .block .hour{margin-top:2px;font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--accent);}
+  .today .foot{margin-top:12px;font-size:13px;color:var(--muted);display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px;}
+  .today .foot b{color:var(--ink);font-variant-numeric:tabular-nums;}
+  .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;}
+  .kpi{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:12px;text-align:left;box-shadow:var(--shadow);}
+  .kpi .v{font-family:var(--mono);font-size:26px;font-weight:700;font-variant-numeric:tabular-nums;line-height:1;}
+  .kpi .k{font-size:11.5px;color:var(--muted);margin-top:6px;letter-spacing:.02em;}
+  .kpi.good .v{color:var(--good)} .kpi.warn .v{color:var(--warn)} .kpi.bad .v{color:var(--bad)}
+  table{width:100%;border-collapse:collapse;font-size:13.5px;}
+  th,td{text-align:left;padding:8px 6px;border-bottom:1px solid var(--border);vertical-align:top;}
+  th{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:700;}
+  td.num,th.num{font-family:var(--mono);text-align:right;font-variant-numeric:tabular-nums;}
+  tr:last-child td{border-bottom:none;}
+  .pill{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;white-space:nowrap;}
+  .pill.good{color:var(--good);background:var(--good-bg)} .pill.warn{color:var(--warn);background:var(--warn-bg)}
+  .pill.bad{color:var(--bad);background:var(--bad-bg)} .pill.info{color:var(--info);background:var(--info-bg)}
+  .pill.done{color:var(--muted);background:var(--surface-2);border:1px solid var(--border)}
+  ol.steps{list-style:none;counter-reset:s;margin:0;padding:0;display:flex;flex-direction:column;gap:12px;}
+  ol.steps li{counter-increment:s;display:grid;grid-template-columns:26px 1fr;gap:11px;align-items:start;}
+  ol.steps li::before{content:counter(s);font-family:var(--mono);font-weight:700;font-size:13px;color:var(--accent-ink);background:var(--accent);width:24px;height:24px;border-radius:6px;display:grid;place-items:center;}
+  ol.steps li .s-t{font-weight:600;}
+  ol.steps li .s-d{color:var(--muted);font-size:13px;margin-top:2px;}
+  code{font-family:var(--mono);font-size:12.5px;background:var(--surface-2);border:1px solid var(--border);border-radius:5px;padding:1px 5px;color:var(--ink);}
+  .fields{display:flex;flex-direction:column;gap:6px;margin-top:4px;}
+  .fields .row{display:grid;grid-template-columns:96px 1fr;gap:8px;align-items:center;font-size:13px;}
+  .fields .row .lab{color:var(--muted);font-weight:600;}
+  ul.notes{margin:10px 0 0;padding-left:18px;color:var(--muted);font-size:13px;display:flex;flex-direction:column;gap:4px;}
+  ul.notes b{color:var(--ink);}
+  .cols{display:grid;grid-template-columns:1fr;gap:16px;}
+  @media(min-width:680px){.cols{grid-template-columns:1fr 1fr;}}
+  .mail{white-space:pre-wrap;font-size:13px;line-height:1.6;background:var(--surface-2);border:1px solid var(--border);border-radius:10px;padding:14px;color:var(--ink);}
+  .mail .ph{color:var(--accent);font-family:var(--mono);font-size:12px;}
+  .foot-note{color:var(--muted);font-size:12px;text-align:center;}
+  a{color:var(--accent);word-break:break-word;}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <h1>Städte-Sponsoring · Leitstand</h1>
+    <span class="chip limit">Mailchimp: max. 60 / Stunde</span>
+    <span class="date">Stand 28.07.2026</span>
+  </header>
+
+  <!-- HEUTE -->
+  <section class="card today">
+    <div class="head"><span class="tag">VERSAND</span><h2>Stand &amp; letzte offene Welle</h2></div>
+    <div class="blocks">
+      <div class="block" style="opacity:.8">
+        <span class="n" style="color:var(--good)">✓</span>
+        <span class="lbl">Welle 1–3 <span class="pill good" style="vertical-align:middle">versendet</span></span>
+        <span class="sub">W1 komplett (Erstkontakt + Nachfass) · W2/W3 Block 1 + Korrektur (13)</span>
+        <span class="hour" style="color:var(--good)">Rückmeldungen kommen rein</span>
+      </div>
+      <div class="block" style="border-color:color-mix(in srgb,var(--accent) 45%,var(--border));border-width:2px">
+        <span class="n">41</span>
+        <span class="lbl">Letzte offene Welle <span class="pill info" style="vertical-align:middle">jetzt senden</span></span>
+        <span class="sub">24× W2 + 17× W3 · <code>mailmerge_welle_final.csv</code></span>
+        <span class="hour">1 Mailchimp-Block →</span>
+      </div>
+    </div>
+    <div class="foot">
+      <span><b>41</b> noch zu senden · alle mit echter Sponsorenseite (0 leer)</span>
+      <span>keine 11 Dubletten (bereits versendete entfernt)</span>
+    </div>
+  </section>
+
+  <!-- KPIs -->
+  <section class="kpis">
+    <div class="kpi good"><div class="v">4</div><div class="k">Zusagen</div></div>
+    <div class="kpi warn"><div class="v">21</div><div class="k">Interesse</div></div>
+    <div class="kpi bad"><div class="v">4</div><div class="k">Absage</div></div>
+    <div class="kpi"><div class="v">2</div><div class="k">Rückfrage · 2 in Bearbeitung</div></div>
+  </section>
+
+  <!-- ZUSAGEN -->
+  <section class="card">
+    <h2>Zusagen (4) — Umsetzung</h2>
+    <div style="overflow-x:auto">
+    <table>
+      <thead><tr><th>Stadt</th><th>Kontakt</th><th>Offener Punkt</th></tr></thead>
+      <tbody>
+        <tr><td><b>Freital</b></td><td>—</td><td>Logo/Verlinkung platzieren (1 Jahr, 2 Kunden gelistet)</td></tr>
+        <tr><td><b>Plauen</b></td><td>L. Krämer (Büro OB)</td><td>Kultursommer 2027: Kunden + Ziel-URLs liefern (ab 1.000 €)</td></tr>
+        <tr><td><b>Sondershausen</b></td><td>A. Wiegand</td><td>Bedingungen/Konditionen klären</td></tr>
+        <tr><td><b>Straubing</b></td><td>M. Burmberger</td><td>Konditionen/Logo/Verlinkung finalisieren</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <!-- WELLEN + WIEDERVORLAGEN -->
+  <div class="cols">
+    <section class="card">
+      <h2>Wellen-Status</h2>
+      <div style="overflow-x:auto">
+      <table>
+        <thead><tr><th>Welle</th><th class="num">Städte</th><th>Erstkontakt</th></tr></thead>
+        <tbody>
+          <tr><td><b>1</b></td><td class="num">108</td><td><span class="pill done">versendet + Nachfass</span></td></tr>
+          <tr><td><b>2</b></td><td class="num">64</td><td><span class="pill done">40 versendet</span> <span class="pill info">24 offen</span></td></tr>
+          <tr><td><b>3</b></td><td class="num">37</td><td><span class="pill done">20 versendet</span> <span class="pill info">17 offen</span></td></tr>
+        </tbody>
+      </table>
+      </div>
+      <ul class="notes">
+        <li><b>Korrektur-Neuversand (13):</b> versendet 28.07.</li>
+        <li><b>Aus Versand genommen:</b> Crimmitschau, Selm (keine echte Sponsorenseite).</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Wiedervorlagen</h2>
+      <div style="overflow-x:auto">
+      <table>
+        <tbody>
+          <tr><td>Bad Kissingen</td><td><span class="pill info">ab KW 35</span></td></tr>
+          <tr><td>Gevelsberg</td><td><span class="pill info">~08.09.</span></td></tr>
+          <tr><td>Limburg · Landau</td><td><span class="pill info">bespricht intern</span></td></tr>
+          <tr><td>Regensburg · Osterode</td><td><span class="pill info">2027</span></td></tr>
+          <tr><td>Bocholt · Sömmerda</td><td><span class="pill warn">Rückfrage</span></td></tr>
+        </tbody>
+      </table>
+      </div>
+    </section>
+  </div>
+
+  <!-- MAIL MERGE -->
+  <section class="card">
+    <h2>Mail Merge — Ablauf</h2>
+    <ol class="steps">
+      <li><div><div class="s-t">HTML-Modus wählen</div><div class="s-d">Verfassen → Optionen → Format → „Nur HTML" (verhindert zerhackte Zeilen).</div></div></li>
+      <li><div><div class="s-t">Felder &amp; Text setzen</div>
+        <div class="fields">
+          <div class="row"><span class="lab">An</span><code>{{Email}}</code></div>
+          <div class="row"><span class="lab">Kopie&nbsp;(CC)</span><code>{{Email_CC}}</code></div>
+          <div class="row"><span class="lab">Betreff</span><code>Nachfrage: Sponsoring-Kooperation mit {{Stadt}}</code></div>
+        </div>
+        <div class="s-d" style="margin-top:6px">Text unten einfügen. Signatur bleibt automatisch — nicht doppelt.</div></div></li>
+      <li><div><div class="s-t">Datei → Mail Merge</div>
+        <div class="fields" style="margin-top:2px">
+          <div class="row"><span class="lab">Quelle</span><span>CSV → <code>mailmerge_welle_final.csv</code></span></div>
+          <div class="row"><span class="lab">Zeichensatz</span><code>UTF-8</code></div>
+          <div class="row"><span class="lab">Trennzeichen</span><code>,</code> (Komma)</div>
+          <div class="row"><span class="lab">Sendemodus</span><code>Send Later</code></div>
+        </div></div></li>
+      <li><div><div class="s-t">Prüfen &amp; senden</div><div class="s-d">Postausgang: erst Testzeile an dich prüfen → dann senden. <b>Max. 60 / Stunde.</b></div></div></li>
+    </ol>
+  </section>
+
+  <!-- AKTUELLE MAILVORLAGE -->
+  <section class="card">
+    <h2>Aktuelle Mailvorlage — Erstkontakt (41er-Welle)</h2>
+    <div class="fields" style="margin-bottom:10px">
+      <div class="row"><span class="lab">Betreff</span><code>Sponsoring-Kooperation mit {{Stadt}}</code></div>
+    </div>
+    <div class="mail"><span class="ph">{{Anrede}}</span>
+
+wir sind auf <span class="ph">{{Stadt}}</span> aufmerksam geworden – insbesondere auf Ihre Sponsoren-/Partnerseite (<span class="ph">{{Sponsorenseite}}</span>).
+
+Wir würden <span class="ph">{{Stadt}}</span> gern als Sponsor unterstützen und im Gegenzug – wie Ihre übrigen Partner – mit einem kurzen Eintrag (Name und Logo, idealerweise mit Verlinkung) auf Ihrer Sponsoren-/Partnerseite genannt werden.
+
+Können Sie mir kurz sagen, welche Möglichkeiten es bei Ihnen gibt und wer der richtige Ansprechpartner ist? Diese Anfrage ist ernst gemeint! Es geht um 1.000,00 Euro pro Kunde für Events oder Anschaffungen eurer Wahl. Für Ideen von eurer Seite bin ich sehr offen.
+
+Die Stadt Freital hat unter „Kooperationspartner" jetzt zwei unserer Kunden aufgelistet (https://www.freital.de/Kultur-Tourismus/Feste-Veranstaltungen/Freital-sucht-den-Schlagerstar-2025/Die-Sponsoren/). Wir würden uns freuen, wenn das auch bei euch möglich ist.
+
+Prüfen Sie die Echtheit gern über mein LinkedIn-Profil: linkedin.com/in/mario-strack-head-of-content-outreach
+
+Herzliche Grüße
+Mario Strack</div>
+    <ul class="notes">
+      <li><b>Erstkontakt</b> (kein „vor einigen Tagen …") · Datei <code>mailvorlage_staedte_sponsoring.md</code>.</li>
+      <li><b>LinkedIn-Verifizierung</b> und <b>Freital-Referenz + Link</b> sind Vertrauensanker — drin lassen.</li>
+      <li>Absätze als durchgehende Zeilen (kein Hard-Wrap); Link im HTML-Modus klickbar machen.</li>
+    </ul>
+  </section>
+
+  <p class="foot-note">Master: <code>outreach/master_tracking.csv</code> · Regeln: <code>outreach/WORKFLOW.md</code></p>
+</div>

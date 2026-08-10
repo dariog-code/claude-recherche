@@ -49,7 +49,7 @@ Städte) und dient als **dauerhafte Master-Dokumentation**. Wir arbeiten in
 ## Leitstand-Artifact (IMMER aktuell halten)
 
 - Rechte-Panel-Übersicht (Status + Mail-Merge-Ablauf): **https://claude.ai/code/artifact/b020bfad-75b7-4e0c-ad2c-6e68a8d26fdb**
-- Quelle: `scratchpad/uebersicht.html`. **Bei jeder Aktion** (Versand markiert, neue Rückmeldung, neue Welle, Nachfass) aktualisieren und unter **derselben URL** neu publizieren (`url`-Param, damit der Link stabil bleibt).
+- Quelle liegt IM REPO: `outreach/leitstand.html` (überlebt Umgebungs-Resets). Bei jeder Aktion diese Datei aktualisieren, nach `scratchpad/uebersicht.html` kopieren und unter derselben Artifact-URL republizieren. **Bei jeder Aktion** (Versand markiert, neue Rückmeldung, neue Welle, Nachfass) aktualisieren und unter **derselben URL** neu publizieren (`url`-Param, damit der Link stabil bleibt).
 - Inhalt: „Heute"-Versandplan (Blöcke), KPIs, Wellen-Status, Rückmeldungen, Mail-Merge-Ablauf.
 
 ## Regel: Dateien immer ausspielen
