@@ -57,11 +57,15 @@ Städte) und dient als **dauerhafte Master-Dokumentation**. Wir arbeiten in
 - Jede gelieferte Liste/Vorlage **immer als Datei** an den Nutzer senden (nicht nur beschreiben).
 
 
-## Aktive Mailvorlage
+## Aktive Mailvorlagen (2 Versionen, gleicher Stil)
 
-- **Immer diese aktuelle Version nehmen:** `../mailvorlage_staedte_nachfass.md`
-  (enthält 1.000-€-Angebot, Freital-Referenz **mit freital.de-Link** zur Kooperationspartner-Seite, LinkedIn-Profil).
-- Absätze als durchgehende Zeilen (kein Hard-Wrap); im HTML-Modus verfassen.
+Beide enthalten: 1.000-€-Angebot, Freital-Referenz **mit freital.de-Link**, LinkedIn-Verifizierung.
+Absätze als durchgehende Zeilen (kein Hard-Wrap); im HTML-Modus verfassen.
+
+- **Erstkontakt (NEUE Städte):** `../mailvorlage_staedte_sponsoring.md`
+  Betreff „Sponsoring-Kooperation mit {{Stadt}}"; startet „wir sind auf {{Stadt}} aufmerksam geworden …".
+- **Nachfass (Städte ohne Antwort):** `../mailvorlage_staedte_nachfass.md`
+  Betreff „Nachfrage: …"; startet „vor einigen Tagen hatte ich geschrieben …".
 
 ## QA-Regel (IMMER prüfen)
 
